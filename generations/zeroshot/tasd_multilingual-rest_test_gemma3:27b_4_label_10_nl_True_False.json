@@ -1,0 +1,8967 @@
+[
+  {
+    "pred_label": [
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "menu",
+        "food style_options",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "menu",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Wagyu runderen",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "Mangalica varkens",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food style_options",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ],
+      [
+        "locatie",
+        "location general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ],
+      [
+        "locatie",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "prijs",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Bediening",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Bediening",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "water",
+        "drinks prices",
+        "negative"
+      ],
+      [
+        "brood",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "wijnkaart",
+        "drinks style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "wijnkaart",
+        "drinks style_options",
+        "negative"
+      ],
+      [
+        "wijnen per glas",
+        "drinks quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "wijnen",
+        "drinks style_options",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Eten",
+        "food quality",
+        "negative"
+      ],
+      [
+        "hapje",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hapje",
+        "food quality",
+        "negative"
+      ],
+      [
+        "Eten",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "voorgerecht",
+        "food quality",
+        "negative"
+      ],
+      [
+        "pijlinktvis",
+        "food quality",
+        "negative"
+      ],
+      [
+        "beslag",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "gefrituurde pijlinktvis",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gamba",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "tom .saus",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Wildvang gamba",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "tom .saus",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "dorade in zoutkorst",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "dorade in zoutkorst",
+        "food quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "kaart",
+        "drinks style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Lamsossobuco",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "reputatie",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "verhouding",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "neutral"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "neutral"
+      ],
+      [
+        "personeel",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sfeer",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bistro",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "menu",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "prijs",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Royal all inclusief menu",
+        "food prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "steak Rossini",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "steak Rossini",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "kwaliteit",
+        "food quality",
+        "negative"
+      ],
+      [
+        "gezelligheid",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "laagdrempeligheid",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "bistrokeuken",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "zaak",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "zaak",
+        "ambience general",
+        "neutral"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "kaart",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ],
+      [
+        "kaart",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "interieur",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "retro-interieur",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "Bediening",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Teaser",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Teaser",
+        "drinks quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "prijs /kwaliteit",
+        "restaurant prices",
+        "positive"
+      ],
+      [
+        "sfeer",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "sfeer",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gerechten",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "gerechten",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "gerechten",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "concept",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ],
+      [
+        "concept",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "zaak",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "topniveau",
+        "food quality",
+        "positive"
+      ],
+      [
+        "eerlijke prijs",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gerecht",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "gerecht",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "humor",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Interieur",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "sfeer",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "sfeer",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "Interieur",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "volle prijs",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "porties",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "eten",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "porties",
+        "food style_options",
+        "neutral"
+      ],
+      [
+        "eten",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gerechten",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ],
+      [
+        "gerechten",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ],
+      [
+        "portie",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "portie",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food prices",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "vlees /kip /scampi",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "soepkommetje",
+        "food quality",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rijst",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Eten",
+        "food quality",
+        "positive"
+      ],
+      [
+        "bier",
+        "drinks quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bier",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "Eten",
+        "food prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "ontbijt",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "ontbijt",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "ontbijt",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Prijs",
+        "restaurant prices",
+        "positive"
+      ],
+      [
+        "kwaliteit",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "personeel",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sfeer",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "sfeer",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gastvrij personeel",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "personeel",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "kwaliteit",
+        "food quality",
+        "positive"
+      ],
+      [
+        "bord",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "borden",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "kwaliteit",
+        "food quality",
+        "positive"
+      ],
+      [
+        "porties",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "thaische keuken",
+        "food quality",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "sfeer",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "sfeer",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "thaische keuken",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "aperitiefje",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "gerechten",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "gerechten",
+        "food quality",
+        "positive"
+      ],
+      [
+        "tuin",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "zeevruchtensalade",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "zeevruchtensalade",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gerechtjes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "gerechtjes",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "kader",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "kader",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "interieur",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "interieur",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "prijzig",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "personeel",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ],
+      [
+        "personeel",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "soepje met groenten",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "soepje met groenten",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "drinken",
+        "drinks prices",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "kruiding",
+        "food quality",
+        "negative"
+      ],
+      [
+        "smaak",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "indier",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "uitbater",
+        "service general",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "frietjes",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "frietjes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurantgedeelte",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "frituur",
+        "food quality",
+        "positive"
+      ],
+      [
+        "frieten",
+        "food prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "frieten",
+        "food prices",
+        "positive"
+      ],
+      [
+        "frituur",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "positive"
+      ],
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "service",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "afzuigsysteem",
+        "restaurant miscellaneous",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Marmiet",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gerechten",
+        "food quality",
+        "positive"
+      ],
+      [
+        "prijzen",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "gerechten",
+        "food prices",
+        "positive"
+      ],
+      [
+        "gerechten",
+        "food quality",
+        "positive"
+      ],
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "vooraf",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "tapas",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gastvrouw",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "gastvrouw",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "kaart",
+        "food style_options",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "kaart",
+        "food style_options",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gerechten",
+        "food quality",
+        "positive"
+      ],
+      [
+        "wijnadvies",
+        "drinks style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "gastvrouw",
+        "service general",
+        "positive"
+      ],
+      [
+        "gerechten",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "gerechten",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Sfeer",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Sfeer",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gegeten",
+        "food quality",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "aardappelen",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "aardappelen in de schil",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "kaasfondue",
+        "food quality",
+        "positive"
+      ],
+      [
+        "rook",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "fondue",
+        "food quality",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "fondue",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Scampi",
+        "food quality",
+        "negative"
+      ],
+      [
+        "saus",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Scampi",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "saus",
+        "food quality",
+        "negative"
+      ],
+      [
+        "vlees",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Steak bearnaise",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Frietjes",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Frietjes",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "stoofpotjes van kabeljauw",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "stoofpotjes van kabeljauw",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Personeel",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Personeel",
+        "service general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "betaald",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "frituur",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "terras",
+        "location general",
+        "positive"
+      ],
+      [
+        "ligging",
+        "location general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "terras",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "ligging",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "negative"
+      ],
+      [
+        "keuken",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "keuken",
+        "service general",
+        "negative"
+      ],
+      [
+        "bediening",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "salade nicoise",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "salade nicoise",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "zaak",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "zaak",
+        "restaurant prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "oesters",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "platte oesters",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "stukken vlees",
+        "food quality",
+        "positive"
+      ],
+      [
+        "entrecote",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "steak",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "filet pur",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "garnaalkroketjes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "stoofvlees",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "vlees",
+        "food quality",
+        "positive"
+      ],
+      [
+        "restaurant",
+        "food quality",
+        "positive"
+      ],
+      [
+        "garnaalkroketjes",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "interieur",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "kreeften",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "kwaliteitskreeften",
+        "food quality",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "onthaal",
+        "service general",
+        "positive"
+      ],
+      [
+        "inkom",
+        "ambience general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "kreeft",
+        "food quality",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "kreeftjes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "restaurant",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "kreeftenrestaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "kreeftenrestaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Kreeft",
+        "food quality",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Kreeft",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "site",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "ambience general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cateraar",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "menu",
+        "food style_options",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "menuutje",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "keuken",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "keuken",
+        "food quality",
+        "negative"
+      ],
+      [
+        "keuken",
+        "food prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "obers",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "interieur",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "hotelsfeer",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "interieur",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "gerechten",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "ambience general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Tafel",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Aperitief Hugo",
+        "drinks quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Aperitief Hugo",
+        "drinks style_options",
+        "positive"
+      ],
+      [
+        "Aperitief Hugo",
+        "drinks quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Het laatste",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rundstartaar",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Hapje",
+        "food style_options",
+        "neutral"
+      ],
+      [
+        "Hapje",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Voorgerecht",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Voorgerecht",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "eend",
+        "food quality",
+        "negative"
+      ],
+      [
+        "saus",
+        "food quality",
+        "positive"
+      ],
+      [
+        "aardappeltjes",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "saus",
+        "food quality",
+        "positive"
+      ],
+      [
+        "aardappeltjes",
+        "food quality",
+        "negative"
+      ],
+      [
+        "Hoofdgerecht",
+        "food quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Dessert",
+        "food quality",
+        "negative"
+      ],
+      [
+        "chocolade",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Dessert",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ],
+      [
+        "Dessert",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "prijs /kwaliteit",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pizza",
+        "food quality",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "personeel",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "personeel",
+        "service general",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "pizza 's",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "uiterlijk",
+        "ambience general",
+        "neutral"
+      ],
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ],
+      [
+        "restaurant",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pizza",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Kaart",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Bediening",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Bediening",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "ijs",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "ijs",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "ijs",
+        "food quality",
+        "positive"
+      ],
+      [
+        "Decadenza",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "ijs",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "prijs",
+        "restaurant prices",
+        "positive"
+      ],
+      [
+        "kwaliteit",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Bediening",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Bediening",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "kaart",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "kaart",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ],
+      [
+        "dessert",
+        "food style_options",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "muziek",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "muziek",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "nl bankpas",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "creditcard",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Heerlijk gegeten",
+        "food quality",
+        "positive"
+      ],
+      [
+        "schappelijke prijs",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food prices",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hammetje in mosterdsaus",
+        "food quality",
+        "positive"
+      ],
+      [
+        "salade",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hammetje in mosterdsaus",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "chocolademousse",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "chocolademousse",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "tongreepjes",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "tongreepjes",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "tongreepjes",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "wijn",
+        "drinks prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "wijn",
+        "drinks quality",
+        "negative"
+      ],
+      [
+        "wijn",
+        "drinks style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gerechten",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "Italiaanse gerechten",
+        "food general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Bediening",
+        "service general",
+        "neutral"
+      ],
+      [
+        "interieur",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "interieur",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "Bediening",
+        "service general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Eten",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Eten",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Vispannetje",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Vispannetje",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "prijs",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food prices",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Borden",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Borden",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Stoofvlees",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Stoofvlees",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Frieten",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Frieten",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Prijs",
+        "restaurant prices",
+        "positive"
+      ],
+      [
+        "kwaliteit",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "chocolade mouse",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "chocolade mouse",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "water",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant Zeno",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant Zeno",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "amuses",
+        "food quality",
+        "positive"
+      ],
+      [
+        "lekkernijen bij de koffie",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Zeno",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "interieur",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "interieur",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Zeno",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Zeno",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "centrum",
+        "location general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "ambience general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "achtergrond muziek",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "dingetjes aan de wand",
+        "restaurant miscellaneous",
+        "positive"
+      ],
+      [
+        "stoelen",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "vrouw",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "vrouw",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "tafels",
+        "service general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "haar",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "smaak",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Vlaamse stoofschotel",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Vlaamse stoofschotel",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "friet",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Belgische friet",
+        "food quality",
+        "positive"
+      ],
+      [
+        "portie",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "huiswijn",
+        "drinks prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "huiswijn",
+        "drinks prices",
+        "positive"
+      ],
+      [
+        "huiswijn",
+        "drinks quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "neutral"
+      ],
+      [
+        "maaltijd",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "location general",
+        "neutral"
+      ],
+      [
+        "maaltijd",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "wijn",
+        "drinks quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "wijn",
+        "drinks quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "ribs",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "spareribs",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "vriendelijk",
+        "service general",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Personeel",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Nacho",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "portie",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "Nacho 's",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "vlees",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "vlees",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gebakjes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "brood met rozijnen",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "brood met rozijnen",
+        "food quality",
+        "positive"
+      ],
+      [
+        "gebakjes",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "patissier",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "patissier",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "patisserie",
+        "food quality",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food prices",
+        "positive"
+      ],
+      [
+        "patisserie",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Books en Brunch",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Books en Brunch",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "ontbijt",
+        "food quality",
+        "positive"
+      ],
+      [
+        "koffie",
+        "food quality",
+        "positive"
+      ],
+      [
+        "chocomelk",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "koffie en chocomelk",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "ontbijt",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "ontbijt",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gastdame",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "gastdame",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "concept",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "concept",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "boeken",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Books en Brunch",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Books & Brunch",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Books & Brunch",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "etablissement",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "etablissement",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "concept",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "concept",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sfeer",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "koffie",
+        "drinks quality",
+        "neutral"
+      ],
+      [
+        "thee",
+        "drinks quality",
+        "neutral"
+      ],
+      [
+        "lunch",
+        "food quality",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "sfeer",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gezelligheid",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "kalmte",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Mevrouw",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "thee",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "koffie",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "plek",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "thee of koffie",
+        "drinks quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Books & Brunch",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "ice tea",
+        "drinks style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "home-made ice tea",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "tentje",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "menu",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "menu",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sfeer",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "sfeer",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "viergangen menu",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "vegetarisch viergangen menu",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "amuse",
+        "food quality",
+        "positive"
+      ],
+      [
+        "tapenade van olijven",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "tapenade van olijven",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "brood met olijfolie",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "voorgerechtjes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "coeur de boeuf",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "voorgerechtjes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "voorgerechtje van coeur de boeuf",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "meloen",
+        "food style_options",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lasagne",
+        "food quality",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "veganistische lasagne",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gerecht",
+        "food quality",
+        "positive"
+      ],
+      [
+        "pesto van basilicum",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "gerecht",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "pesto van basilicum",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "chocolade mousse",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "vegan chocolade mousse",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "chocoladesmaak",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "chocoladesmaak",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "porties",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "chef",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "porties",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ],
+      [
+        "chef",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "terras",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "eten",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "zoiets",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Cola",
+        "drinks prices",
+        "negative"
+      ],
+      [
+        "bruggeling",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Cola",
+        "drinks prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Jupiler",
+        "drinks prices",
+        "neutral"
+      ],
+      [
+        "Witte wijn",
+        "drinks prices",
+        "neutral"
+      ],
+      [
+        "Koffie",
+        "drinks prices",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Jupiler",
+        "drinks prices",
+        "negative"
+      ],
+      [
+        "Witte wijn",
+        "drinks prices",
+        "negative"
+      ],
+      [
+        "Koffie",
+        "drinks prices",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "plaats",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gerechten",
+        "food quality",
+        "positive"
+      ],
+      [
+        "salades",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "kaart",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "vlees",
+        "food quality",
+        "positive"
+      ],
+      [
+        "groentjes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "sausjes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "frietjes",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "sausjes",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "frietjes",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "vlees",
+        "food quality",
+        "positive"
+      ],
+      [
+        "vlees",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "groentjes",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "soep",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "soep",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "vis",
+        "food quality",
+        "positive"
+      ],
+      [
+        "broccoli",
+        "food style_options",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "groente",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "vis",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "saus",
+        "food quality",
+        "negative"
+      ],
+      [
+        "kleding",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "excuses",
+        "service general",
+        "negative"
+      ],
+      [
+        "compensatie",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mcdonalds restaurant",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "mcdonalds restaurant",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "mcdonalds restaurant",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "zaak",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hamburger",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "prijskaart",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "prijskaart",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "zaak",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "zaak",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "wisselgeld",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "zwartharige lesbische ober",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "karnemelkstampers",
+        "food quality",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Menu",
+        "food prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Menu",
+        "food prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "trappen",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mensen",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "mensen",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Kaart",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "tafel",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "tafels",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "Kaart",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Eten",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Eten",
+        "food prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "kip",
+        "food quality",
+        "positive"
+      ],
+      [
+        "sla",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "frietjes",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "sla",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "kip",
+        "food quality",
+        "positive"
+      ],
+      [
+        "frietjes",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "afrekenen",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "onthaal",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "onthaal",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "prijs",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Menu",
+        "food prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Garnaalkroketjes",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Garnaalkroketjes",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "portie",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Halve kreeft",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lunchmenu",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lunchmenu",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "lunchmenu",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "porties",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "porties",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "keuze",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "kroket",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Garnaalkroket",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "olijven",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "olijven",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "ober",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "ober",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "ober",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "ober",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "eten",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "drinken",
+        "drinks style_options",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lodge",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "The lodge",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "ober",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "drukte",
+        "location general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hapje",
+        "food quality",
+        "positive"
+      ],
+      [
+        "salade met scampi",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "salade met scampi",
+        "food quality",
+        "positive"
+      ],
+      [
+        "hapje",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gegeten",
+        "food quality",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "smaakcombinaties",
+        "food quality",
+        "positive"
+      ],
+      [
+        "wijnen",
+        "drinks quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bijpassende wijnen",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "smaakcombinaties",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "keuken",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "keuken",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sfeer",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ],
+      [
+        "prijs-kwaliteit",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "eten",
+        "food general",
+        "positive"
+      ],
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ],
+      [
+        "eten",
+        "food prices",
+        "positive"
+      ],
+      [
+        "sfeer",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "ervaring",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "man",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "man",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "man",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "zaakje",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "zaakje",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "spaghetti",
+        "food quality",
+        "negative"
+      ],
+      [
+        "karafje wijn",
+        "drinks quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "karafje wijn",
+        "drinks quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "eigenares",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "eigenares",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "plekken",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "plekken",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "take-away",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "take-away",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pizzadeeg",
+        "food quality",
+        "positive"
+      ],
+      [
+        "topping",
+        "food quality",
+        "negative"
+      ],
+      [
+        "prijs",
+        "food prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food prices",
+        "negative"
+      ],
+      [
+        "topping",
+        "food quality",
+        "negative"
+      ],
+      [
+        "pizzadeeg",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pizza",
+        "food quality",
+        "negative"
+      ],
+      [
+        "smaak",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "pizza",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "prijzen",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "afhaalpizza",
+        "food prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "afhaalpizza",
+        "food prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "brunch",
+        "food quality",
+        "positive"
+      ],
+      [
+        "drank",
+        "drinks quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "drank",
+        "drinks style_options",
+        "neutral"
+      ],
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "eten",
+        "food style_options",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "refter",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "half en half",
+        "drinks quality",
+        "negative"
+      ],
+      [
+        "trappist",
+        "drinks style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "half en half",
+        "drinks style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "eten",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "borrelhapjes",
+        "drinks prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "borrelhapjes",
+        "food prices",
+        "negative"
+      ],
+      [
+        "eten",
+        "food quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "avond",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Gempemolen",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "soep",
+        "food quality",
+        "positive"
+      ],
+      [
+        "zwijnshaasje",
+        "food quality",
+        "positive"
+      ],
+      [
+        "groentjes",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "groentjes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "zwijnshaasje",
+        "food quality",
+        "positive"
+      ],
+      [
+        "groentjes",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "schotel",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "vegetarische schotel",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "dessert",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "dessert",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Brasserie",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Omgeving",
+        "location general",
+        "positive"
+      ],
+      [
+        "interieur",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "eten",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "eten",
+        "food quality",
+        "negative"
+      ],
+      [
+        "interieur",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "Omgeving",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gerechten",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ],
+      [
+        "gerechten",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Lieven en Iris",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "prijzen",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "neutral"
+      ],
+      [
+        "eten",
+        "food quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "frieten",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "frieten",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "schotel",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ],
+      [
+        "schotel",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "vers",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "personeel",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "eigenaar",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Le Kok",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "presentaties",
+        "food quality",
+        "positive"
+      ],
+      [
+        "smaken",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "chef",
+        "food quality",
+        "positive"
+      ],
+      [
+        "chef",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "interieur",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "interieur",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "verhouding",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gast vrouw",
+        "service general",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "gast vrouw",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "open keuken",
+        "restaurant miscellaneous",
+        "neutral"
+      ],
+      [
+        "kader",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Restaurant",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Mosselen",
+        "food quality",
+        "negative"
+      ],
+      [
+        "frietjes",
+        "food quality",
+        "negative"
+      ],
+      [
+        "mayo",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "mayo",
+        "food quality",
+        "negative"
+      ],
+      [
+        "chef",
+        "service general",
+        "negative"
+      ],
+      [
+        "mosselsaus",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "frietjes",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "chef",
+        "service general",
+        "negative"
+      ],
+      [
+        "mayo",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "ene",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant prices",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "garcon",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "garcon",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "baas",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "eten",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "dame",
+        "service general",
+        "neutral"
+      ],
+      [
+        "koffie",
+        "drinks quality",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "dame",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "personeel",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "personeel",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Eten",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Eten",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "frietjes",
+        "food quality",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "frietjes",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "restaurant",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "aperitief",
+        "drinks style_options",
+        "positive"
+      ],
+      [
+        "hapjes",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hapjes",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "hapjes",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "menu",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "menu",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "aangepaste wijn",
+        "drinks style_options",
+        "neutral"
+      ],
+      [
+        "prijs",
+        "restaurant prices",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "aangepaste wijn",
+        "drinks prices",
+        "positive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "avond",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "The Bistronomy",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "smaakcombinaties",
+        "food quality",
+        "positive"
+      ],
+      [
+        "bord",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "smaakcombinaties",
+        "food quality",
+        "positive"
+      ],
+      [
+        "smaakcombinaties",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "This",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "robot gastvrouw",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "robot gastvrouw",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bestelling",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "meisje",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "negative"
+      ],
+      [
+        "eten",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "eten",
+        "food quality",
+        "negative"
+      ],
+      [
+        "bediening",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "negative"
+      ],
+      [
+        "eten",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "eten",
+        "food quality",
+        "negative"
+      ],
+      [
+        "bediening",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "kwaliteit",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Chi-Chi 's Wemmel",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "personeel",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "personeel",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "personeel",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "tafel",
+        "location general",
+        "negative"
+      ],
+      [
+        "tafels",
+        "location general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bestelling",
+        "service general",
+        "negative"
+      ],
+      [
+        "personeel",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "personeel",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cocktail",
+        "drinks style_options",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "buffet",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "buffet",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "ALLES",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "personeel",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "personeel",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "voedsel",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "voedsel",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "het personeel",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "personeel",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "meisje",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "meisje",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "borden",
+        "restaurant miscellaneous",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "servetten",
+        "restaurant miscellaneous",
+        "negative"
+      ],
+      [
+        "kaarten",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "servetten",
+        "restaurant miscellaneous",
+        "negative"
+      ],
+      [
+        "kaarten",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gerechten",
+        "food quality",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "gerechten",
+        "food quality",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gastvrouw",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "gastvrouw",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "menukaarten",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "voor",
+        "food quality",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "voorgerecht",
+        "food quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "porties",
+        "food quality",
+        "negative"
+      ],
+      [
+        "vlees",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "vlees",
+        "food quality",
+        "negative"
+      ],
+      [
+        "porties",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "salade",
+        "food quality",
+        "negative"
+      ],
+      [
+        "friet",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "salade",
+        "food quality",
+        "negative"
+      ],
+      [
+        "frieten",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bediening",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bediening",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Leefe",
+        "drinks style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bladerdeegbakje",
+        "food quality",
+        "positive"
+      ],
+      [
+        "koninginnenhapje",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "gehakballetjes",
+        "food quality",
+        "negative"
+      ],
+      [
+        "saus",
+        "food quality",
+        "negative"
+      ],
+      [
+        "champignon",
+        "food quality",
+        "negative"
+      ],
+      [
+        "kip",
+        "food quality",
+        "negative"
+      ],
+      [
+        "friet",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rest",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "inrichting",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "bestek",
+        "restaurant miscellaneous",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "gerechten",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "gerechten",
+        "food quality",
+        "positive"
+      ],
+      [
+        "bediening",
+        "service general",
+        "positive"
+      ],
+      [
+        "bestek",
+        "restaurant miscellaneous",
+        "positive"
+      ],
+      [
+        "inrichting",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  }
+]

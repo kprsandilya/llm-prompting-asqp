@@ -1,0 +1,9 @@
+Volgens de volgende definitie van sentimentselementen:  
+
+- De 'aspectterm' is het exacte woord of de exacte uitdrukking in de tekst die een specifieke eigenschap, kenmerk of aspect van een product of dienst vertegenwoordigt waarover een gebruiker een mening kan uiten. De aspectterm kan 'NULL' zijn voor een impliciet aspect.  
+- De 'aspectcategorie' verwijst naar de categorie waartoe het aspect behoort, en de beschikbare categorieën omvatten: [[aspect_category]].  
+- De 'sentimentpolarisatie' verwijst naar de mate van positiviteit, negativiteit of neutraliteit die in de mening over een specifiek aspect of kenmerk van een product of dienst wordt uitgedrukt. De beschikbare polariteiten zijn: 'positive', 'negative' en 'neutral'.  
+
+Identificeer alle sentimentselementen met hun bijbehorende aspecttermen, aspectcategorieën en sentimentpolarisatie in de volgende tekst in het formaat [('aspectterm', 'aspectcategorie', 'sentimentpolarisatie'), ...].
+
+[[examples]]

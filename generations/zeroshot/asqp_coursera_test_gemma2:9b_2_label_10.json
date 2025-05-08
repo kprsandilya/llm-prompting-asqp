@@ -1,0 +1,8828 @@
+[
+  {
+    "pred_label": [
+      [
+        "you",
+        "faculty general",
+        "negative",
+        "In the future"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course value",
+        "negative",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Great course"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Course",
+        "course general",
+        "positive",
+        "opportunity"
+      ],
+      [
+        "Emily",
+        "faculty relatability",
+        "positive",
+        "valuable gift of sharing knowledge"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Thank you"
+      ],
+      [
+        "Professors Emily and Carlos",
+        "faculty general",
+        "positive",
+        "valuable gift of sharing knowledge for free"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Discussion forum",
+        "presentation comprehensiveness",
+        "negative",
+        "reply"
+      ],
+      [
+        "staff",
+        "faculty response",
+        "positive",
+        "well"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staffs",
+        "faculty response",
+        "positive",
+        "reply on Discussion forum as well"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bebop improvisation",
+        "assignments quality",
+        "positive",
+        "one of the best"
+      ],
+      [
+        "exercises",
+        "assignments quantity",
+        "positive",
+        "great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "content and the exercises",
+        "presentation quality",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "it is good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "challenging because it is good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course workload",
+        "negative",
+        "absolutely crushed trying to learn"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course workload",
+        "negative",
+        "absolutely crushed trying to learn and understand all this"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lectures",
+        "presentation comprehensiveness",
+        "positive",
+        "easy to follow"
+      ],
+      [
+        "points",
+        "assignments quantity",
+        "positive",
+        "explain all points very clearly"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lectures",
+        "presentation comprehensiveness",
+        "positive",
+        "easy to follow and explain all points very clearly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "this course",
+        "course general",
+        "positive",
+        "glad to have found"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "so glad"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive",
+        "would recommend"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "would recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "Really liked"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Really liked"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "information",
+        "material quality",
+        "positive",
+        "how our brain works !"
+      ],
+      [
+        "tricks",
+        "presentation quantity",
+        "positive",
+        "tips and tricks"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "short lectures",
+        "presentation quality",
+        "negative",
+        "loved"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "negative",
+        "rushed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "negative",
+        "all seems rushed and not rewarding"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "overcoming this situation"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "Thanks"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "good"
+      ],
+      [
+        "material",
+        "material comprehensiveness",
+        "negative",
+        "amount of material on last week"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "amount of material",
+        "material quantity",
+        "neutral",
+        "NULL"
+      ],
+      [
+        "course",
+        "course general",
+        "positive",
+        "highly recommended"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "material",
+        "material quantity",
+        "negative",
+        "More like that"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "material",
+        "material quality",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive",
+        "consider adding those to future"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "courses",
+        "course general",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "awesome"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "awesome"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "well put together"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "exceptionally well put together"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "project",
+        "assignments comprehensiveness",
+        "positive",
+        "gives you a largely complete"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "final assignment",
+        "assignments quality",
+        "negative",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "negative",
+        "Very poorly constructed"
+      ],
+      [
+        "final exam",
+        "assignments quality",
+        "negative",
+        "Very poorly constructed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "Just what I was looking for ."
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Just what I was looking for"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "assignments quantity",
+        "positive",
+        "plenty of time"
+      ],
+      [
+        "time",
+        "presentation relatability",
+        "positive",
+        "make it even better"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "project",
+        "assignments workload",
+        "positive",
+        "plenty of time to finish"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "enables those who take it without knowing anything about"
+      ],
+      [
+        "approach",
+        "assignments comprehensiveness",
+        "positive",
+        "those who have some knowledge"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "excellent"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "excellent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "on of the best ever MOOC",
+        "course general",
+        "positive",
+        "undoubtedly"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "MOOC",
+        "course general",
+        "positive",
+        "best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "assignment",
+        "assignments quality",
+        "negative",
+        "badly designed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "so much fun with learning"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "so much fun"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "very interesting"
+      ],
+      [
+        "course",
+        "course value",
+        "positive",
+        "highly recommend"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "very interesting"
+      ],
+      [
+        "course",
+        "course general",
+        "positive",
+        "highly recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course comprehensiveness",
+        "negative",
+        "only thing"
+      ],
+      [
+        "videos",
+        "presentation quantity",
+        "positive",
+        "incorporate"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "supplemental document",
+        "material quantity",
+        "neutral",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Great job"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Great job"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "challenge",
+        "assignments quality",
+        "negative",
+        "just the right amount"
+      ],
+      [
+        "fun",
+        "assignments quantity",
+        "positive",
+        "the right amount"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "class",
+        "presentation quality",
+        "positive",
+        "right amount of challenge and fun"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "multiple separate courses",
+        "assignments quantity",
+        "positive",
+        "recommend breaking"
+      ],
+      [
+        "depth",
+        "course comprehensiveness",
+        "positive",
+        "including"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course into multiple separate",
+        "course quality",
+        "neutral",
+        "recommend breaking"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "presentation comprehensiveness",
+        "negative",
+        "flesh"
+      ],
+      [
+        "bones",
+        "presentation comprehensiveness",
+        "positive",
+        "on the"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "negative",
+        "Would have preferred more flesh"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assignment",
+        "assignments quality",
+        "negative",
+        "quiz questions"
+      ],
+      [
+        "assignment",
+        "assignments quantity",
+        "negative",
+        "can only be answered if the"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "quiz questions",
+        "faculty response",
+        "neutral",
+        "only be answered if the assignment is completed correctly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "research",
+        "assignments comprehensiveness",
+        "positive",
+        "what kind of research"
+      ],
+      [
+        "process",
+        "presentation quantity",
+        "positive",
+        "writing"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assignment",
+        "assignments quality",
+        "negative",
+        "hardest"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Week 3 assignment",
+        "assignments comprehensiveness",
+        "negative",
+        "hardest"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "neutral",
+        "good course"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "assignments workload",
+        "positive",
+        "flexible"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive",
+        "very flexible"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flow",
+        "presentation quality",
+        "positive",
+        "easy to follow"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Ng",
+        "faculty comprehensiveness",
+        "positive",
+        "speaks clearly"
+      ],
+      [
+        "Ng",
+        "faculty comprehensiveness",
+        "positive",
+        "easy to follow"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "Very good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "Very good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "very interesting"
+      ],
+      [
+        "course",
+        "course workload",
+        "negative",
+        "stop listening"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "very interesting"
+      ],
+      [
+        "course",
+        "course quality",
+        "positive",
+        "plentiful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Top Quality"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "Top Quality"
+      ],
+      [
+        "Professor",
+        "faculty general",
+        "positive",
+        "Top Quality"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Professor",
+        "faculty response",
+        "positive",
+        "knows his job"
+      ],
+      [
+        "Professor",
+        "faculty response",
+        "positive",
+        "doing great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Professor",
+        "faculty general",
+        "positive",
+        "really knows his job"
+      ],
+      [
+        "Professor",
+        "faculty general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "well designed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "content",
+        "material quality",
+        "positive",
+        "well designed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "negative",
+        "would prefer for some quizzes"
+      ],
+      [
+        "quizzes",
+        "assignments quantity",
+        "negative",
+        "not to be locked"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course value",
+        "neutral",
+        "would prefer for some quizzes not to be locked"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "online teaching",
+        "course value",
+        "positive",
+        "miracle of quality"
+      ],
+      [
+        "Coursera",
+        "course comprehensiveness",
+        "positive",
+        "makes this"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "quality"
+      ],
+      [
+        "NULL",
+        "course value",
+        "positive",
+        "free"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "stuff",
+        "assignments comprehensiveness",
+        "negative",
+        "read documentation"
+      ],
+      [
+        "NULL",
+        "presentation quality",
+        "positive",
+        "worked it was rewarding"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "material comprehensiveness",
+        "negative",
+        "expect to read documentation if you get stuck"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "negative",
+        "could be arranged"
+      ],
+      [
+        "memorize",
+        "assignments quantity",
+        "positive",
+        "help"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course comprehensiveness",
+        "neutral",
+        "could be arranged in a more logical and coherent way"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Loved it",
+        "material quality",
+        "positive",
+        "throughout !"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Loved it throughout"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "projects",
+        "assignments comprehensiveness",
+        "positive",
+        "two great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "has two great projects"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "superb"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "superb"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "highly interesting"
+      ],
+      [
+        "course",
+        "course value",
+        "positive",
+        "extremely practical"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "negative",
+        "not just highly interesting"
+      ],
+      [
+        "course",
+        "course quality",
+        "positive",
+        "extremely practical"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "ride",
+        "presentation quantity",
+        "positive",
+        "thrilling ride"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "super course"
+      ],
+      [
+        "NULL",
+        "course value",
+        "positive",
+        "available at just the right time"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "super"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "negative",
+        "little more than a commercial"
+      ],
+      [
+        "social analytics programs",
+        "material quality",
+        "negative",
+        "various"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "little more than a commercial"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "developed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Dr . BArbara Oakley and Dr . Sejnowsky",
+        "faculty general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "course",
+        "course comprehensiveness",
+        "positive",
+        "NULL"
+      ],
+      [
+        "course",
+        "course general",
+        "positive",
+        "better"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive",
+        "enjoyed the course very much"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "enjoyed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "heart",
+        "faculty relatability",
+        "positive",
+        "straight from the heart"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "presentation quality",
+        "positive",
+        "wonderful and straight"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "negative",
+        "think the course should add"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "video",
+        "presentation quantity",
+        "neutral",
+        "should add"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "explained"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "this exciting field",
+        "course value",
+        "positive",
+        "introducing me to"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Thanks very much"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Thank you"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Thank you"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "faculty response",
+        "negative",
+        "never showed up to answer a single question"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "instructors",
+        "faculty response",
+        "negative",
+        "never showed up"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "presentation workload",
+        "negative",
+        "takes a bit more than 2"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "very detailed"
+      ],
+      [
+        "NULL",
+        "course workload",
+        "negative",
+        "takes a bit more than 2 - 3 hours per week"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "very very interesting"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "very very interesting"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Learned something new"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Learned something new almost everyday"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "translated",
+        "presentation comprehensiveness",
+        "negative",
+        "did not make sense"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "material comprehensiveness",
+        "negative",
+        "did not make sense"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "information he gives you"
+      ],
+      [
+        "games",
+        "assignments comprehensiveness",
+        "positive",
+        "making your own"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "faculty relatability",
+        "positive",
+        "it ' s really useful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Courses",
+        "course general",
+        "positive",
+        "Best"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Courses",
+        "course general",
+        "positive",
+        "Best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "professor",
+        "faculty response",
+        "positive",
+        "describe"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "professor",
+        "faculty general",
+        "positive",
+        "describe all courses with clam and very kindly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "presentation quality",
+        "positive",
+        "easy to understand lessons"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lessons",
+        "course general",
+        "positive",
+        "Incredible"
+      ],
+      [
+        "lessons",
+        "course comprehensiveness",
+        "positive",
+        "easy to understand"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "very practical approach"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "very practical approach to the language"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "learning a lot from it"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "really great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lecturer",
+        "faculty general",
+        "positive",
+        "enthusiasm"
+      ],
+      [
+        "delivery of the course",
+        "presentation quality",
+        "positive",
+        "passion is the"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lecturer",
+        "faculty comprehensiveness",
+        "positive",
+        "appreciated"
+      ],
+      [
+        "videos",
+        "presentation quality",
+        "positive",
+        "worthwhile"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "subject",
+        "assignments quality",
+        "positive",
+        "changes the way you study"
+      ],
+      [
+        "study",
+        "presentation comprehensiveness",
+        "positive",
+        "about a subject"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "changes the way you study"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "material",
+        "material quality",
+        "negative",
+        "didn ' t find interesting"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "negative",
+        "could have included more material"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "negative",
+        "very basic"
+      ],
+      [
+        "material",
+        "material quantity",
+        "negative",
+        "could have included more"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Siedel",
+        "faculty general",
+        "positive",
+        "one of the best teacher"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "George Siedel",
+        "faculty general",
+        "positive",
+        "best teacher"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "this",
+        "course quality",
+        "positive",
+        "one of the best"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "one of the best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "so glad"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "class",
+        "course general",
+        "positive",
+        "so glad"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "negative",
+        "merely a starter"
+      ],
+      [
+        "Python",
+        "material comprehensiveness",
+        "neutral",
+        "acquainted with the basics of ML"
+      ],
+      [
+        "ML",
+        "assignments quality",
+        "positive",
+        "basics of ML"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "negative",
+        "merely a starter"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "this course",
+        "course quality",
+        "positive",
+        "really enjoyed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "really enjoyed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "learning",
+        "assignments quality",
+        "positive",
+        "in - depth introductory"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Very in - depth introductory learning"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "program",
+        "course quality",
+        "negative",
+        "could be much more valuable"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "negative",
+        "could be much more valuable"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "video lectures",
+        "presentation comprehensiveness",
+        "positive",
+        "carefully created"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "video lectures",
+        "presentation quality",
+        "positive",
+        "carefully created"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "assignments quality",
+        "positive",
+        "used Python do"
+      ],
+      [
+        "credit",
+        "grades general",
+        "negative",
+        "would have"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignments",
+        "assignments workload",
+        "negative",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "models",
+        "material quality",
+        "positive",
+        "fertility"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "content",
+        "course relatability",
+        "positive",
+        "intuitive enough"
+      ],
+      [
+        "content",
+        "course relatability",
+        "positive",
+        "apply them in various contexts"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "negative",
+        "change"
+      ],
+      [
+        "professor",
+        "faculty response",
+        "positive",
+        "excellent"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "professor",
+        "faculty general",
+        "positive",
+        "excellent"
+      ],
+      [
+        "course material",
+        "course quality",
+        "positive",
+        "excellent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "teacher",
+        "faculty comprehensiveness",
+        "positive",
+        "knows how to explain"
+      ],
+      [
+        "teacher",
+        "faculty general",
+        "positive",
+        "wonderful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "teacher",
+        "faculty general",
+        "positive",
+        "absolute wonderful"
+      ],
+      [
+        "teacher",
+        "faculty comprehensiveness",
+        "positive",
+        "easy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Experts",
+        "faculty general",
+        "positive",
+        "share their findings / research"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Videos",
+        "presentation quality",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Justin - Nicholas Toytama",
+        "faculty response",
+        "negative",
+        "horrendous"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Justin - Nicholas Toytama",
+        "faculty general",
+        "negative",
+        "horrendous"
+      ],
+      [
+        "COURSE",
+        "course general",
+        "negative",
+        "DO NOT TAKE"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "theoretical",
+        "assignments quality",
+        "positive",
+        "robust"
+      ],
+      [
+        "practical",
+        "assignments quality",
+        "positive",
+        "inclined"
+      ],
+      [
+        "examples",
+        "course comprehensiveness",
+        "positive",
+        "relatable"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course relatability",
+        "positive",
+        "relatable"
+      ],
+      [
+        "NULL",
+        "presentation comprehensiveness",
+        "positive",
+        "easy to follow"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "risks",
+        "assignments quantity",
+        "negative",
+        "allows to understand"
+      ],
+      [
+        "clinical picture",
+        "presentation comprehensiveness",
+        "positive",
+        "as well as risks"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive",
+        "allows to understand the peculiarities"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assignment questions",
+        "assignments comprehensiveness",
+        "negative",
+        "nebulous"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignment questions",
+        "assignments comprehensiveness",
+        "negative",
+        "often nebulous"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "coverage",
+        "assignments quantity",
+        "positive",
+        "Good"
+      ],
+      [
+        "subject",
+        "material quality",
+        "positive",
+        "fast intro"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Good"
+      ],
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "fast"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "He",
+        "faculty general",
+        "positive",
+        "sensitive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "faculty response",
+        "positive",
+        "very sensitive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "automated submission",
+        "course quality",
+        "positive",
+        "good at marking"
+      ],
+      [
+        "video",
+        "presentation comprehensiveness",
+        "positive",
+        "very good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "excellent"
+      ],
+      [
+        "video lectures",
+        "presentation quality",
+        "positive",
+        "very good"
+      ],
+      [
+        "assignments",
+        "assignments quality",
+        "positive",
+        "well designed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "exercises",
+        "assignments comprehensiveness",
+        "positive",
+        "real - life examples"
+      ],
+      [
+        "use",
+        "presentation quality",
+        "positive",
+        "fantastic learning aid"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "videos",
+        "presentation relatability",
+        "positive",
+        "use of real - life examples"
+      ],
+      [
+        "programming exercises",
+        "assignments relatability",
+        "positive",
+        "use of real - life examples"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive",
+        "great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lecture",
+        "presentation comprehensiveness",
+        "negative",
+        "need more clarity"
+      ],
+      [
+        "instruction quality",
+        "faculty value",
+        "negative",
+        "better"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lectures",
+        "presentation quality",
+        "negative",
+        "need more clarity and better instruction quality"
+      ],
+      [
+        "explanations",
+        "presentation comprehensiveness",
+        "negative",
+        "need more clarity and better instruction quality"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "data analysis",
+        "assignments comprehensiveness",
+        "positive",
+        "a great starting point"
+      ],
+      [
+        "course",
+        "course comprehensiveness",
+        "positive",
+        "provides a suite"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "provides a suite of tools and techniques"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assignment",
+        "assignments quantity",
+        "negative",
+        "tedious filler"
+      ],
+      [
+        "questions",
+        "assignments quality",
+        "negative",
+        "very poorly worded"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignments",
+        "assignments workload",
+        "negative",
+        "tedious filler"
+      ],
+      [
+        "assignments",
+        "assignments quality",
+        "negative",
+        "very poorly worded"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "apparently",
+        "assignments comprehensiveness",
+        "negative",
+        "actually it´s not"
+      ],
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "good to know"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "assignments comprehensiveness",
+        "negative",
+        "confusing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "student debt",
+        "assignments comprehensiveness",
+        "negative",
+        "lifesaver"
+      ],
+      [
+        "career builder",
+        "faculty response",
+        "positive",
+        "career builder"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "lifesaver and career builder"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "again",
+        "faculty response",
+        "neutral",
+        "thanks"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "thanks"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Dr . Terrence Sejnowski",
+        "faculty response",
+        "negative",
+        "incredibly difficult to listen to"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Dr . Terrence Sejnowski",
+        "faculty comprehensiveness",
+        "negative",
+        "incredibly difficult"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "assignments quality",
+        "negative",
+        "quite easy"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "quite easy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "opportunity",
+        "course general",
+        "positive",
+        "learn"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Thank you"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "everyone",
+        "assignments comprehensiveness",
+        "negative",
+        "assume"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "negative",
+        "assume everyone knows"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "really interesting"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "really interesting"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "everyone",
+        "faculty response",
+        "positive",
+        "Thanks"
+      ],
+      [
+        "this",
+        "faculty relatability",
+        "positive",
+        "Thanks"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "Thanks"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "section",
+        "material comprehensiveness",
+        "positive",
+        "flows to the next section"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "presentation comprehensiveness",
+        "positive",
+        "clear"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "material",
+        "material quality",
+        "positive",
+        "real life cases"
+      ],
+      [
+        "professor",
+        "faculty relatability",
+        "positive",
+        "used real life cases"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course professor",
+        "faculty relatability",
+        "positive",
+        "used real life cases"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "negative",
+        "did not cover"
+      ],
+      [
+        "material",
+        "material comprehensiveness",
+        "negative",
+        "what we needed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "final exam",
+        "assignments workload",
+        "negative",
+        "immensely difficult"
+      ],
+      [
+        "material",
+        "material comprehensiveness",
+        "negative",
+        "did not cover"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "site",
+        "course general",
+        "negative",
+        "on - site"
+      ],
+      [
+        "opinions",
+        "presentation relatability",
+        "negative",
+        "personal"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "presentation quality",
+        "positive",
+        "more in depth"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "snippet",
+        "material comprehensiveness",
+        "positive",
+        "javascript"
+      ],
+      [
+        "snippet",
+        "material comprehensiveness",
+        "positive",
+        "css"
+      ],
+      [
+        "snippet",
+        "material comprehensiveness",
+        "positive",
+        "html"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "negative",
+        "Only shows a bit of javascript , css , and html snippets"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "this course",
+        "course quality",
+        "positive",
+        "benefit a lot"
+      ],
+      [
+        "NULL",
+        "course value",
+        "positive",
+        "delve into the"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "benefit a lot"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "basics",
+        "assignments comprehensiveness",
+        "negative",
+        "already know"
+      ],
+      [
+        "NULL",
+        "course relatability",
+        "negative",
+        "less and less interested"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "negative",
+        "found myself becoming less and less interested"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "assignments comprehensiveness",
+        "negative",
+        "oriented to solving marginal problems"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignments",
+        "assignments quality",
+        "negative",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Very informative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "Very informative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "negative",
+        "change course to better"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "instructors",
+        "faculty general",
+        "neutral",
+        "can change course to better"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "solid foundation"
+      ],
+      [
+        "course",
+        "course quality",
+        "positive",
+        "great examples"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "Very nice"
+      ],
+      [
+        "course",
+        "course quality",
+        "positive",
+        "solid foundation"
+      ],
+      [
+        "course",
+        "course relatability",
+        "positive",
+        "great examples"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "I",
+        "faculty value",
+        "positive",
+        "learned a lot"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive",
+        "learned a lot"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "Excellent"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "Excellent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "One of the best"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "well - designed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "well - designed"
+      ],
+      [
+        "course",
+        "course comprehensiveness",
+        "positive",
+        "allows me to understand"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "this course",
+        "course quality",
+        "positive",
+        "confidence in programming"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "simple",
+        "assignments quality",
+        "positive",
+        "simplest elements"
+      ],
+      [
+        "complex",
+        "assignments quantity",
+        "negative",
+        "most complex and advanced"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "negative",
+        "needs some improving"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "negative",
+        "really needs some improving"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Course",
+        "course general",
+        "positive",
+        "right place so far"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Course",
+        "course general",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lab assistants",
+        "faculty response",
+        "positive",
+        "helping to create such a well"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "faculty general",
+        "positive",
+        "Thanks"
+      ],
+      [
+        "lab assistants",
+        "faculty general",
+        "positive",
+        "Thanks"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "presented in a very accessible manner"
+      ],
+      [
+        "quizzes",
+        "material comprehensiveness",
+        "positive",
+        "master the key elements acquired"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "material",
+        "material quality",
+        "positive",
+        "presented in a very accessible manner"
+      ],
+      [
+        "quizzes",
+        "assignments comprehensiveness",
+        "positive",
+        "help you master the key elements"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "you",
+        "faculty value",
+        "positive",
+        "Thank you"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Thank you"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "excellent introduction to R"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "excellent introduction"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "would suggest"
+      ],
+      [
+        "NULL",
+        "course workload",
+        "negative",
+        "may seem easy"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "would suggest"
+      ],
+      [
+        "course",
+        "course comprehensiveness",
+        "positive",
+        "seem easy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Yaakov",
+        "faculty response",
+        "positive",
+        "Thanks"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Yaakov",
+        "faculty general",
+        "positive",
+        "Thanks"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "great",
+        "presentation comprehensiveness",
+        "positive",
+        "So far just great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "just great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "changes",
+        "course quality",
+        "positive",
+        "makes you think and try out"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "faculty comprehensiveness",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "topics covered",
+        "course comprehensiveness",
+        "negative",
+        "could have made room for"
+      ],
+      [
+        "room",
+        "material quantity",
+        "positive",
+        "made"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "neutral",
+        "could have made room for just a bit more explanation"
+      ],
+      [
+        "NULL",
+        "course relatability",
+        "neutral",
+        "just a few more examples of the topics covered"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "auto - grader",
+        "assignments quality",
+        "negative",
+        "falls down"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignment",
+        "grades general",
+        "negative",
+        "auto - grader"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "self - teaching",
+        "assignments comprehensiveness",
+        "negative",
+        "a lot of"
+      ],
+      [
+        "professors",
+        "faculty response",
+        "negative",
+        "no professors present"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "negative",
+        "lot of self - teaching"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "Excellent"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "Excellent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "very easy"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive",
+        "very easy yet enlightening"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "exercises",
+        "course general",
+        "negative",
+        "too easy"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "exercises",
+        "assignments quality",
+        "negative",
+        "too easy and boring"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "He",
+        "faculty response",
+        "negative",
+        "teaches even worse"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "faculty general",
+        "negative",
+        "teaches even worse then me"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive",
+        "takes a broad approach to"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "broad"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "so packed and concentrated"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "Information is so packed and concentrated it is amazing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Never keep questioning",
+        "assignments quality",
+        "positive",
+        "important lesson"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "excited"
+      ],
+      [
+        "teaching method",
+        "presentation comprehensiveness",
+        "positive",
+        "extremely clear"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "excited"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "issues",
+        "course value",
+        "positive",
+        "particularly relevant"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "reading material sources",
+        "material relatability",
+        "positive",
+        "relevant"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assignments",
+        "assignments quantity",
+        "positive",
+        "well paced"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignments",
+        "assignments quality",
+        "positive",
+        "challenging but enjoyable and well paced"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assignments",
+        "assignments quality",
+        "negative",
+        "not well described"
+      ],
+      [
+        "autograder",
+        "presentation comprehensiveness",
+        "negative",
+        "very finicky"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignments",
+        "assignments quality",
+        "negative",
+        "not well described"
+      ],
+      [
+        "autograder",
+        "grades general",
+        "negative",
+        "very finicky"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "exam",
+        "assignments comprehensiveness",
+        "negative",
+        "did not even cover some of the questions"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "assignments comprehensiveness",
+        "negative",
+        "did not even cover some of the questions that needed to be answered"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "looking for this course since"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "exactly looking for this"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "grader",
+        "assignments comprehensiveness",
+        "positive",
+        "concise"
+      ],
+      [
+        "feedback",
+        "presentation quality",
+        "positive",
+        "helpful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "automated grader",
+        "grades general",
+        "positive",
+        "very concise and sometimes helpful feedback"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "it",
+        "course general",
+        "positive",
+        "like it very much"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "like it very much"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "assignments quality",
+        "negative",
+        "no discussion / examples"
+      ],
+      [
+        "Naive Bayes",
+        "material comprehensiveness",
+        "positive",
+        "tree classifiers or"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "neutral",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "class",
+        "presentation comprehensiveness",
+        "positive",
+        "really clear"
+      ],
+      [
+        "class",
+        "presentation quantity",
+        "positive",
+        "simple"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive",
+        "really clear and simple"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "this course",
+        "course value",
+        "positive",
+        "be gladly doing"
+      ],
+      [
+        "NULL",
+        "faculty response",
+        "positive",
+        "want to learn gaming"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "would be gladly doing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "notice good and bad"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "excersizes",
+        "assignments relatability",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Professor",
+        "faculty value",
+        "positive",
+        "Wonderful"
+      ],
+      [
+        "Course",
+        "course comprehensiveness",
+        "positive",
+        "Wonderful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Course",
+        "course general",
+        "positive",
+        "Wonderful"
+      ],
+      [
+        "Professor",
+        "faculty general",
+        "positive",
+        "Wonderful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "programming",
+        "assignments quantity",
+        "negative",
+        "too simple"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "neutral",
+        "bit too simple"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "points",
+        "presentation comprehensiveness",
+        "positive",
+        "informative and to the point"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "power points",
+        "presentation quality",
+        "positive",
+        "informative and to the point"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "awesome ! !"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "awesome"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "highly",
+        "faculty relatability",
+        "positive",
+        "recommend"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "highly recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "required",
+        "assignments quality",
+        "negative",
+        "do more reading"
+      ],
+      [
+        "provided",
+        "presentation comprehensiveness",
+        "negative",
+        "via videos and slide decks"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "videos",
+        "presentation comprehensiveness",
+        "negative",
+        "required me to do more reading"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "really good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "really good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Interactive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "faculty response",
+        "positive",
+        "Interactive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "Excellent"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "Excellent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "subject",
+        "assignments quality",
+        "positive",
+        "fully undertood"
+      ],
+      [
+        "quiz which could be repeated",
+        "assignments comprehensiveness",
+        "positive",
+        "until the subject is fully"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "quiz",
+        "assignments workload",
+        "positive",
+        "could be repeated"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "husband",
+        "faculty value",
+        "positive",
+        "helped me to think more like"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "really helped"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "instructions",
+        "presentation comprehensiveness",
+        "positive",
+        "incredible"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "faculty general",
+        "positive",
+        "Thank you"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "guidelines",
+        "assignments quality",
+        "positive",
+        "Simple and practical"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Simple"
+      ],
+      [
+        "NULL",
+        "course relatability",
+        "positive",
+        "practical guidelines"
+      ],
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive",
+        "can be followed easily"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "with tons of fun"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "not easy"
+      ],
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "not easy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Professors Emily Fox and Carlos Guestrin",
+        "faculty response",
+        "positive",
+        "did an excellent job"
+      ],
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "better understand"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Professors Emily Fox and Carlos Guestrin",
+        "faculty comprehensiveness",
+        "positive",
+        "excellent job"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "book",
+        "material comprehensiveness",
+        "positive",
+        "more insight"
+      ],
+      [
+        "course",
+        "course general",
+        "negative",
+        "just three stars"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "negative",
+        "rates just three stars"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "techniques",
+        "presentation comprehensiveness",
+        "positive",
+        "A very useful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "very useful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "presentation quality",
+        "positive",
+        "interesting"
+      ],
+      [
+        "lectures",
+        "course comprehensiveness",
+        "positive",
+        "easy to understand"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lectures",
+        "presentation quality",
+        "positive",
+        "good length"
+      ],
+      [
+        "lectures",
+        "presentation quality",
+        "positive",
+        "interesting"
+      ],
+      [
+        "lectures",
+        "presentation comprehensiveness",
+        "positive",
+        "very easy to understand"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sessions",
+        "presentation quality",
+        "positive",
+        "Perfect"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Videos",
+        "presentation quality",
+        "positive",
+        "Perfect"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "methodology",
+        "faculty general",
+        "positive",
+        "Excellent teaching"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "presentation quality",
+        "positive",
+        "Excellent teaching methodology"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "basic",
+        "assignments comprehensiveness",
+        "neutral",
+        "things"
+      ],
+      [
+        "use",
+        "assignments quantity",
+        "negative",
+        "meals"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "basic"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "concepts",
+        "assignments comprehensiveness",
+        "positive",
+        "you have the right concepts"
+      ],
+      [
+        "knowledge",
+        "assignments quantity",
+        "positive",
+        "have the right concepts"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "right concepts and knowledge for developing your projects"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "loved",
+        "presentation quantity",
+        "positive",
+        "it"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "loved"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "drone",
+        "material quality",
+        "positive",
+        "impressive cool stuff"
+      ],
+      [
+        "professor",
+        "faculty response",
+        "negative",
+        "goes slow"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "professor",
+        "faculty general",
+        "positive",
+        "goes slow"
+      ],
+      [
+        "visual aides",
+        "presentation quality",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "assignments comprehensiveness",
+        "negative",
+        "tests"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "tests",
+        "assignments comprehensiveness",
+        "negative",
+        "particular are tough"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "methodology",
+        "course general",
+        "positive",
+        "Fantastic teaching"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "presentation quality",
+        "positive",
+        "Fantastic"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "presentation quality",
+        "positive",
+        "awsome lecture"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lecture",
+        "presentation quality",
+        "positive",
+        "never have experienced that awsome"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "many different algorithms",
+        "assignments comprehensiveness",
+        "positive",
+        "nice"
+      ],
+      [
+        "depth",
+        "assignments quality",
+        "negative",
+        "without necessarily focusing on each of them"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course relatability",
+        "positive",
+        "nice"
+      ],
+      [
+        "NULL",
+        "presentation quality",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "will help you to go through the initial"
+      ],
+      [
+        "steps",
+        "assignments quantity",
+        "positive",
+        "necessary"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lessons",
+        "presentation quality",
+        "positive",
+        "Smart"
+      ],
+      [
+        "lessons",
+        "presentation quality",
+        "positive",
+        "casual"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "assignments quality",
+        "neutral",
+        "not hard"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "assignments quality",
+        "negative",
+        "not hard"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "putting effort and designing such a beautiful course"
+      ],
+      [
+        "Quentin and team",
+        "faculty general",
+        "positive",
+        "Kudos"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Quentin and team",
+        "faculty general",
+        "positive",
+        "Kudos"
+      ],
+      [
+        "course",
+        "course quality",
+        "positive",
+        "thoroughly enjoyed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "teachers",
+        "faculty general",
+        "positive",
+        "very good"
+      ],
+      [
+        "course",
+        "course quality",
+        "positive",
+        "useful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "very useful"
+      ],
+      [
+        "teachers",
+        "faculty general",
+        "positive",
+        "very good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "presentation quality",
+        "positive",
+        "I appreciate"
+      ],
+      [
+        "animation",
+        "material quantity",
+        "positive",
+        "kept me engaged"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "NULL"
+      ],
+      [
+        "animation",
+        "presentation quality",
+        "positive",
+        "engaged"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "better"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "better"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "excellent"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "excellent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "teachers",
+        "faculty response",
+        "positive",
+        "responsible"
+      ],
+      [
+        "individuals",
+        "course value",
+        "negative",
+        "participate in this lecture"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "teachers",
+        "faculty general",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Jonathan Biss",
+        "faculty response",
+        "positive",
+        "did a great job"
+      ],
+      [
+        "NULL",
+        "presentation comprehensiveness",
+        "positive",
+        "key points of the sonatas"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Jonathan Biss",
+        "faculty general",
+        "positive",
+        "great musician"
+      ],
+      [
+        "Jonathan Biss",
+        "faculty comprehensiveness",
+        "positive",
+        "great job of highlighting the key points"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "highlights how easy Python is"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive",
+        "highlights how easy Python is"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "learned a lot"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "learned a lot"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "He",
+        "faculty general",
+        "positive",
+        "upbeat"
+      ],
+      [
+        "assignments",
+        "assignments comprehensiveness",
+        "positive",
+        "fun"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "He",
+        "faculty response",
+        "positive",
+        "upbeat"
+      ],
+      [
+        "He",
+        "faculty response",
+        "positive",
+        "energetic"
+      ],
+      [
+        "assignments",
+        "assignments quality",
+        "positive",
+        "fun"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "effort",
+        "assignments quality",
+        "positive",
+        "amount of effort"
+      ],
+      [
+        "course",
+        "course general",
+        "positive",
+        "appreciate a lot"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "appreciate a lot the amount of effort behind"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Useful",
+        "course general",
+        "positive",
+        "Really"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course relatability",
+        "positive",
+        "Really Useful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "Excellent"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "Excellent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive",
+        "creating and providing this material"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "material",
+        "material quality",
+        "positive",
+        "Thank you so much"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "This highly pedagogical course",
+        "course comprehensiveness",
+        "positive",
+        "offers"
+      ],
+      [
+        "tools",
+        "presentation quality",
+        "positive",
+        "deal"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "highly pedagogical"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "And his little smile",
+        "faculty general",
+        "positive",
+        "added more enthusiasm"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "faculty general",
+        "positive",
+        "his little smile throughout the presentations added more enthusiasm"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "life",
+        "faculty value",
+        "positive",
+        "changed my"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "changed my life"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "very much",
+        "faculty response",
+        "positive",
+        "Thank you"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Thank you very much"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "faculty response",
+        "positive",
+        "Thank you"
+      ],
+      [
+        "Dr . Chuck",
+        "faculty general",
+        "positive",
+        "Dr . Chuck"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Dr . Chuck",
+        "faculty general",
+        "positive",
+        "Thank you"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assignments",
+        "assignments comprehensiveness",
+        "positive",
+        "very well made"
+      ],
+      [
+        "assignment",
+        "presentation relatability",
+        "positive",
+        "balance of theory in robotics motion control"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "very well made"
+      ],
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "balance of theory"
+      ],
+      [
+        "assignments",
+        "assignments relatability",
+        "positive",
+        "practical"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "videos",
+        "presentation comprehensiveness",
+        "negative",
+        "proofread"
+      ],
+      [
+        "slides",
+        "material quality",
+        "negative",
+        "see"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "quiz",
+        "assignments comprehensiveness",
+        "negative",
+        "NULL"
+      ],
+      [
+        "slides , transcription of the videos",
+        "presentation quality",
+        "negative",
+        "NULL"
+      ],
+      [
+        "quizzes",
+        "assignments quality",
+        "negative",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "class",
+        "presentation quality",
+        "positive",
+        "enjoyed this class"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "class",
+        "course general",
+        "positive",
+        "enjoyed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "precision",
+        "assignments comprehensiveness",
+        "negative",
+        "little bit too much"
+      ],
+      [
+        "F - score",
+        "assignments quality",
+        "negative",
+        "touching"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "negative",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "presentation comprehensiveness",
+        "positive",
+        "introduction for the basic understanding"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Excellent introduction"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "weak",
+        "faculty relatability",
+        "negative",
+        "may face problem to follow"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "presentation comprehensiveness",
+        "negative",
+        "weak"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "content",
+        "material comprehensiveness",
+        "positive",
+        "clearly presented"
+      ],
+      [
+        "effort in teaching",
+        "presentation quality",
+        "positive",
+        "shows"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "content",
+        "presentation quality",
+        "positive",
+        "clearly presented"
+      ],
+      [
+        "NULL",
+        "presentation comprehensiveness",
+        "positive",
+        "effort in teaching shows"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "she",
+        "faculty general",
+        "positive",
+        "simplifies"
+      ],
+      [
+        "she",
+        "faculty response",
+        "positive",
+        "reviews"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "faculty comprehensiveness",
+        "positive",
+        "simplifies everything"
+      ],
+      [
+        "NULL",
+        "faculty comprehensiveness",
+        "positive",
+        "clear"
+      ],
+      [
+        "NULL",
+        "faculty general",
+        "positive",
+        "consistent"
+      ],
+      [
+        "NULL",
+        "faculty response",
+        "positive",
+        "reviews what she ' s said"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "knowledge",
+        "material comprehensiveness",
+        "negative",
+        "lost"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "negative",
+        "I would have been lost"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lessons",
+        "presentation comprehensiveness",
+        "positive",
+        "very clear"
+      ],
+      [
+        "teaching",
+        "faculty general",
+        "negative",
+        "style"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lessons",
+        "presentation quality",
+        "positive",
+        "very clear"
+      ],
+      [
+        "lessons",
+        "presentation comprehensiveness",
+        "positive",
+        "easy to follow"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "it",
+        "material quantity",
+        "positive",
+        "most all of it"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Loved most"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "learning"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "great experience"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Content",
+        "material comprehensiveness",
+        "positive",
+        "good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Content",
+        "material quality",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "Formats and personal adaptations"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "mutually understood and accepted"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "impression",
+        "presentation comprehensiveness",
+        "negative",
+        "sloppy"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "negative",
+        "sloppy \" impression !"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "great developing"
+      ],
+      [
+        "Servance",
+        "faculty general",
+        "positive",
+        "great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "give you a sort of try to understanding"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "Great"
+      ],
+      [
+        "NULL",
+        "course value",
+        "positive",
+        "Great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "negative",
+        "theoretical"
+      ],
+      [
+        "database design",
+        "assignments quantity",
+        "negative",
+        "information"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "material",
+        "material quality",
+        "negative",
+        "NULL"
+      ],
+      [
+        "material",
+        "material quantity",
+        "negative",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "really learned a lot !"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "really learned a lot"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "content",
+        "material comprehensiveness",
+        "positive",
+        "insightful"
+      ],
+      [
+        "strategies",
+        "assignments quantity",
+        "positive",
+        "me as a change agent"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "content",
+        "material quality",
+        "positive",
+        "very insightful"
+      ],
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive",
+        "ended in strong accordance"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Course",
+        "course general",
+        "positive",
+        "strong accordance"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive",
+        "every word have become concrete"
+      ],
+      [
+        "Prof . Silverman",
+        "faculty general",
+        "positive",
+        "progress in this course"
+      ],
+      [
+        "tour",
+        "assignments quantity",
+        "positive",
+        "instruction and tour"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Prof . Silverman",
+        "faculty general",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "faculty value",
+        "positive",
+        "great professor"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Jeff Leek",
+        "faculty general",
+        "positive",
+        "great professor"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "glad I made the decision"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "glad I made the decision"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "fantastic"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "fantastic"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Thank",
+        "assignments quality",
+        "neutral",
+        "you ."
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Thank you"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "understand",
+        "presentation comprehensiveness",
+        "positive",
+        "Easy to"
+      ],
+      [
+        "remember",
+        "presentation comprehensiveness",
+        "positive",
+        "practise"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "presentation comprehensiveness",
+        "positive",
+        "Easy to understand"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "faculty response",
+        "positive",
+        "Wonderful !"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Wonderful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "Nice and elaborative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "Nice and elaborative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Assignments",
+        "assignments quality",
+        "negative",
+        "quite boring"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Assignments",
+        "assignments quality",
+        "neutral",
+        "individual"
+      ],
+      [
+        "Assignments",
+        "assignments comprehensiveness",
+        "negative",
+        "very difficult"
+      ],
+      [
+        "Assignments",
+        "assignments quality",
+        "negative",
+        "quite boring"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "material",
+        "material quality",
+        "negative",
+        "more theoretical"
+      ],
+      [
+        "graphs",
+        "material comprehensiveness",
+        "negative",
+        "does not help understanding"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "materials",
+        "material quality",
+        "positive",
+        "more theoretical"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "Don ' t miss"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive",
+        "at no point"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "really thought through"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "work",
+        "material quality",
+        "positive",
+        "apply"
+      ],
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive",
+        "learn"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "teaching skills",
+        "faculty response",
+        "positive",
+        "outstanding"
+      ],
+      [
+        "Andrew Ng",
+        "faculty relatability",
+        "positive",
+        "great researcher"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Andrew Ng",
+        "faculty general",
+        "positive",
+        "great"
+      ],
+      [
+        "Andrew Ng",
+        "faculty comprehensiveness",
+        "positive",
+        "outstanding"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "metrics",
+        "course comprehensiveness",
+        "negative",
+        "pretty nice"
+      ],
+      [
+        "videos",
+        "presentation quality",
+        "negative",
+        "not the most easily digested"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "class",
+        "course general",
+        "positive",
+        "pretty nice"
+      ],
+      [
+        "videos",
+        "presentation comprehensiveness",
+        "negative",
+        "not the most easily digested"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "teacher of ESL",
+        "faculty comprehensiveness",
+        "positive",
+        "highly recommend"
+      ],
+      [
+        "TEFL or CELTA",
+        "presentation quality",
+        "positive",
+        "recommend"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "highly recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "feedback",
+        "presentation comprehensiveness",
+        "positive",
+        "get that"
+      ],
+      [
+        "certificate",
+        "material comprehensiveness",
+        "positive",
+        "get that"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course value",
+        "positive",
+        "satisfied with having paid"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Grading",
+        "grades general",
+        "positive",
+        "done as peer reviews"
+      ],
+      [
+        "peers",
+        "faculty relatability",
+        "positive",
+        "allows you to see"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Grading",
+        "grades general",
+        "positive",
+        "done as peer reviews"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "life",
+        "course value",
+        "positive",
+        "change you life"
+      ],
+      [
+        "skills",
+        "assignments quality",
+        "positive",
+        "practice the skills"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "Awesome"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Awesome"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "taught exceptionally well"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "taught exceptionally well"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cousera",
+        "presentation comprehensiveness",
+        "positive",
+        "Thank you"
+      ],
+      [
+        "Berklee",
+        "faculty value",
+        "positive",
+        "offering the opportunity"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Berklee",
+        "faculty general",
+        "positive",
+        "Thank you"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "programming",
+        "assignments comprehensiveness",
+        "positive",
+        "pretty quickly"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course workload",
+        "positive",
+        "possible to go through this course pretty quickly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "quantity",
+        "assignments comprehensiveness",
+        "positive",
+        "reasonable for a working person"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "very well organised"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "Marvelous"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "Marvelous"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "presentation comprehensiveness",
+        "positive",
+        "so valuable"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lesson",
+        "course quality",
+        "positive",
+        "so valuable"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "PS :",
+        "course general",
+        "neutral",
+        "the questions in between the lectures are"
+      ],
+      [
+        "assignments",
+        "assignments comprehensiveness",
+        "positive",
+        "very very helpful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "questions",
+        "assignments comprehensiveness",
+        "positive",
+        "very helpful"
+      ],
+      [
+        "assignments",
+        "assignments comprehensiveness",
+        "positive",
+        "very very helpful too"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "JavaScript",
+        "assignments comprehensiveness",
+        "negative",
+        "bad reputation"
+      ],
+      [
+        "teaching",
+        "presentation quality",
+        "negative",
+        "sloppy teaching"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "teaching",
+        "course general",
+        "negative",
+        "sloppy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "video",
+        "presentation comprehensiveness",
+        "negative",
+        "heavy accent"
+      ],
+      [
+        "speaker",
+        "faculty response",
+        "negative",
+        "very heavy accent"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "video",
+        "presentation quality",
+        "negative",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "assignments comprehensiveness",
+        "negative",
+        "nitpicky"
+      ],
+      [
+        "exercise",
+        "presentation quantity",
+        "negative",
+        "confusing"
+      ],
+      [
+        "NULL",
+        "assignments quantity",
+        "negative",
+        "review"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "exercise",
+        "assignments quality",
+        "negative",
+        "nitpicky"
+      ],
+      [
+        "exercise",
+        "assignments comprehensiveness",
+        "negative",
+        "confusing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "introduction",
+        "course comprehensiveness",
+        "negative",
+        "defeats the purpose"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "negative",
+        "lessons felt very unstructured"
+      ],
+      [
+        "NULL",
+        "course quality",
+        "negative",
+        "unplanned"
+      ],
+      [
+        "NULL",
+        "course general",
+        "negative",
+        "ad hoc"
+      ],
+      [
+        "NULL",
+        "faculty comprehensiveness",
+        "negative",
+        "presenting didn ' t know they were being recorded"
+      ],
+      [
+        "examples",
+        "course relatability",
+        "negative",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive",
+        "recommend this course"
+      ],
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "wants to learn something new"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "programming",
+        "course quality",
+        "negative",
+        "learn much concepts"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "negative",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "MOOC",
+        "course quality",
+        "positive",
+        "As my first"
+      ],
+      [
+        "freshly changed career",
+        "faculty value",
+        "positive",
+        "better start"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "neutral",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "wonderful !"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "wonderful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive",
+        "Super useful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course relatability",
+        "positive",
+        "Super useful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "it",
+        "course quality",
+        "positive",
+        "highly recommend"
+      ],
+      [
+        "both",
+        "assignments quantity",
+        "positive",
+        "recommend"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "highly recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "code",
+        "assignments comprehensiveness",
+        "positive",
+        "have a good foundation"
+      ],
+      [
+        "learning Python",
+        "course quality",
+        "positive",
+        "do feel like"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course relatability",
+        "positive",
+        "good foundation for learning"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "examples",
+        "material quality",
+        "negative",
+        "developed cases"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "material comprehensiveness",
+        "negative",
+        "No step - by - step examples of developed cases are shown"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Brilliant"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "Brilliant"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "accessible",
+        "course comprehensiveness",
+        "positive",
+        "great examples"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "very accessible"
+      ],
+      [
+        "NULL",
+        "course relatability",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "He",
+        "faculty response",
+        "positive",
+        "makes everything so simple and easy"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "He",
+        "faculty comprehensiveness",
+        "positive",
+        "makes everything so simple and easy to understand"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Charles Severance",
+        "faculty response",
+        "positive",
+        "hard work"
+      ],
+      [
+        "NULL",
+        "presentation quality",
+        "positive",
+        "interesting to watch"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Dr . Charles Severance",
+        "faculty general",
+        "positive",
+        "Thank you"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "forum",
+        "presentation comprehensiveness",
+        "negative",
+        "If I could use"
+      ],
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "generally"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "very good for beginners"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "faculty general",
+        "positive",
+        "Great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Teacher",
+        "faculty general",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "everything",
+        "assignments comprehensiveness",
+        "negative",
+        "is fine"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "fine"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "grades general",
+        "neutral",
+        "different standard"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "grades",
+        "grades general",
+        "negative",
+        "fferent standard which causes a large variation"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "subject",
+        "assignments comprehensiveness",
+        "negative",
+        "interested"
+      ],
+      [
+        "photography",
+        "course quality",
+        "positive",
+        "seriously interested in the subject of"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "seriously interested"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "exam",
+        "assignments quality",
+        "negative",
+        "waste of time"
+      ],
+      [
+        "multiple examples of contradictory slides",
+        "material comprehensiveness",
+        "negative",
+        "complete"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "grading of the exams",
+        "grades general",
+        "negative",
+        "major detracting factor"
+      ],
+      [
+        "NULL",
+        "course value",
+        "negative",
+        "complete waste of time"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive",
+        "enjoying it all"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Really enjoying"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "excels in teaching"
+      ],
+      [
+        "Andrew Ng",
+        "faculty response",
+        "positive",
+        "teaching"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Andrew Ng",
+        "faculty general",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "tools",
+        "assignments comprehensiveness",
+        "positive",
+        "provided me with"
+      ],
+      [
+        "methodology",
+        "presentation quality",
+        "positive",
+        "need to be"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course relatability",
+        "positive",
+        "provided me with the tools and methodology"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Awesome course !",
+        "course general",
+        "positive",
+        "Awesome course !"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "Awesome"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "slides",
+        "presentation comprehensiveness",
+        "negative",
+        "monotonous"
+      ],
+      [
+        "outline",
+        "assignments comprehensiveness",
+        "positive",
+        "very good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "outline is very good"
+      ],
+      [
+        "presentation",
+        "presentation quality",
+        "negative",
+        "can be monotonous"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive",
+        "perfect intro"
+      ],
+      [
+        "NULL",
+        "course value",
+        "positive",
+        "knows nothing about HTML"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "perfect"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "Exceptionally good Lecturer"
+      ],
+      [
+        "Lecturer",
+        "faculty response",
+        "positive",
+        "good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Lecturer",
+        "faculty general",
+        "positive",
+        "Exceptionally good"
+      ],
+      [
+        "course",
+        "course general",
+        "positive",
+        "Exceptionally good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "content",
+        "course quality",
+        "positive",
+        "well structured & delivered"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "content",
+        "material quality",
+        "positive",
+        "well structured"
+      ],
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive",
+        "exceptionally well"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "this course",
+        "course quality",
+        "positive",
+        "worth the time you spent"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course value",
+        "positive",
+        "Totally worth the time"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "vignettes",
+        "presentation comprehensiveness",
+        "positive",
+        "excellent"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive",
+        "excellent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "content",
+        "material quality",
+        "positive",
+        "actual and interesting"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "content",
+        "course general",
+        "positive",
+        "Great , actual and interesting"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive",
+        "informative"
+      ],
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "easy to follow"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "very informative"
+      ],
+      [
+        "course",
+        "course comprehensiveness",
+        "positive",
+        "easy to follow"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive",
+        "very thorough"
+      ],
+      [
+        "course",
+        "course quality",
+        "positive",
+        "interesting"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive",
+        "very thorough"
+      ],
+      [
+        "course",
+        "course general",
+        "positive",
+        "interesting"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "week 3",
+        "course general",
+        "negative",
+        "not sure"
+      ],
+      [
+        "assignments",
+        "assignments comprehensiveness",
+        "negative",
+        "make my assignments in a proper"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignments",
+        "assignments comprehensiveness",
+        "negative",
+        "still not sure of how to make"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "loved the course"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "loved"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "material comprehensiveness",
+        "positive",
+        "videos that discuss concepts"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "videos",
+        "presentation quality",
+        "positive",
+        "discuss concepts and interviews with successful writers"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "boring",
+        "assignments quantity",
+        "negative",
+        "many many boring"
+      ],
+      [
+        "management",
+        "course comprehensiveness",
+        "neutral",
+        "is not a boring"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "management",
+        "presentation quality",
+        "negative",
+        "many many boring moments"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lectures",
+        "presentation comprehensiveness",
+        "negative",
+        "not very interesting"
+      ],
+      [
+        "lectures",
+        "presentation quality",
+        "negative",
+        "instructive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lectures",
+        "course general",
+        "positive",
+        "not very interesting or instructive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "Good"
+      ],
+      [
+        "overview",
+        "course comprehensiveness",
+        "positive",
+        "introduction"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "courses",
+        "course general",
+        "positive",
+        "Good overview"
+      ],
+      [
+        "courses",
+        "course quality",
+        "positive",
+        "introduction to the more detail"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "intelligent applications",
+        "course general",
+        "positive",
+        "built using machine learning algorithms"
+      ],
+      [
+        "machine learning algorithms",
+        "course comprehensiveness",
+        "positive",
+        "completely fulfilled"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "material quality",
+        "positive",
+        "fulfilled my curiosity"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "planned",
+        "assignments quality",
+        "positive",
+        "carefully planned"
+      ],
+      [
+        "laid out",
+        "presentation quantity",
+        "positive",
+        "laid out"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "carefully planned and laid out"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "vision",
+        "course general",
+        "positive",
+        "learned a lot"
+      ],
+      [
+        "machine learning",
+        "course comprehensiveness",
+        "positive",
+        "could have some sort of"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "negative",
+        "last part was somewhat challenging"
+      ],
+      [
+        "course",
+        "course comprehensiveness",
+        "positive",
+        "learned a lot"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Proff",
+        "faculty response",
+        "positive",
+        "Thank you"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Proff",
+        "faculty general",
+        "positive",
+        "Thank you"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Professor Sachs",
+        "faculty response",
+        "positive",
+        "well done"
+      ],
+      [
+        "videos",
+        "presentation quality",
+        "positive",
+        "clear"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "videos",
+        "presentation quality",
+        "positive",
+        "Extremely well done"
+      ],
+      [
+        "Professor Sachs",
+        "faculty comprehensiveness",
+        "positive",
+        "articulate"
+      ],
+      [
+        "Professor Sachs",
+        "faculty comprehensiveness",
+        "positive",
+        "clear"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "Absolutely a great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "negative",
+        "wished that there was a bit"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "neutral",
+        "wished that there was a bit more depth"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Hitoshi Murayama",
+        "faculty relatability",
+        "positive",
+        "unassuming and welcoming manner"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Professor Hitoshi Murayama",
+        "faculty general",
+        "positive",
+        "presents the course in a very unassuming and welcoming manner"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "weeks",
+        "assignments quantity",
+        "positive",
+        "amazing 4 weeks !"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Thanks for this amazing 4 weeks"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "MATLAB",
+        "material comprehensiveness",
+        "positive",
+        "has previous exposure"
+      ],
+      [
+        "Octave",
+        "material comprehensiveness",
+        "positive",
+        "previous exposure"
+      ],
+      [
+        "course",
+        "course general",
+        "positive",
+        "structured"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "Very good"
+      ],
+      [
+        "course",
+        "course quality",
+        "positive",
+        "structured"
+      ],
+      [
+        "course",
+        "course comprehensiveness",
+        "positive",
+        "easy to follow"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "A",
+        "course comprehensiveness",
+        "positive",
+        "very good"
+      ],
+      [
+        "course",
+        "course quality",
+        "positive",
+        "good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "very good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive",
+        "changed my life"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "changed my life"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "highly recommended"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "highly recommended"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "exposure",
+        "presentation quality",
+        "positive",
+        "enriched"
+      ],
+      [
+        "multiple regression",
+        "assignments comprehensiveness",
+        "negative",
+        "been enriched"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "experience",
+        "presentation quality",
+        "positive",
+        "true"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "true learning experience"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "material",
+        "material comprehensiveness",
+        "negative",
+        "missing"
+      ],
+      [
+        "quizz",
+        "presentation quality",
+        "negative",
+        "influence your final grade"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "material",
+        "material quantity",
+        "negative",
+        "missing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "knowledge",
+        "assignments quantity",
+        "negative",
+        "needs more"
+      ],
+      [
+        "lectures",
+        "presentation comprehensiveness",
+        "negative",
+        "taught in the lectures"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "quizzes",
+        "assignments quantity",
+        "neutral",
+        "NULL"
+      ],
+      [
+        "lectures",
+        "presentation quality",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive",
+        "learned a lot"
+      ],
+      [
+        "course",
+        "course quality",
+        "positive",
+        "already"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive",
+        "learned a lot already"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Do something different"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assingments",
+        "assignments quality",
+        "positive",
+        "interesting idea"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "negative",
+        "challenging"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "neutral",
+        "Very challenging"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "resources",
+        "presentation comprehensiveness",
+        "positive",
+        "some more resources should have been shared"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "material quantity",
+        "negative",
+        "more resources should have been shared"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "break",
+        "assignments quantity",
+        "negative",
+        "more than one"
+      ],
+      [
+        "while loop",
+        "assignments comprehensiveness",
+        "positive",
+        "necessary"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "mentor",
+        "faculty response",
+        "negative",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "faculty response",
+        "negative",
+        "loose"
+      ],
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Teacher ' s",
+        "faculty general",
+        "positive",
+        "great"
+      ],
+      [
+        "speech",
+        "presentation quality",
+        "negative",
+        "wish he ' d loose a little the \" army style \""
+      ],
+      [
+        "grading system",
+        "grades general",
+        "negative",
+        "wish he ' d loose a little the \" army style \""
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Dr . Chuck",
+        "faculty general",
+        "positive",
+        "amazing job"
+      ],
+      [
+        "NULL",
+        "faculty value",
+        "positive",
+        "enjoy - fulness"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Dr . Chuck",
+        "faculty general",
+        "positive",
+        "amazing job"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "people",
+        "faculty relatability",
+        "positive",
+        "interested in honing their skills"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "highly recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "guest speakers",
+        "faculty response",
+        "positive",
+        "good as well"
+      ],
+      [
+        "case studies",
+        "assignments comprehensiveness",
+        "positive",
+        "relevant and interesting"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "case studies",
+        "course relatability",
+        "positive",
+        "relevant"
+      ],
+      [
+        "case studies",
+        "course quality",
+        "positive",
+        "interesting"
+      ],
+      [
+        "guest speakers",
+        "faculty general",
+        "positive",
+        "good as well"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "weeks",
+        "assignments quantity",
+        "positive",
+        "real interaction"
+      ],
+      [
+        "interaction",
+        "presentation comprehensiveness",
+        "positive",
+        "reserved for"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course relatability",
+        "negative",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "peer assignments",
+        "assignments quality",
+        "negative",
+        "concerned"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "peer assignments",
+        "assignments relatability",
+        "negative",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "machine learning",
+        "course general",
+        "negative",
+        "limited to a platform"
+      ],
+      [
+        "pre - written functions",
+        "material comprehensiveness",
+        "negative",
+        "using"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "makes things easier"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive",
+        "inspire me a lot"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "inspire me"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "computation languages",
+        "assignments quantity",
+        "positive",
+        "learn how to translate"
+      ],
+      [
+        "computation languages",
+        "course comprehensiveness",
+        "positive",
+        "study"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "rationale"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "material comprehensiveness",
+        "positive",
+        "handy"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "handy"
+      ],
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Very interesting"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "negative",
+        "timed release"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "negative",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "content",
+        "material comprehensiveness",
+        "positive",
+        "awesome !"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "content",
+        "material quality",
+        "positive",
+        "awesome"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "material quality",
+        "positive",
+        "easy to be understood"
+      ],
+      [
+        "materials in Week 2",
+        "material comprehensiveness",
+        "positive",
+        "understood"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "materials",
+        "material comprehensiveness",
+        "positive",
+        "easy to be understood"
+      ],
+      [
+        "assignment",
+        "assignments comprehensiveness",
+        "positive",
+        "easy to be understood"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "artistic choices",
+        "course quality",
+        "negative",
+        "lack substance"
+      ],
+      [
+        "artists",
+        "faculty general",
+        "positive",
+        "I respect"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "discussions in the videos",
+        "presentation quality",
+        "negative",
+        "lack substance"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive",
+        "really helping"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "really helping"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Functional Program Design in Scala",
+        "course comprehensiveness",
+        "positive",
+        "one of the best courses"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "courses",
+        "course general",
+        "positive",
+        "one of the best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Odersky",
+        "faculty general",
+        "positive",
+        "breeze"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Dr . Odersky",
+        "faculty general",
+        "positive",
+        "learning process to be a breeze"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "material comprehensiveness",
+        "positive",
+        "non - specialist"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "Very accessible"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "content",
+        "material comprehensiveness",
+        "negative",
+        "amateurish"
+      ],
+      [
+        "class",
+        "presentation quality",
+        "positive",
+        "enjoyed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "negative",
+        "enjoyed"
+      ],
+      [
+        "NULL",
+        "course quality",
+        "negative",
+        "content feels amateurish"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "topics",
+        "assignments quantity",
+        "negative",
+        "trouble understanding"
+      ],
+      [
+        "course",
+        "course general",
+        "positive",
+        "fun and well taught"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "negative",
+        "having a little trouble understanding"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Professor Andrew Ng",
+        "faculty general",
+        "positive",
+        "excellent"
+      ],
+      [
+        "exercises",
+        "assignments quality",
+        "positive",
+        "well explained"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Professor Andrew Ng",
+        "faculty general",
+        "positive",
+        "excellent"
+      ],
+      [
+        "exercises",
+        "material quality",
+        "positive",
+        "very well explained"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Best leadership course"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "Best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "top - notch"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "content",
+        "material quality",
+        "positive",
+        "top - notch"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "presentation skills",
+        "presentation quality",
+        "positive",
+        "make his lectures enjoyable"
+      ],
+      [
+        "NULL",
+        "presentation comprehensiveness",
+        "positive",
+        "In addition"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "faculty general",
+        "positive",
+        "excellent presentation skills"
+      ],
+      [
+        "NULL",
+        "faculty comprehensiveness",
+        "positive",
+        "make his lectures enjoyable and easy to follow"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mathematics",
+        "assignments comprehensiveness",
+        "positive",
+        "ever taken"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "time",
+        "presentation comprehensiveness",
+        "positive",
+        "Best"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "Best intelectual time"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "material",
+        "material quality",
+        "positive",
+        "included various topics"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "material",
+        "material relatability",
+        "positive",
+        "enjoyed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "History of the Middle East",
+        "assignments comprehensiveness",
+        "positive",
+        "have a solid base of understanding"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive",
+        "have a solid base of understanding"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sequences",
+        "material quantity",
+        "positive",
+        "forced to work"
+      ],
+      [
+        "arrays",
+        "material quality",
+        "negative",
+        "not as nice"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course workload",
+        "negative",
+        "not as nice"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "amazing course"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "Absolutely amazing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "well presented",
+        "presentation quality",
+        "positive",
+        "Very well presented"
+      ],
+      [
+        "constructed",
+        "assignments quantity",
+        "positive",
+        "Very well presented"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "presentation quality",
+        "positive",
+        "Very well presented and constructed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "information",
+        "material quality",
+        "positive",
+        "Im taking away a lot of useful"
+      ],
+      [
+        "NULL",
+        "material quantity",
+        "positive",
+        "a lot of useful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "lot of useful information"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "very nice"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "very nice"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive",
+        "ease you into the language"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive",
+        "this will ease you"
+      ],
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive",
+        "enable you to follow"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "presentation quality",
+        "positive",
+        "Week 2 content on confusion matrix"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "negative",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "books",
+        "material comprehensiveness",
+        "negative",
+        "no textbooks are available"
+      ],
+      [
+        "NULL",
+        "course general",
+        "negative",
+        "new"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Iyengar",
+        "faculty general",
+        "negative",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "enjoyed this course"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "enjoyed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "well put together"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "well put together"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "content",
+        "course quality",
+        "positive",
+        "enjoyed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "content",
+        "course general",
+        "positive",
+        "enjoyed"
+      ],
+      [
+        "course",
+        "course general",
+        "positive",
+        "enjoyed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hitches",
+        "assignments comprehensiveness",
+        "negative",
+        "technical"
+      ],
+      [
+        "course",
+        "course quality",
+        "positive",
+        "take from the course"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "neutral",
+        "few technical hitches"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "time",
+        "assignments quantity",
+        "positive",
+        "flexibility"
+      ],
+      [
+        "target",
+        "presentation quality",
+        "positive",
+        "dates"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course workload",
+        "positive",
+        "flexibility to choose time and target dates"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assignments",
+        "assignments quality",
+        "positive",
+        "absolute delight !"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignments",
+        "assignments quality",
+        "positive",
+        "absolute delight"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "really great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "really great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive",
+        "taking this course helped me explore my writing more"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course relatability",
+        "positive",
+        "helped me explore my writing more"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "negative",
+        "It is not free"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "negative",
+        "not free"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Buddhism",
+        "assignments comprehensiveness",
+        "positive",
+        "extremely useful to understand"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive",
+        "extremely useful to understand Buddhism"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "overall",
+        "course general",
+        "positive",
+        "happy"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "happy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "negative",
+        "Only general information"
+      ],
+      [
+        "NULL",
+        "presentation quantity",
+        "negative",
+        "wikipedia"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "negative",
+        "general information about relevant topics"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "challenges",
+        "assignments comprehensiveness",
+        "positive",
+        "like"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "assignments quality",
+        "positive",
+        "really like the challenges"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "graphics",
+        "presentation comprehensiveness",
+        "positive",
+        "easy to follow"
+      ],
+      [
+        "professor",
+        "faculty response",
+        "positive",
+        "Great"
+      ],
+      [
+        "lectures",
+        "presentation comprehensiveness",
+        "positive",
+        "easy to follow"
+      ],
+      [
+        "topics",
+        "course comprehensiveness",
+        "positive",
+        "clearly explains topics"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "professor",
+        "faculty general",
+        "positive",
+        "Great"
+      ],
+      [
+        "professor",
+        "faculty comprehensiveness",
+        "positive",
+        "clearly explains topics"
+      ],
+      [
+        "professor",
+        "faculty comprehensiveness",
+        "positive",
+        "easy to follow lectures"
+      ],
+      [
+        "professor",
+        "faculty relatability",
+        "positive",
+        "examples , and graphics"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive",
+        "asset"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "audit",
+        "assignments comprehensiveness",
+        "negative",
+        "audit"
+      ],
+      [
+        "homework",
+        "presentation quantity",
+        "positive",
+        "did all the homework"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "homework",
+        "assignments comprehensiveness",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "range",
+        "assignments quantity",
+        "positive",
+        "broad"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "covers a broad range"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "practical examples",
+        "material comprehensiveness",
+        "positive",
+        "like"
+      ],
+      [
+        "concepts",
+        "assignments quality",
+        "positive",
+        "help to illustrate"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "presentation relatability",
+        "positive",
+        "like"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "professor",
+        "faculty response",
+        "positive",
+        "taking the time to make it ."
+      ]
+    ],
+    "tuple_list": [
+      [
+        "professor",
+        "faculty general",
+        "positive",
+        "Many thanks"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course workload",
+        "negative",
+        "challenging"
+      ],
+      [
+        "NULL",
+        "course value",
+        "neutral",
+        "take over my life ( I have a full time job )"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course workload",
+        "neutral",
+        "challenging but didn ' t take over my life"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "videos",
+        "course quality",
+        "negative",
+        "could not submit"
+      ],
+      [
+        "quizzes",
+        "course comprehensiveness",
+        "negative",
+        "paid"
+      ],
+      [
+        "NULL",
+        "grades general",
+        "negative",
+        "completed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "quizzes",
+        "assignments quality",
+        "negative",
+        "could not submit"
+      ],
+      [
+        "NULL",
+        "course value",
+        "negative",
+        "unless I paid"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "It",
+        "course quality",
+        "positive",
+        "very good"
+      ],
+      [
+        "values",
+        "course value",
+        "positive",
+        "doing to do something with"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "very good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "fresh man",
+        "assignments quality",
+        "positive",
+        "progress"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "did progress in gaming making as a fresh man"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "negative",
+        "probably going to be the lectures"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lectures",
+        "presentation quality",
+        "negative",
+        "problem about the course"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "like",
+        "faculty relatability",
+        "positive",
+        "very much"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "like"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive",
+        "Insightful !"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Insightful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "negative",
+        "don ' t recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "assignments quality",
+        "negative",
+        "taking a bit long"
+      ],
+      [
+        "peer assessments",
+        "presentation quantity",
+        "positive",
+        "great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "great"
+      ],
+      [
+        "peer assessments",
+        "grades general",
+        "negative",
+        "bit long to get a grade"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive",
+        "happily pay"
+      ],
+      [
+        "courses",
+        "assignments quantity",
+        "positive",
+        "more"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "courses",
+        "course general",
+        "positive",
+        "happily pay"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "record videos",
+        "presentation quality",
+        "negative",
+        "don ' t like"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "math",
+        "assignments quality",
+        "negative",
+        "strong background in math"
+      ],
+      [
+        "concept",
+        "presentation comprehensiveness",
+        "positive",
+        "understand most of the"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive",
+        "can understand most of the concept"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "writing",
+        "assignments comprehensiveness",
+        "positive",
+        "what I have learned"
+      ],
+      [
+        "everyday writing",
+        "assignments quality",
+        "positive",
+        "things I read and watch"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course relatability",
+        "positive",
+        "find myself applying what I have learned to my everyday writing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "learned",
+        "course value",
+        "positive",
+        "have learned"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "learned a lot"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "class",
+        "presentation quantity",
+        "positive",
+        "loved"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "loved"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "best"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "the best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive",
+        "signed up for this course"
+      ],
+      [
+        "Learned Optimism",
+        "assignments comprehensiveness",
+        "positive",
+        "had read"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "faculty comprehensiveness",
+        "positive",
+        "Optimism"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Executive Data Science course",
+        "course quality",
+        "negative",
+        "pretty basic"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "neutral",
+        "pretty basic"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive",
+        "valuable new insights"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive",
+        "given me some valuable new insights"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "great overview"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Provides a great overview"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "language",
+        "assignments quality",
+        "positive",
+        "a lot of tips"
+      ],
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "gave me a lot of tips"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "gave me a lot of tips"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Python",
+        "assignments comprehensiveness",
+        "positive",
+        "learning"
+      ],
+      [
+        "NULL",
+        "course quality",
+        "positive",
+        "Recommend"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive",
+        "Recommend to everyone"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Dr Chuck",
+        "faculty general",
+        "positive",
+        "amazing : )"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Dr Chuck",
+        "faculty general",
+        "positive",
+        "amazing"
+      ]
+    ]
+  }
+]

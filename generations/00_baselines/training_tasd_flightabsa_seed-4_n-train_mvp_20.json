@@ -1,0 +1,6147 @@
+{
+    "precision": 31.10539845758355,
+    "recall": 22.873345935727787,
+    "f1": 26.361655773420477,
+    "all_preds": [
+        [
+            [
+                "airline service",
+                "food",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "plane",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "cabin crew",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "hospitality",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "fee",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "crew",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airline",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight crew",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airline",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "attendant",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "movie selection",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flights",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airport service",
+                "Dublin",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "2h30",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flights",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Turkish airline",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "PERSON",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight attendant",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Check in",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "jet flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "customer service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "airline",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "seats",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Jet2",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Gatwick North",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "baggage rule",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "seats",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "seat",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airline service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Ryanair",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Jet 2",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "company",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Ryanair",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "cabin crew",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "meals",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Ryanair",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "food",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight attendant",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "SAS",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "BUYER BEWARE",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Jet2",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight crew",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airline",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "crew",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "check in",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flights",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "food",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "seating",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "baggage drop off",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "seat",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "entertainment system",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Airline",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "seats",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Lufthansa",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "seats",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Business Class",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Staff",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "AirEuropa",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airport operation u",
+                "check in",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "staff",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "seats",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airline",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "TUI",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "food",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "BA",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "super super super super incompetent",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Lufthansa",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "EasyJet",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "BA",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "SAS",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "crew",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "leg",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "space",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airline",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "check in",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Turkish Airlines",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "cabin crew",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "wifi",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Plane",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "charter flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard seat legroom",
+                "space",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "leg room",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "BA",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "AIRLINE",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "airline",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Jet2",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "cabin crew",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "PERSON",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "TAP",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Air France",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flights",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "legroom",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Turkish airlines",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "baggage drop",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flights",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "food",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "airline",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airport checkin",
+                "Manchester Airport",
+                "great"
+            ],
+            [
+                "airport",
+                "security",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airline",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Jet2",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "boarding",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "baggage restrictions",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "baggage handling",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "luggage",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Planes",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "bowl",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airline legroom",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Flights",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Jet2",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "BA",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Jet2",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Staff",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flights",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Turkish Airlines",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "food",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "airplane",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "service",
+                "customer care",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "seats",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "seats",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "company",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "staff",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airline",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Lufthansa",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight attendants",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Staff",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airlines",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "coffee",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Lufthansa",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Turkish business class",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "PERSON",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u",
+                "meal",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "business class",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airline",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "this company",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "customer service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "check in",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "airline",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "seat",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Airplane",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Turkish Airlines",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Jet 2",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Airplane",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Jet2.com",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airline",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Scandinavian Airlines",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "cabin crew",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Air France",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Jet 2",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "plane",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "crew",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "BA flying to Orlando",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Lufthansa",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "shock",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Food",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Ryanair",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Turkish airlines",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Tui",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "jet 2",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "food",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "food",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flights",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "united airlines",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "seats",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Air France",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "customer service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Air France",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "RYANAIR",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flights",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airline",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight attendant",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "seats",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "leg room",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "British Airways",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "crew",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "crew",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "check bag",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ],
+            [
+                "airline service",
+                "customer service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Turkish Airlines",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flights",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "crew",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "leg room",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "baggage handling",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard entertainment",
+                "entertainment console",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "seat",
+                "bad"
+            ]
+        ]
+    ],
+    "all_labels": [
+        [
+            [
+                "onboard food",
+                "food",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "PERSON",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "great"
+            ],
+            [
+                "airline service",
+                "customer treatment",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard cleanliness",
+                "plane",
+                "great"
+            ],
+            [
+                "airline general",
+                "plane",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "quantity of food",
+                "bad"
+            ],
+            [
+                "onboard food",
+                "plate",
+                "bad"
+            ],
+            [
+                "onboard food",
+                "cherry mousse",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "hospitality",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "fee",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "seat",
+                "bad"
+            ],
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Cabin crew",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airline",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight crew",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airline",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "business class with Aegean Airlines",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "attendant",
+                "bad"
+            ],
+            [
+                "airline price",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Air France",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airport operation check_in",
+                "checking",
+                "great"
+            ],
+            [
+                "airport operation boarding",
+                "boarding",
+                "great"
+            ],
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airport operation baggage",
+                "book our luggage",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Flight",
+                "ok"
+            ],
+            [
+                "airport operation check_in",
+                "speedy check in",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard entertainment",
+                "movie selection",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airport operation check_in",
+                "check in",
+                "great"
+            ],
+            [
+                "punctuality general",
+                "flight",
+                "great"
+            ],
+            [
+                "airline service",
+                "attendants",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "tui flights",
+                "bad"
+            ],
+            [
+                "onboard seat comfort",
+                "null",
+                "bad"
+            ],
+            [
+                "airline general",
+                "null",
+                "bad"
+            ],
+            [
+                "airline service",
+                "Staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airport operation check_in",
+                "Check in",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flights",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Turkish airline",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "PERSON at check in",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "PERSON",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airport operation check_in",
+                "Check in",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airport operation boarding",
+                "Lounge/Fast track/priority boarding",
+                "great"
+            ],
+            [
+                "airline price",
+                "cost",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Easy jet flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flights",
+                "great"
+            ],
+            [
+                "airline service",
+                "staff",
+                "great"
+            ],
+            [
+                "airport operation baggage",
+                "baggage drop",
+                "great"
+            ],
+            [
+                "onboard price",
+                "prices",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "customer service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "airline",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "seats",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Jet2",
+                "great"
+            ],
+            [
+                "airline service",
+                "organisation",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat legroom",
+                "leg room",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Gatwick North to PERSON",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airport operation baggage",
+                "baggage",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat legroom",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "seats",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "Food",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airline",
+                "bad"
+            ],
+            [
+                "punctuality general",
+                "flight",
+                "bad"
+            ],
+            [
+                "airline service",
+                "customer service",
+                "bad"
+            ],
+            [
+                "airline service",
+                "every one on the team",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "great"
+            ],
+            [
+                "airline service",
+                "crew",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Easyjet",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Ryanair",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Customer service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Jet 2",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "taking off",
+                "bad"
+            ],
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "company",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "punctuality",
+                "great"
+            ],
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ],
+            [
+                "airline general",
+                "Ryanair",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Service",
+                "great"
+            ],
+            [
+                "onboard food",
+                "food",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "cabin crew",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "meals",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "roll with one piece of turkey",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "PERSON",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "Seats",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "young lady",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Flight",
+                "bad"
+            ],
+            [
+                "airline service",
+                "cabin crew",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airport operation boarding",
+                "boarding",
+                "bad"
+            ],
+            [
+                "airline service",
+                "customer service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Jet2",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Aalborg-Copehagen",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight crew",
+                "great"
+            ],
+            [
+                "airline service",
+                "staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airport operation baggage",
+                "bag",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airline",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "crew",
+                "great"
+            ],
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "coffee",
+                "bad"
+            ],
+            [
+                "onboard food",
+                "lunch",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "check in and inflight teams",
+                "great"
+            ],
+            [
+                "airline service",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "roundtrip flights",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "food",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "seating",
+                "great"
+            ],
+            [
+                "onboard entertainment",
+                "entertainment movie selection",
+                "great"
+            ],
+            [
+                "onboard seat comfort",
+                "lounge seating",
+                "great"
+            ],
+            [
+                "onboard cleanliness",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airport operation check_in",
+                "Check in",
+                "great"
+            ],
+            [
+                "airline general",
+                "flight",
+                "great"
+            ],
+            [
+                "onboard food",
+                "food",
+                "great"
+            ],
+            [
+                "airline service",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airport operation baggage",
+                "baggage drop",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airport operation baggage",
+                "luggage",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "stewards",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "cabin crew member",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "fruit",
+                "great"
+            ],
+            [
+                "onboard food",
+                "pastries",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard entertainment",
+                "entertainment system",
+                "bad"
+            ],
+            [
+                "onboard entertainment",
+                "selection of movies",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "great"
+            ],
+            [
+                "airline service",
+                "PERSON",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Airline",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Lufthansa",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "premium economy seats",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "water",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "great"
+            ],
+            [
+                "airline general",
+                "flight",
+                "great"
+            ],
+            [
+                "airline service",
+                "cabin crew",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "extra cost for the priority",
+                "bad"
+            ],
+            [
+                "airport operation boarding",
+                "board",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "Seats",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Business Class",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "customer service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "food",
+                "bad"
+            ],
+            [
+                "airline service",
+                "staff",
+                "bad"
+            ],
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Aegean flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Staff on board",
+                "great"
+            ],
+            [
+                "airline service",
+                "airport staff on the ground",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Staff",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "AirEuropa",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airport operation check_in",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "refund",
+                "bad"
+            ],
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "staff",
+                "great"
+            ],
+            [
+                "airport operation baggage",
+                "baggage behaviour",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "seats",
+                "bad"
+            ],
+            [
+                "onboard cleanliness",
+                "seats",
+                "bad"
+            ],
+            [
+                "airline general",
+                "flight",
+                "great"
+            ],
+            [
+                "airline service",
+                "staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "Meals",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "seats",
+                "great"
+            ],
+            [
+                "onboard seat legroom",
+                "leg room",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "Pegasus",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "TUI",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "Service of food",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "bad"
+            ],
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "great"
+            ],
+            [
+                "airline service",
+                "staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "Food",
+                "great"
+            ],
+            [
+                "onboard food",
+                "Snacks",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "BA",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "carry on",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airport operation check_in",
+                "Check in",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "drink with meal",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airport operation boarding",
+                "board",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "null",
+                "bad"
+            ],
+            [
+                "airline service",
+                "customer care",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "On board service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "great"
+            ],
+            [
+                "airline service",
+                "crew",
+                "great"
+            ],
+            [
+                "airline general",
+                "null",
+                "great"
+            ],
+            [
+                "airline general",
+                "Wizz air",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airport operation baggage",
+                "Bag",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flights",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Lufthansa",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "EasyJet",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "BA",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Service",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "SAS",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "crew members",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Outbound",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "onboard seat legroom",
+                "space",
+                "bad"
+            ],
+            [
+                "airline general",
+                "aircraft",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airline",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "Food",
+                "bad"
+            ],
+            [
+                "airport operation check_in",
+                "check in process",
+                "bad"
+            ],
+            [
+                "onboard price",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Jet 2 staff",
+                "great"
+            ],
+            [
+                "airport operation check_in",
+                "check in",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Fight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ],
+            [
+                "airline price",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Turkish Airlines",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "pricing",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard cleanliness",
+                "World traveller cabin",
+                "great"
+            ],
+            [
+                "airline service",
+                "cabin crew interaction",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard entertainment",
+                "wifi",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard cleanliness",
+                "Plane",
+                "great"
+            ],
+            [
+                "onboard seat comfort",
+                "seats",
+                "great"
+            ],
+            [
+                "onboard seat legroom",
+                "leg room",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "charter flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard seat legroom",
+                "space",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat legroom",
+                "leg room",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "seats",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "stuff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "BA",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "AIRLINE",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "return flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "bad"
+            ],
+            [
+                "airport operation boarding",
+                "boarding",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Jet2",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "cabin crew",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "PERSON",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Plane",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "TAP",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Air France",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airport operation check_in",
+                "security",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flights",
+                "great"
+            ],
+            [
+                "punctuality general",
+                "flights",
+                "great"
+            ],
+            [
+                "airline service",
+                "staff",
+                "great"
+            ],
+            [
+                "onboard seat comfort",
+                "seats",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat legroom",
+                "legroom",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "customer service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airport operation baggage",
+                "baggage drop",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flights",
+                "great"
+            ],
+            [
+                "onboard seat comfort",
+                "seats",
+                "great"
+            ],
+            [
+                "onboard cleanliness",
+                "seats",
+                "great"
+            ],
+            [
+                "airline service",
+                "staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Flight",
+                "great"
+            ],
+            [
+                "airline general",
+                "plane",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat legroom",
+                "leg room",
+                "great"
+            ],
+            [
+                "airline service",
+                "staff",
+                "great"
+            ],
+            [
+                "airline price",
+                "null",
+                "great"
+            ],
+            [
+                "airline service",
+                "communication",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "food",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "great"
+            ],
+            [
+                "airport operation check_in",
+                "check-in",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "easyjet assistant",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Pegasus",
+                "great"
+            ],
+            [
+                "punctuality general",
+                "flights",
+                "great"
+            ],
+            [
+                "airline service",
+                "crew",
+                "great"
+            ],
+            [
+                "onboard seat comfort",
+                "seats",
+                "great"
+            ],
+            [
+                "airline price",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "food",
+                "bad"
+            ],
+            [
+                "onboard entertainment",
+                "headphone jack",
+                "bad"
+            ],
+            [
+                "airline price",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "bottle of Prosecco",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airport operation check_in",
+                "check in",
+                "great"
+            ],
+            [
+                "airport operation check_in",
+                "wait for security",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "delays",
+                "bad"
+            ],
+            [
+                "airline service",
+                "compensation",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Booking",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard cleanliness",
+                "Toilets",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Service",
+                "great"
+            ],
+            [
+                "onboard food",
+                "veggie meals",
+                "bad"
+            ],
+            [
+                "onboard food",
+                "food",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airport operation check_in",
+                "Check in",
+                "great"
+            ],
+            [
+                "airport operation boarding",
+                "boarding",
+                "great"
+            ],
+            [
+                "airline service",
+                "staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airport operation baggage",
+                "baggage restrictions",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "help",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Airline",
+                "bad"
+            ],
+            [
+                "airport operation baggage",
+                "baggage handling",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Return Flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airport operation baggage",
+                "luggage",
+                "bad"
+            ],
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard cleanliness",
+                "Planes",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "bowl",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat legroom",
+                "legroom",
+                "bad"
+            ],
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Flights",
+                "great"
+            ],
+            [
+                "airline service",
+                "cabin crew",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Jet2 staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "costumer service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "QATAR",
+                "great"
+            ],
+            [
+                "airline general",
+                "BA",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flights",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Staff",
+                "bad"
+            ],
+            [
+                "onboard seat legroom",
+                "legroom",
+                "bad"
+            ],
+            [
+                "onboard seat comfort",
+                "seats",
+                "bad"
+            ],
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "seats",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Turkish Airlines",
+                "bad"
+            ],
+            [
+                "airport operation baggage",
+                "luggage",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "food",
+                "bad"
+            ],
+            [
+                "onboard food",
+                "options",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "customer care representative",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "seats",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "seats",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "company",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airport operation check_in",
+                "check-in",
+                "bad"
+            ],
+            [
+                "airline service",
+                "staff",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airport operation boarding",
+                "air bridge",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airline",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Lufthansa",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "EasyJet",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight attendants",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Cancellations",
+                "bad"
+            ],
+            [
+                "airline price",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Staff",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "coffee",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Jet2",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "bad"
+            ],
+            [
+                "airline service",
+                "Ground Crew Operations",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "great"
+            ],
+            [
+                "airline service",
+                "crew",
+                "great"
+            ],
+            [
+                "airport operation boarding",
+                "boarding procedures",
+                "great"
+            ],
+            [
+                "onboard entertainment",
+                "in-flight entertainment",
+                "bad"
+            ],
+            [
+                "onboard seat legroom",
+                "leg room",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Turkish business class",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "PERSON",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "low-sodium meal",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "pod seat",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airport operation check_in",
+                "check in",
+                "great"
+            ],
+            [
+                "punctuality general",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard seat legroom",
+                "space for the legs",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "airline",
+                "great"
+            ],
+            [
+                "airline general",
+                "null",
+                "great"
+            ],
+            [
+                "onboard cleanliness",
+                "planes",
+                "great"
+            ],
+            [
+                "airline general",
+                "planes",
+                "great"
+            ],
+            [
+                "airline service",
+                "cabin crew",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "PERSON",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Jet2",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "company",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "customer service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airport operation check_in",
+                "Premium check",
+                "great"
+            ],
+            [
+                "airport operation check_in",
+                "queue for check in",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "airline",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Airplane",
+                "great"
+            ],
+            [
+                "airline service",
+                "staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard entertainment",
+                "selection of movies",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Turkish Airlines",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "Flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "TAP",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Jet 2",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Airplane",
+                "great"
+            ],
+            [
+                "onboard food",
+                "food",
+                "great"
+            ],
+            [
+                "punctuality general",
+                "connections",
+                "great"
+            ],
+            [
+                "airport operation baggage",
+                "baggage",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "on-board service",
+                "great"
+            ],
+            [
+                "airline service",
+                "after-sales service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Jet2.com",
+                "great"
+            ],
+            [
+                "airline service",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "bad"
+            ],
+            [
+                "airline service",
+                "staff",
+                "bad"
+            ],
+            [
+                "airline service",
+                "services",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airline",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Scandinavian Airlines",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Inflight service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "person from tui",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "cabin crew",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "BA",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "customer service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "BA",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Jet 2",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "plane",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "plenty of access to drinks",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "crew",
+                "great"
+            ],
+            [
+                "airline service",
+                "crew",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "BCN to SFO",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "BA",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "great"
+            ],
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "Food",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Lufthansa",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "service",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "staff",
+                "great"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "staff",
+                "great"
+            ],
+            [
+                "airline general",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "Food",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Ryanair",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Turkish airlines",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "Virgin",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "glass of water",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "jet 2",
+                "great"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "seat",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "food",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "food",
+                "ok"
+            ],
+            [
+                "onboard cleanliness",
+                "cleanliness",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "cabin staff",
+                "bad"
+            ],
+            [
+                "onboard food",
+                "food",
+                "bad"
+            ],
+            [
+                "onboard food",
+                "selection of drinks",
+                "bad"
+            ],
+            [
+                "airline general",
+                "plane",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airport operation baggage",
+                "luggage",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "staff",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "customer service",
+                "bad"
+            ],
+            [
+                "airline service",
+                "lady on report desk",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Air France",
+                "great"
+            ],
+            [
+                "airline service",
+                "treatment of the staff",
+                "great"
+            ],
+            [
+                "onboard food",
+                "food",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "RYANAIR",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "food",
+                "great"
+            ],
+            [
+                "onboard food",
+                "lasagna",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "SAS",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "airline",
+                "great"
+            ],
+            [
+                "airline price",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "flight attendants",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "seats",
+                "ok"
+            ],
+            [
+                "airline service",
+                "service",
+                "bad"
+            ],
+            [
+                "onboard food",
+                "food",
+                "ok"
+            ],
+            [
+                "airline service",
+                "food service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat legroom",
+                "leg room",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "Wizz Air",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airport operation boarding",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "Customer service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "flight",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "null",
+                "great"
+            ],
+            [
+                "airline service",
+                "rest of the crew",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "crew",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "compensation",
+                "great"
+            ],
+            [
+                "airport operation boarding",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airport operation check_in",
+                "check bag process",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "customer service",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard food",
+                "snacks",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airport operation check_in",
+                "check in",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline price",
+                "Turkish Airlines flight",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard entertainment",
+                "selection",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "crew",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard price",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airport operation baggage",
+                "baggage handling",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline service",
+                "treatment of the passengers between flights",
+                "bad"
+            ],
+            [
+                "punctuality general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard entertainment",
+                "entertainment console speakers",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "great"
+            ]
+        ],
+        [
+            [
+                "airline general",
+                "null",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "onboard seat comfort",
+                "seat",
+                "bad"
+            ]
+        ]
+    ]
+}

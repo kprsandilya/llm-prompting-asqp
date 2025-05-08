@@ -1,0 +1,10456 @@
+[
+  {
+    "pred_label": [
+      [
+        "room",
+        "rooms design_features",
+        "positive",
+        "NULL"
+      ],
+      [
+        "room",
+        "rooms design_features",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "generous size"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "decor leans toward minimalist"
+      ],
+      [
+        "lines",
+        "room_amenities design_features",
+        "positive",
+        "modern"
+      ],
+      [
+        "lines",
+        "room_amenities cleanliness",
+        "positive",
+        "clean"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Lodge",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Lodge",
+        "location general",
+        "positive",
+        "close enough to mid and downtown"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "Brilliant"
+      ],
+      [
+        "Lodge",
+        "location general",
+        "positive",
+        "loads of nice restuarants near"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "wonderful"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "friendly"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "help you"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "wonderful"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "friendly"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "will help you as much as possible"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Excellent"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "Excellent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Rooms",
+        "rooms general",
+        "positive",
+        "Great"
+      ],
+      [
+        "Location",
+        "location general",
+        "negative",
+        "Noisy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rooms",
+        "rooms cleanliness",
+        "positive",
+        "cheaper"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "far better"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms general",
+        "positive",
+        "great"
+      ],
+      [
+        "rooms",
+        "rooms prices",
+        "positive",
+        "cheaper"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "great"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "within easy walking distance of good bars, resturants"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "great new hotel"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "close to the Convention Centre"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel quality",
+        "positive",
+        "NULL"
+      ],
+      [
+        "Bar",
+        "hotel design_features",
+        "positive",
+        "NULL"
+      ],
+      [
+        "Bar",
+        "hotel design_features",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "easy reach of all the places in Singapore"
+      ],
+      [
+        "Bar",
+        "food_drinks quality",
+        "positive",
+        "good cocktails"
+      ],
+      [
+        "Bar",
+        "hotel design_features",
+        "positive",
+        "amazing view of the skyline of Singapore"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "rooms design_features",
+        "positive",
+        "Very new"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bathroom",
+        "rooms quality",
+        "positive",
+        "Very new"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel design_features",
+        "negative",
+        "Some signs of wear and tear"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "negative",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "negative",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel design_features",
+        "negative",
+        "signs of wear and tear"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "Great"
+      ],
+      [
+        "room",
+        "rooms general",
+        "positive",
+        "great"
+      ],
+      [
+        "lounge",
+        "hotel general",
+        "positive",
+        "great"
+      ],
+      [
+        "breakfast",
+        "food_drinks quality",
+        "positive",
+        "fantastic"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Good value for New York"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel prices",
+        "positive",
+        "Good value"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "walking distance for all meals"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "attractive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "so attractive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "negative",
+        "NULL"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "negative",
+        "NULL"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "negative",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel quality",
+        "negative",
+        "no way this is a 4.5 star"
+      ],
+      [
+        "hotel",
+        "hotel quality",
+        "negative",
+        "more like a 1 star"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Fantastic !"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Fantastic"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "very accommodating"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "people",
+        "service general",
+        "positive",
+        "very accommodating"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "outgoing"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "knowledgeable"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "recommendations"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "stands out as some of the best"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "very outgoing"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "knowledgeable"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Superb"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "A Superb Hotel"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Hotel",
+        "hotel general",
+        "positive",
+        "Superb"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "negative",
+        "Overall"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "negative",
+        "over age 26 may want to look elsewhere"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "second to none"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "second to none"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "neutral",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "nice night for me"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "Good"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "nice"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "blown away"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "room",
+        "rooms design_features",
+        "positive",
+        "2 huge windows"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "spectacular river views"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Nick",
+        "service general",
+        "positive",
+        "helpful concierge"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "concierge",
+        "service general",
+        "positive",
+        "helpful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "breakfast",
+        "food_drinks quality",
+        "positive",
+        "Don't miss"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "Close to Macy's"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Room",
+        "rooms design_features",
+        "positive",
+        "a view"
+      ],
+      [
+        "reception staff",
+        "service general",
+        "positive",
+        "Lovely"
+      ],
+      [
+        "room",
+        "rooms general",
+        "positive",
+        "lovely"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "we had an amazing time"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "amazing time"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "wonderful"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "no hesitation in reccomending"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "kind"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "curtious"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "made us feel truly welcome"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Amazing hospitality"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hospitality",
+        "service general",
+        "positive",
+        "Amazing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel prices",
+        "positive",
+        "includes parking"
+      ],
+      [
+        "NULL",
+        "hotel prices",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel prices",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel prices",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "price",
+        "hotel prices",
+        "positive",
+        "includes parking and breakfast"
+      ],
+      [
+        "winetasting",
+        "food_drinks prices",
+        "positive",
+        "free"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "Beautiful Place in a Very Good Location"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Beautiful Place"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Beautiful Place"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Beautiful Place"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Beautiful Place"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Beautiful"
+      ],
+      [
+        "Location",
+        "location general",
+        "positive",
+        "Very Good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "Great style"
+      ],
+      [
+        "rooms",
+        "rooms comfort",
+        "positive",
+        "comfortable"
+      ],
+      [
+        "bathrooms",
+        "rooms design_features",
+        "positive",
+        "lovely"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "excellent"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "OMNI",
+        "hotel general",
+        "positive",
+        "excellent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "room",
+        "rooms general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "room",
+        "rooms cleanliness",
+        "positive",
+        "NULL"
+      ],
+      [
+        "room",
+        "rooms comfort",
+        "positive",
+        "comfortable"
+      ],
+      [
+        "room",
+        "rooms general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "room",
+        "rooms design_features",
+        "negative",
+        "small"
+      ],
+      [
+        "room",
+        "rooms cleanliness",
+        "positive",
+        "clean"
+      ],
+      [
+        "room",
+        "rooms comfort",
+        "positive",
+        "comfortable"
+      ],
+      [
+        "toiletries",
+        "room_amenities general",
+        "positive",
+        "good range"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "bathrooms",
+        "rooms general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Moore Hotel"
+      ],
+      [
+        "NULL",
+        "hotel cleanliness",
+        "positive",
+        "spotlessly clean"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "very helpful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Moore Hotel",
+        "hotel cleanliness",
+        "positive",
+        "spotlessly clean"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "very helpful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "rooms comfort",
+        "positive",
+        "was very comfortable"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel comfort",
+        "positive",
+        "comfortable"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "next to Central Railway Station"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "easy to get to all locations"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "next to Central Railway Station"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "ery easy to get to all locations whilst on holidays"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "bathrobes",
+        "room_amenities quality",
+        "positive",
+        "Soft"
+      ],
+      [
+        "Toiletries",
+        "room_amenities general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "linensThe",
+        "rooms quality",
+        "positive",
+        "soft  wonderful"
+      ],
+      [
+        "reception",
+        "service general",
+        "positive",
+        "Great wine"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "quiet zone in the centre of Berlin"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rooms",
+        "rooms general",
+        "positive",
+        "lovely"
+      ],
+      [
+        "breakfast",
+        "food_drinks quality",
+        "positive",
+        "lovely"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms general",
+        "positive",
+        "lovely"
+      ],
+      [
+        "breakfast",
+        "food_drinks quality",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Watertown Hotel",
+        "hotel general",
+        "positive",
+        "Amazing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Would definately stay"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Would definately stay there again"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel prices",
+        "positive",
+        "Price for room was pretty good"
+      ],
+      [
+        "NULL",
+        "hotel prices",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel prices",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Price for room",
+        "rooms prices",
+        "positive",
+        "pretty good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "right next to the gates of Chinatown"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "The Triton",
+        "location general",
+        "positive",
+        "great location"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "room",
+        "rooms cleanliness",
+        "positive",
+        "clean"
+      ],
+      [
+        "room",
+        "rooms design_features",
+        "positive",
+        "spacious"
+      ],
+      [
+        "room",
+        "rooms general",
+        "positive",
+        "enjoyed a magnificent view"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel comfort",
+        "negative",
+        "especially if you ask for a room at the rear of the property"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "rooms comfort",
+        "positive",
+        "also quiet"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel design_features",
+        "positive",
+        "a truly grand dame"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "loved"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel design_features",
+        "negative",
+        "pseudo - hip styling flourishes"
+      ],
+      [
+        "music",
+        "food_drinks quality",
+        "negative",
+        "dance music"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel design_features",
+        "negative",
+        "pseudo-hip styling"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "great location"
+      ],
+      [
+        "design hotel",
+        "hotel design_features",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "great"
+      ],
+      [
+        "hotel",
+        "hotel design_features",
+        "positive",
+        "design"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "It is in a good location"
+      ],
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "close to alot of shops and restaurants"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "good"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "close to alot of shops and restaurants"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "great"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "within walking distance of the train station"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Hilton Times Square",
+        "hotel general",
+        "positive",
+        "highly recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Highly recommend the Berchielli"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Berchielli",
+        "hotel general",
+        "positive",
+        "Highly recommend"
+      ],
+      [
+        "Berchielli",
+        "hotel general",
+        "positive",
+        "completely delightful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Langham Place",
+        "hotel general",
+        "positive",
+        "my new business hotel"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "facilities",
+        "facilities general",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "very helpful"
+      ],
+      [
+        "information desk",
+        "location general",
+        "positive",
+        "maps and sightseeing"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "information desk",
+        "service general",
+        "positive",
+        "very helpfull"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "museum",
+        "hotel miscellaneous",
+        "neutral",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "museum next door was also nice"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "rooms general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "Preferred Business Address"
+      ],
+      [
+        "amenities",
+        "room_amenities general",
+        "positive",
+        "Nice"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "suite",
+        "rooms general",
+        "positive",
+        "suite"
+      ],
+      [
+        "suite",
+        "rooms general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "suite",
+        "rooms general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "suite",
+        "rooms general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "suite",
+        "rooms general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "suite",
+        "rooms general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "suite",
+        "rooms general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "Fantastic"
+      ],
+      [
+        "suite",
+        "rooms general",
+        "positive",
+        "fantastic"
+      ],
+      [
+        "kitchen",
+        "room_amenities general",
+        "positive",
+        "little"
+      ],
+      [
+        "bedroom",
+        "rooms design_features",
+        "positive",
+        "large"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "plenty of cafes and restuarants"
+      ],
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "some excellent patisserie"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Location",
+        "location general",
+        "positive",
+        "plenty of cafes and restuarants nearby"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "very helpful"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "helpful"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "helpful"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "helpful"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "helpful"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "helpful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "very helpful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "room_amenities cleanliness",
+        "neutral",
+        "I had no problem"
+      ],
+      [
+        "NULL",
+        "room_amenities cleanliness",
+        "neutral",
+        "probaly made 50 calls"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "room",
+        "rooms miscellaneous",
+        "positive",
+        "no problem with cell phone reception"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Grand Hyatt",
+        "hotel general",
+        "positive",
+        "beautiful property"
+      ],
+      [
+        "Grand Hyatt",
+        "location general",
+        "positive",
+        "located close to Tianamen square and the Forbidden City"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Grand Hyatt",
+        "hotel design_features",
+        "positive",
+        "beautiful property"
+      ],
+      [
+        "Grand Hyatt",
+        "location general",
+        "positive",
+        "located close to Tianamen square"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "negative",
+        "could have been more attentive and friendly"
+      ],
+      [
+        "staff",
+        "service general",
+        "negative",
+        "could have been more attentive and friendly"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "neutral",
+        "could have been more attentive"
+      ],
+      [
+        "staff",
+        "service general",
+        "neutral",
+        "friendly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "just opposite central station and tram station"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "just opposite central station and tram station"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "Good"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "just opposite central station and tram station"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "around the corner for everything else"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "beds",
+        "rooms comfort",
+        "positive",
+        "comfortable"
+      ],
+      [
+        "rooms",
+        "rooms general",
+        "positive",
+        "we like the rooms"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "beds",
+        "rooms comfort",
+        "positive",
+        "comfortable"
+      ],
+      [
+        "rooms",
+        "rooms general",
+        "positive",
+        "like"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "would deffinately stay there again"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "you will have a great time"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rooms",
+        "rooms design_features",
+        "negative",
+        "let the hotel down"
+      ],
+      [
+        "NULL",
+        "rooms comfort",
+        "negative",
+        "variety of bedrooms"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bedrooms",
+        "rooms general",
+        "negative",
+        "let the hotel down"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Hotel",
+        "hotel general",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "the closest hotel from the central station"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "location"
+      ],
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "closest hotel from the central station"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Hotel Casci",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "Hotel Casci",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Hotel Casci",
+        "hotel general",
+        "positive",
+        "absolutely recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Would definitely return"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Loved the Westin"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "the Westin",
+        "hotel general",
+        "positive",
+        "Loved"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel quality",
+        "negative",
+        "stains everywhere"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "room_amenities cleanliness",
+        "negative",
+        "stains everywhere"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rooms",
+        "rooms prices",
+        "positive",
+        "reasonably priced"
+      ],
+      [
+        "drinks",
+        "food_drinks prices",
+        "negative",
+        "very expensive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms prices",
+        "positive",
+        "quite reasonably priced"
+      ],
+      [
+        "drinks in the bar",
+        "food_drinks prices",
+        "negative",
+        "very expensive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel comfort",
+        "negative",
+        "steps"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "elevator",
+        "facilities general",
+        "negative",
+        "no"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "heart of Madrid"
+      ],
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "perfect location"
+      ],
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "heart of Madrid by foot"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "would stay"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "would stay there again"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Bathroom",
+        "rooms design_features",
+        "negative",
+        "small"
+      ],
+      [
+        "Bathroom",
+        "rooms general",
+        "negative",
+        "disappointing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "IC",
+        "hotel general",
+        "positive",
+        "better"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "IC",
+        "hotel prices",
+        "positive",
+        "better"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "none compare"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel prices",
+        "positive",
+        "within the expectation"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel prices",
+        "positive",
+        "within the expectation of the price we paid"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Breakfast",
+        "food_drinks quality",
+        "positive",
+        "real event"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "extremely friendly"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "helpful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "really helpful"
+      ],
+      [
+        "breakfast",
+        "food_drinks quality",
+        "positive",
+        "ok"
+      ],
+      [
+        "bathroom",
+        "rooms design_features",
+        "negative",
+        "NULL"
+      ],
+      [
+        "bathroom",
+        "rooms design_features",
+        "negative",
+        "glass walls so a little bit embarassing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "Wonderful service"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "fault anything"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "Wonderful"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "couldn't fault anything"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "room",
+        "rooms cleanliness",
+        "positive",
+        "good"
+      ],
+      [
+        "room",
+        "rooms comfort",
+        "positive",
+        "tidy"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "clean"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "room",
+        "rooms general",
+        "positive",
+        "good"
+      ],
+      [
+        "room",
+        "rooms cleanliness",
+        "positive",
+        "clean"
+      ],
+      [
+        "room",
+        "rooms cleanliness",
+        "positive",
+        "tidy"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "attentive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Coral Princess",
+        "hotel general",
+        "positive",
+        "well kept secret"
+      ],
+      [
+        "Coral Princess",
+        "hotel general",
+        "positive",
+        "tucked away"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "The Coral Princess",
+        "hotel general",
+        "positive",
+        "well kept secret"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "towels",
+        "room_amenities quality",
+        "positive",
+        "very thick and soft"
+      ],
+      [
+        "pool",
+        "facilities general",
+        "negative",
+        "no"
+      ],
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "dart train is only about 2 blocks"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bar",
+        "food_drinks style_options",
+        "positive",
+        "Quaint"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bar",
+        "food_drinks quality",
+        "positive",
+        "Quaint"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "room",
+        "rooms design_features",
+        "negative",
+        "horribly small"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "room",
+        "rooms design_features",
+        "negative",
+        "horribly small"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Royal",
+        "hotel general",
+        "positive",
+        "could not have been more pleased"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "could not have been more pleased"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "helpful"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "knowledge"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "helpful"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "knowledge of San Francisco was excellent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Breakfast",
+        "food_drinks quality",
+        "positive",
+        "well presented"
+      ],
+      [
+        "Breakfast",
+        "food_drinks style_options",
+        "positive",
+        "all tastes are catered"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "definitely recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bed",
+        "rooms design_features",
+        "positive",
+        "fantastic"
+      ],
+      [
+        "NULL",
+        "hotel comfort",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bed",
+        "room_amenities comfort",
+        "positive",
+        "comfortable"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "negative",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Chealsea Lodge",
+        "hotel general",
+        "positive",
+        "Did not love"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "kind"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "Very kind"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "rooms design_features",
+        "negative",
+        "are really hot"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "AC",
+        "room_amenities general",
+        "negative",
+        "don't have"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Delightful !"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Delightful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel design_features",
+        "positive",
+        "Perfect for a short break in Paris"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel miscellaneous",
+        "positive",
+        "Perfect for a short break in Paris"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "right next to lots of the sights"
+      ],
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "the cable car turnaround"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "concierge",
+        "service general",
+        "positive",
+        "able to recommend great restaurants"
+      ],
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "right next to lots of the sights"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "negative",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "hotel general",
+        "positive",
+        "wonderful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "rooftop pool",
+        "facilities general",
+        "neutral",
+        "only really aplunge pool"
+      ],
+      [
+        "breakfast",
+        "food_drinks prices",
+        "negative",
+        "very expensive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel comfort",
+        "positive",
+        "A nice quiet spot"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "with excellent service"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "nice quiet spot"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "excellent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "friendly"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "friendly"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "helpful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lounge",
+        "rooms miscellaneous",
+        "positive",
+        "super"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lounge",
+        "facilities comfort",
+        "positive",
+        "really convenient"
+      ],
+      [
+        "washers and dryers",
+        "facilities general",
+        "positive",
+        "super"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "better than I expected"
+      ],
+      [
+        "NULL",
+        "hotel comfort",
+        "positive",
+        "I completely relaxed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "turned out better than I expected"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "hotel shuttle"
+      ],
+      [
+        "shuttle",
+        "hotel general",
+        "positive",
+        "at your convenience"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "shuttle",
+        "facilities general",
+        "positive",
+        "provides transport to Ubud centre"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "staff"
+      ],
+      [
+        ".",
+        "hotel general",
+        "positive",
+        "."
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "checked me in very early"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "pointed me in the right direction to the main centre"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Pleasantly surprised"
+      ],
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "Very close to airport"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Breakfast",
+        "food_drinks prices",
+        "positive",
+        "included in price"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms design_features",
+        "negative",
+        "small"
+      ],
+      [
+        "rooms",
+        "rooms cleanliness",
+        "positive",
+        "clean"
+      ],
+      [
+        "Breakfast",
+        "food_drinks quality",
+        "positive",
+        "adequate"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Staff",
+        "service general",
+        "positive",
+        "polite"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "room",
+        "rooms design_features",
+        "positive",
+        "large"
+      ],
+      [
+        "room",
+        "rooms design_features",
+        "positive",
+        "European"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms cleanliness",
+        "positive",
+        "clean"
+      ],
+      [
+        "triple room",
+        "rooms design_features",
+        "positive",
+        "extremely large"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "superb"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "Best"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "absolutely superb"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "Every single employee"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Every single employee",
+        "service general",
+        "positive",
+        "above  beyond"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "definately th茅 place"
+      ],
+      [
+        "Amsterdam",
+        "location general",
+        "positive",
+        "definately th茅 place"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "definately th茅 place to stay"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel prices",
+        "negative",
+        "no room available"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "no room available"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel design_features",
+        "positive",
+        "Elegant serene"
+      ],
+      [
+        "NULL",
+        "hotel design_features",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Elegant serene"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "negative",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "great base"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Aalders Hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Aalders Hotel",
+        "hotel general",
+        "positive",
+        "happy to stay"
+      ],
+      [
+        "Aalders Hotel",
+        "hotel general",
+        "positive",
+        "will return for sure to this hotel"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "All in all"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "stay",
+        "hotel general",
+        "positive",
+        "great"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "rooms design_features",
+        "positive",
+        "rice fields and the volcano"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "room",
+        "rooms design_features",
+        "positive",
+        "faces pretty rice fields and the volcano"
+      ],
+      [
+        "room",
+        "rooms design_features",
+        "positive",
+        "faces pretty rice fields and the volcano"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food_drinks quality",
+        "positive",
+        "good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "good restuarants within walking distance"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Breezes",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Breezes",
+        "hotel general",
+        "positive",
+        "Brilliant"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "amazing"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Service",
+        "service general",
+        "positive",
+        "amazing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Alicia",
+        "hotel general",
+        "positive",
+        "not disappointed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Alicia",
+        "hotel general",
+        "positive",
+        "not disappointed in the least"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "We stayed at the South Pacific Hotel"
+      ],
+      [
+        "South Pacific Hotel",
+        "hotel general",
+        "positive",
+        "We stayed at the South Pacific Hotel"
+      ],
+      [
+        "South Pacific Hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "South Pacific Hotel",
+        "hotel general",
+        "positive",
+        "most enjoyable"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "room",
+        "rooms design_features",
+        "negative",
+        "did not have air - conditioning"
+      ],
+      [
+        "room",
+        "rooms cleanliness",
+        "neutral",
+        "floor level windows"
+      ],
+      [
+        "room",
+        "rooms cleanliness",
+        "neutral",
+        "air - conditioning"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "room",
+        "room_amenities general",
+        "negative",
+        "did not have air-conditioning"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rooftop bar and restaurant",
+        "hotel design_features",
+        "positive",
+        "wonderful"
+      ],
+      [
+        "rooftop bar and restaurant",
+        "hotel design_features",
+        "positive",
+        "great place to catch the evening light"
+      ],
+      [
+        "rooftop bar and restaurant",
+        "food_drinks quality",
+        "positive",
+        "excellent local gourmet food"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rooftop bar",
+        "facilities design_features",
+        "positive",
+        "wonderful"
+      ],
+      [
+        "restaurant",
+        "facilities design_features",
+        "positive",
+        "great place to catch the evening light"
+      ],
+      [
+        "food",
+        "food_drinks quality",
+        "positive",
+        "excellent local gourmet"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "breakfast",
+        "food_drinks quality",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "Very helpful"
+      ],
+      [
+        "breakfast",
+        "food_drinks quality",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms design_features",
+        "negative",
+        "small"
+      ],
+      [
+        "Jean",
+        "service general",
+        "positive",
+        "made our stay here more than comfortable"
+      ],
+      [
+        "Joyce",
+        "service general",
+        "positive",
+        "made our stay here more than comfortable"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "friendly"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "helpful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "very friendly"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "helpful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "room",
+        "rooms miscellaneous",
+        "neutral",
+        "a little small"
+      ],
+      [
+        "NULL",
+        "rooms design_features",
+        "neutral",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "room",
+        "rooms design_features",
+        "negative",
+        "little small"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "extremely friendly"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "helpful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "extremely friendly"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "helpful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "negative",
+        "hotel"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "employees",
+        "service general",
+        "negative",
+        "room doors were opened by housekeeping"
+      ],
+      [
+        "employees",
+        "service general",
+        "negative",
+        "violating their own policy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "great"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "very friendly"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "accomodating"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "Great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms comfort",
+        "negative",
+        "noisy"
+      ],
+      [
+        "rooms",
+        "rooms comfort",
+        "negative",
+        "very dark"
+      ],
+      [
+        "rooms",
+        "rooms comfort",
+        "negative",
+        "also very noisy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "very pleasant"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "very pleasant"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "Very, very pleasant"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "accomodating"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rooms",
+        "rooms cleanliness",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel cleanliness",
+        "neutral",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "warm"
+      ],
+      [
+        "NULL",
+        "hotel comfort",
+        "positive",
+        "Cosy"
+      ],
+      [
+        "rooms",
+        "rooms general",
+        "positive",
+        "nice"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "negative",
+        "small"
+      ],
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "close to all tourist sites and the trainstation"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel miscellaneous",
+        "neutral",
+        "Free access to computer in a lobby"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "computer",
+        "facilities prices",
+        "positive",
+        "Free access"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "future"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "stay"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "vis"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "definitely stay"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Sheraton",
+        "hotel general",
+        "positive",
+        "we enjoyed our stay very much"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Sheraton",
+        "hotel general",
+        "positive",
+        "enjoyed our stay very much"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "Perfect location"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "center of Old Berlin"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "Perfect"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "good location"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "good"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "All sights within easy walking distance"
+      ],
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "5 mins walk to the flower market"
+      ],
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "15-20 mins to Museumplein"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "Great"
+      ],
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "near Market Street, Union Square and Theatre District"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "room",
+        "rooms cleanliness",
+        "positive",
+        "Great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "room",
+        "rooms general",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "few mins from airport"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotels",
+        "hotel general",
+        "positive",
+        "this is the one I will return to"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Location",
+        "location general",
+        "positive",
+        "hard to beat"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Would definately stay there again"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mini bar",
+        "rooms miscellaneous",
+        "neutral",
+        "It has a free mini bar"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "free",
+        "facilities prices",
+        "positive",
+        "mini bar"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Benjamin",
+        "hotel general",
+        "positive",
+        "will definitely stay"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Benjamin",
+        "hotel general",
+        "positive",
+        "will definitely stay"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "neutral",
+        "We shall probably stay elsewhere"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "neutral",
+        "next time"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "negative",
+        "probably stay elsewhere"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "hotel",
+        "hotel prices",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel prices",
+        "positive",
+        "Good deal"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel cleanliness",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Castle Inn",
+        "hotel general",
+        "positive",
+        "perfect"
+      ],
+      [
+        "Castle Inn",
+        "hotel cleanliness",
+        "positive",
+        "very clean"
+      ],
+      [
+        "Castle Inn",
+        "hotel comfort",
+        "positive",
+        "quiet"
+      ],
+      [
+        "Castle Inn",
+        "location general",
+        "positive",
+        "great location"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Hotel",
+        "hotel general",
+        "positive",
+        "uber cool"
+      ],
+      [
+        "Hotel",
+        "hotel design_features",
+        "positive",
+        "beautifully decorated"
+      ],
+      [
+        "Hotel",
+        "location general",
+        "positive",
+        "5 minutes walk from Sol square and tube"
+      ],
+      [
+        "Bar",
+        "facilities general",
+        "positive",
+        "lovely"
+      ],
+      [
+        "restaurant",
+        "facilities design_features",
+        "positive",
+        "looked equally nice"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "negative",
+        "extremely rude"
+      ],
+      [
+        "staff",
+        "service general",
+        "negative",
+        "not very attentive and courteous"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "room",
+        "rooms comfort",
+        "positive",
+        "delightfully quiet"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "hotel"
+      ],
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Location",
+        "location general",
+        "positive",
+        "more than perfect"
+      ],
+      [
+        "Location",
+        "location general",
+        "positive",
+        "walking distance to the main attractions"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "room",
+        "rooms design_features",
+        "positive",
+        "elegant"
+      ],
+      [
+        "room",
+        "rooms cleanliness",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms general",
+        "positive",
+        "elegant"
+      ],
+      [
+        "rooms",
+        "rooms cleanliness",
+        "positive",
+        "everthing clean"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "negative",
+        "stuck"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel miscellaneous",
+        "negative",
+        "Would stay again only if stuck"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "high end"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "good"
+      ],
+      [
+        "hotel",
+        "hotel cleanliness",
+        "positive",
+        "clean"
+      ],
+      [
+        "hotel",
+        "hotel quality",
+        "positive",
+        "high end"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "wonderful"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "very accomodating"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "friendly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "negative",
+        "chaotic state"
+      ],
+      [
+        "staff",
+        "service general",
+        "negative",
+        "not particularly helpful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "negative",
+        "not particularly helpful or courteous"
+      ],
+      [
+        "lobby",
+        "hotel general",
+        "negative",
+        "chaotic state"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Hotel",
+        "hotel design_features",
+        "negative",
+        "could do with some updating"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Hotel",
+        "hotel miscellaneous",
+        "neutral",
+        "could do with some updating"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "were ever so helpful"
+      ],
+      [
+        "suite",
+        "rooms design_features",
+        "positive",
+        "had everything you could think of"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "ever so helpful"
+      ],
+      [
+        "suite",
+        "rooms general",
+        "positive",
+        "had everything you could think of"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel prices",
+        "negative",
+        "Tradeoff"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "negative",
+        "Tradeoffs"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "room",
+        "rooms general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "shower",
+        "rooms cleanliness",
+        "positive",
+        "NULL"
+      ],
+      [
+        "room",
+        "rooms general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lights/blinds",
+        "room_amenities quality",
+        "negative",
+        "usual complaints about working"
+      ],
+      [
+        "bathroom",
+        "rooms miscellaneous",
+        "negative",
+        "flooding"
+      ],
+      [
+        "room",
+        "rooms general",
+        "positive",
+        "really enjoyed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "Great Location"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Location",
+        "location general",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "black out blinds",
+        "rooms design_features",
+        "positive",
+        "fantastic"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "rooms comfort",
+        "positive",
+        "black out blinds were fantastic for sleeping"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "nice location in Barcelona"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "near the center"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "nice location"
+      ],
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "near the center"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel quality",
+        "positive",
+        "standard business"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "neutral",
+        "standard business hotel"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "negative",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel prices",
+        "negative",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "rooms design_features",
+        "negative",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel quality",
+        "negative",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Villa Capri",
+        "hotel general",
+        "negative",
+        "5 star officially, but really 3 star quality"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lounge bar",
+        "food_drinks miscellaneous",
+        "positive",
+        "Fantastic mojitos"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "mojitos",
+        "food_drinks quality",
+        "positive",
+        "Fantastic"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food_drinks prices",
+        "negative",
+        "over rated"
+      ],
+      [
+        "NULL",
+        "food_drinks prices",
+        "negative",
+        "over priced"
+      ],
+      [
+        "NULL",
+        "food_drinks style_options",
+        "neutral",
+        "do a luai"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "dinner cruises",
+        "food_drinks quality",
+        "negative",
+        "do not recommend"
+      ],
+      [
+        "dinner cruises",
+        "food_drinks quality",
+        "negative",
+        "over rated"
+      ],
+      [
+        "dinner cruises",
+        "food_drinks prices",
+        "negative",
+        "over priced"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "the service was wonderful"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "the service was wonderful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "wonderful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rooms",
+        "rooms cleanliness",
+        "positive",
+        "clean"
+      ],
+      [
+        "rooms",
+        "rooms comfort",
+        "positive",
+        "comfortable"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "lovely to look at"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms cleanliness",
+        "positive",
+        "clean"
+      ],
+      [
+        "rooms",
+        "rooms comfort",
+        "positive",
+        "comfortable"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "lovely to look at"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "negative",
+        "very false"
+      ],
+      [
+        "staff",
+        "service general",
+        "negative",
+        "very miserable"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "negative",
+        "very false"
+      ],
+      [
+        "staff",
+        "service general",
+        "negative",
+        "very miserable"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "negative",
+        "Average"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "neutral",
+        "Average"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "The staff are friendly"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "friendly"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "friendly"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "helpful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "Would certainly stay"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "certainly stay"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "room",
+        "rooms general",
+        "positive",
+        "comfortable"
+      ],
+      [
+        "room",
+        "rooms design_features",
+        "positive",
+        "smaller than normal European hotel rooms"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "room",
+        "rooms design_features",
+        "negative",
+        "small"
+      ],
+      [
+        "room",
+        "rooms comfort",
+        "positive",
+        "very comfortable"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Can't imagine a better place"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Everyone",
+        "service general",
+        "positive",
+        "very friendly"
+      ],
+      [
+        "Everyone",
+        "service general",
+        "positive",
+        "courtious"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "rooms general",
+        "negative",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "room",
+        "rooms comfort",
+        "negative",
+        "depressingly hot"
+      ],
+      [
+        "room",
+        "rooms cleanliness",
+        "negative",
+        "dank"
+      ],
+      [
+        "room",
+        "rooms design_features",
+        "negative",
+        "tiny"
+      ],
+      [
+        "room",
+        "rooms design_features",
+        "negative",
+        "shabby"
+      ],
+      [
+        "room",
+        "rooms general",
+        "negative",
+        "UNACCEPTABLE"
+      ],
+      [
+        "room",
+        "rooms prices",
+        "negative",
+        "UNACCEPTABLE"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Staff",
+        "service general",
+        "positive",
+        "friendly"
+      ],
+      [
+        "Staff",
+        "service general",
+        "positive",
+        "helpful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "people",
+        "service general",
+        "negative",
+        "Rude"
+      ],
+      [
+        "people",
+        "service general",
+        "negative",
+        "jerk"
+      ],
+      [
+        "people",
+        "service general",
+        "negative",
+        "used strong language"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "breakfast",
+        "food_drinks quality",
+        "positive",
+        "excellent"
+      ],
+      [
+        "breakfast",
+        "food_drinks style_options",
+        "positive",
+        "sunrise package"
+      ],
+      [
+        "breakfast",
+        "food_drinks quality",
+        "positive",
+        "sunrise package"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "breakfast",
+        "food_drinks quality",
+        "positive",
+        "excellent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel design_features",
+        "positive",
+        "wonderful"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "classy"
+      ],
+      [
+        "hotel",
+        "hotel comfort",
+        "positive",
+        "comfortable"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Rydges World Square Hotel",
+        "hotel general",
+        "positive",
+        "wonderful"
+      ],
+      [
+        "Rydges World Square Hotel",
+        "hotel design_features",
+        "positive",
+        "classy"
+      ],
+      [
+        "Rydges World Square Hotel",
+        "hotel comfort",
+        "positive",
+        "comfortable"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "negative",
+        "different"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Hotel",
+        "hotel general",
+        "positive",
+        "Good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "excellent"
+      ],
+      [
+        "room",
+        "rooms general",
+        "positive",
+        "well-appointed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Four Season Mexico City",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Four Season Mexico City",
+        "hotel general",
+        "positive",
+        "Perfect"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Highly recommended"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Highly recommended"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Highly recommended"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "so friendly"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "helpful"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "make our stay as comfortable"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "really did their very best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "outstanding"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Hotel",
+        "hotel general",
+        "positive",
+        "the Hotel couldnt have been better"
+      ],
+      [
+        "Hotel",
+        "hotel general",
+        "positive",
+        "the Hotel couldnt have been better"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Hotel",
+        "hotel general",
+        "positive",
+        "couldnt have been better"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "magnificent"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "excellent sevice"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "fabulous"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "fabulous"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "It only took about 15 mins to walk"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "15 mins to walk from central station"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "I will surely stay again"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "will surely stay again"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "A honest budget Hotel that will almost certainly exceed your expectations"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Hotel",
+        "hotel prices",
+        "positive",
+        "honest budget"
+      ],
+      [
+        "Hotel",
+        "hotel general",
+        "positive",
+        "certainly exceed your expectations"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "room",
+        "rooms general",
+        "positive",
+        "open our windows to overlook the picturesque Florentine rooftops"
+      ],
+      [
+        "room",
+        "rooms general",
+        "positive",
+        "overwhelming view of the Duomo"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "luxurious place"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Recommended"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Recommended"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Benchmark in Hospitality"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Hospitality",
+        "service general",
+        "positive",
+        "Benchmark"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "You will return"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "will return"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "linen",
+        "rooms cleanliness",
+        "positive",
+        "very clean"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "white linens",
+        "room_amenities general",
+        "positive",
+        "Love"
+      ],
+      [
+        "white linens",
+        "room_amenities cleanliness",
+        "positive",
+        "very clean"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bed",
+        "rooms design_features",
+        "positive",
+        "king - size bed"
+      ],
+      [
+        "NULL",
+        "rooms quality",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bed",
+        "rooms design_features",
+        "positive",
+        "king-size"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "would stay here again in a heartbeat"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "parking",
+        "location general",
+        "positive",
+        "great bonus"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "parking",
+        "facilities prices",
+        "positive",
+        "Free"
+      ],
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "nice neighboorhood with good restaurants and stores"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "very friendly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "hotel",
+        "hotel cleanliness",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "very nice"
+      ],
+      [
+        "hotel",
+        "hotel cleanliness",
+        "positive",
+        "very clean"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Palomar",
+        "hotel general",
+        "positive",
+        "I will stay"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Palomar",
+        "hotel general",
+        "positive",
+        "will stay nowhere else"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "concierge",
+        "service general",
+        "positive",
+        "had a separate"
+      ],
+      [
+        "breakfast",
+        "food_drinks quality",
+        "positive",
+        "delicious"
+      ],
+      [
+        "breakfast",
+        "food_drinks prices",
+        "positive",
+        "free"
+      ],
+      [
+        "afternoon drinks",
+        "food_drinks prices",
+        "positive",
+        "free"
+      ],
+      [
+        "afternoon drinks",
+        "food_drinks quality",
+        "positive",
+        "delicious"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Hotel Accademia",
+        "hotel general",
+        "neutral",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "neutral",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Hotel Accademia",
+        "hotel prices",
+        "positive",
+        "Okay for the money"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "room",
+        "rooms general",
+        "negative",
+        "not changed"
+      ],
+      [
+        "cleaning lady",
+        "hotel general",
+        "negative",
+        "not changed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "room",
+        "rooms cleanliness",
+        "negative",
+        "just wiped off"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "recommend"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Would recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "highly reccommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "breakfast",
+        "food_drinks quality",
+        "positive",
+        "wonderful"
+      ],
+      [
+        "breakfast",
+        "food_drinks style_options",
+        "positive",
+        "lots of choice"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Agora",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "Very nice"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "negative",
+        "run - down area of Barcelona"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "location general",
+        "negative",
+        "NOT situated in a run-down area of Barcelona"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "decor",
+        "hotel design_features",
+        "positive",
+        "modern"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "decor",
+        "rooms general",
+        "positive",
+        "Very modern"
+      ],
+      [
+        "decor",
+        "rooms general",
+        "positive",
+        "refreshing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "nice"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "very"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        ""
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "very nice"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "perfect"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "This hotel is highly recommended"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "This hotel is highly recommended"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "highly recommended"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "room",
+        "rooms design_features",
+        "negative",
+        "just"
+      ],
+      [
+        "NULL",
+        "rooms miscellaneous",
+        "negative",
+        "single"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "room",
+        "rooms design_features",
+        "negative",
+        "very small"
+      ],
+      [
+        "room",
+        "rooms prices",
+        "negative",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "definitely stay here again"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "Great location"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "Thought overall the hotel"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel prices",
+        "positive",
+        "excellent value for money"
+      ],
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "good location"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "would return"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "staff who really do genuinely care"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "really do genuinely care"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "extremely"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "helpful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "extremely helpfull"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel prices",
+        "neutral",
+        "Price was good"
+      ],
+      [
+        "$ 200 a night",
+        "hotel prices",
+        "neutral",
+        "Price was good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel prices",
+        "positive",
+        "good considering the location"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel prices",
+        "positive",
+        "Good price"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "Good price"
+      ],
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "Good price"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "price",
+        "hotel prices",
+        "positive",
+        "Good"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "Good"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "Good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "great"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "great"
+      ],
+      [
+        "room",
+        "rooms general",
+        "positive",
+        "great"
+      ],
+      [
+        "food",
+        "food_drinks quality",
+        "positive",
+        "great"
+      ],
+      [
+        "bar",
+        "food_drinks quality",
+        "positive",
+        "great"
+      ],
+      [
+        "facilities",
+        "facilities general",
+        "positive",
+        "great"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "great"
+      ],
+      [
+        "NULL",
+        "hotel cleanliness",
+        "positive",
+        "clean"
+      ],
+      [
+        "NULL",
+        "hotel comfort",
+        "positive",
+        "comfortable"
+      ],
+      [
+        "NULL",
+        "hotel design_features",
+        "positive",
+        "modern"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "always as helpful"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "Great views of the harbour/city"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "breakfast",
+        "food_drinks quality",
+        "positive",
+        "nice"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "breakfast",
+        "food_drinks quality",
+        "positive",
+        "Very nice"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pool",
+        "rooms comfort",
+        "positive",
+        "perfect temperature"
+      ],
+      [
+        "swim up bar",
+        "rooms design_features",
+        "positive",
+        "great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "beach",
+        "facilities general",
+        "positive",
+        "lovely"
+      ],
+      [
+        "pool",
+        "facilities general",
+        "positive",
+        "perfect temperature"
+      ],
+      [
+        "swim up bar",
+        "facilities general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Bernini Palace",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Bernini Palace",
+        "hotel general",
+        "positive",
+        "Recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "very convenient central"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "breakfast",
+        "food_drinks quality",
+        "negative",
+        "not good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "breakfast",
+        "food_drinks quality",
+        "negative",
+        "not good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "negative",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel miscellaneous",
+        "negative",
+        "look elsewher"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "rooms design_features",
+        "positive",
+        "renovation"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "modern"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "comfortable"
+      ],
+      [
+        "NULL",
+        "rooms general",
+        "positive",
+        "any amenity"
+      ],
+      [
+        "NULL",
+        "rooms general",
+        "negative",
+        "ignored"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "negative",
+        "ignored"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "modern"
+      ],
+      [
+        "rooms",
+        "rooms comfort",
+        "positive",
+        "comfortable"
+      ],
+      [
+        "rooms",
+        "room_amenities general",
+        "positive",
+        "included any amenity we could have asked for"
+      ],
+      [
+        "housekeeping",
+        "service general",
+        "negative",
+        "clearly ignored"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "most important person"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "Felt as though I was the most important person there"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "heart beat"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Would stay there again in a heart beat"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Overall a wonderful experience"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "wonderful experience"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "friendly"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "brought our son a gold fish"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "friendly"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "very friendly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel prices",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Loved"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "inviting"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "inviting"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "invitin"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "invitin"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "invitin"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "invitin"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "invitin"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "invitin"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "invitin"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "invitin"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "invitin"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "invitin"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Lobby",
+        "hotel design_features",
+        "positive",
+        "inviting"
+      ],
+      [
+        "personnel",
+        "service general",
+        "positive",
+        "helpful"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "lovely ambience"
+      ],
+      [
+        "accomodations",
+        "rooms general",
+        "positive",
+        "cannot say enough"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Breakfast",
+        "food_drinks quality",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Location",
+        "location general",
+        "positive",
+        "Perfect"
+      ],
+      [
+        "Hotel",
+        "hotel general",
+        "positive",
+        "Perfect"
+      ],
+      [
+        "rooms",
+        "rooms general",
+        "positive",
+        "beautifull"
+      ],
+      [
+        "rooms",
+        "rooms comfort",
+        "positive",
+        "no noise from the gran via street"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "would come back to the same room"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "attendant",
+        "service general",
+        "positive",
+        "Friendly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "negative",
+        "lied"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "negative",
+        "lied about the other rooms"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "rooms cleanliness",
+        "positive",
+        "bedrooms"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "bathrooms"
+      ],
+      [
+        "NULL",
+        "food_drinks quality",
+        "positive",
+        "great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bedrooms",
+        "rooms design_features",
+        "positive",
+        "Beautiful"
+      ],
+      [
+        "bathrooms",
+        "rooms general",
+        "positive",
+        "nice"
+      ],
+      [
+        "breakfast",
+        "food_drinks quality",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel quality",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "neutral",
+        "won't be disappointed!"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel design_features",
+        "positive",
+        "top of the hill"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "superb"
+      ],
+      [
+        "hotel",
+        "hotel quality",
+        "positive",
+        "first class"
+      ],
+      [
+        "hotel",
+        "hotel design_features",
+        "positive",
+        "nice views"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bar",
+        "hotel design_features",
+        "positive",
+        "one of the best in NY"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "What sets this hotel apart is the location and the extra amenities"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "hotel",
+        "room_amenities general",
+        "positive",
+        "extra amenities"
+      ],
+      [
+        "bar",
+        "food_drinks quality",
+        "positive",
+        "one of the best in NY"
+      ],
+      [
+        "concierge",
+        "service general",
+        "positive",
+        "can't help enough"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "the beach was walk down a flight of steps"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "The Benjamin",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "warm"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "intimate"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "fantastic"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "fantastic"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "wine",
+        "food_drinks style_options",
+        "positive",
+        "good quality"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "wine",
+        "food_drinks quality",
+        "positive",
+        "good quality"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "Good"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "A Great Time"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Great Time"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Victoria 4 is a good choi"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Victoria 4",
+        "hotel general",
+        "positive",
+        "good choic"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel prices",
+        "negative",
+        "NULL"
+      ],
+      [
+        "HOWARD JOHNSON organisation",
+        "service general",
+        "negative",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "facilities prices",
+        "negative",
+        "charged more"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "Great location"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "accessible to long beach"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "convenient to area highways"
+      ],
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "very accessible to long beach"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Superb !"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Superb"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "would definitely stay"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "would definitely stay"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "very good"
+      ],
+      [
+        "room",
+        "rooms design_features",
+        "positive",
+        "sized right"
+      ],
+      [
+        "hotel",
+        "hotel prices",
+        "positive",
+        "NULL"
+      ],
+      [
+        "breakfast",
+        "food_drinks quality",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "very good"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "sized right"
+      ],
+      [
+        "breakfast",
+        "food_drinks quality",
+        "positive",
+        "superb"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "negative",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "way in which the hotel handled this",
+        "service general",
+        "negative",
+        "major concern"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Halekulani",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "wonderful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel prices",
+        "positive",
+        "best around for the budget traveler"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel prices",
+        "positive",
+        "best around for the budget"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "room",
+        "rooms cleanliness",
+        "positive",
+        "clean"
+      ],
+      [
+        "room",
+        "rooms design_features",
+        "negative",
+        "small"
+      ],
+      [
+        "appointments",
+        "room_amenities general",
+        "neutral",
+        "basic"
+      ],
+      [
+        "appointments",
+        "room_amenities general",
+        "positive",
+        "nice"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "good"
+      ],
+      [
+        "buffet breakfast",
+        "food_drinks quality",
+        "neutral",
+        "basic"
+      ],
+      [
+        "buffet breakfast",
+        "food_drinks quality",
+        "positive",
+        "tasty"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel design_features",
+        "positive",
+        "face - lift"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "has been given a face-lift"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel prices",
+        "positive",
+        "NULL"
+      ],
+      [
+        "Executive club lounge",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel prices",
+        "positive",
+        "best price"
+      ],
+      [
+        "NULL",
+        "hotel quality",
+        "positive",
+        "quality"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "service"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "room",
+        "rooms cleanliness",
+        "positive",
+        "clean"
+      ],
+      [
+        "room",
+        "rooms design_features",
+        "positive",
+        "large"
+      ],
+      [
+        "bathroom/dressing room",
+        "rooms general",
+        "positive",
+        "nice"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "had very good service"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "had very good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "very good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "neutral",
+        "just one"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Location",
+        "location general",
+        "positive",
+        "just one feature here"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "fabulous"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms general",
+        "positive",
+        "fabulous"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "close to the hip boutiques such as HM, Urban Ourfitter"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "location general",
+        "negative",
+        "not so easy to find"
+      ],
+      [
+        "hotel",
+        "location general",
+        "negative",
+        "no road signs indicating proper direction"
+      ],
+      [
+        "hotel",
+        "location general",
+        "negative",
+        "not visible from main roads"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "very close to the airport"
+      ],
+      [
+        "hotel",
+        "hotel miscellaneous",
+        "negative",
+        "but not so easy to find"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "resort",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "resort",
+        "hotel general",
+        "positive",
+        "xcellent"
+      ],
+      [
+        "resort",
+        "hotel general",
+        "positive",
+        "wonderful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rooms",
+        "rooms comfort",
+        "positive",
+        "very comfortable"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "quite large"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "very impressed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms comfort",
+        "positive",
+        "very comfortable"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "quite large"
+      ],
+      [
+        "service - staff",
+        "service general",
+        "positive",
+        "very impressed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "shower",
+        "rooms design_features",
+        "positive",
+        "very good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "shower",
+        "rooms general",
+        "positive",
+        "heavenly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "Pretty good location"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "Pretty good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel prices",
+        "negative",
+        "single room double price"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "room",
+        "rooms prices",
+        "negative",
+        "double"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Slap bang in the middle of everything"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "in the middle of everything"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bill",
+        "hotel prices",
+        "negative",
+        "charged"
+      ],
+      [
+        "NULL",
+        "hotel prices",
+        "negative",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel prices",
+        "negative",
+        "internet rate of $64 a night, but the bill indicated $127"
+      ],
+      [
+        "NULL",
+        "hotel prices",
+        "negative",
+        "charged for a valet service"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Staff",
+        "service general",
+        "positive",
+        "friendly"
+      ],
+      [
+        "Staff",
+        "service general",
+        "positive",
+        "helpful"
+      ],
+      [
+        "Staff",
+        "service general",
+        "positive",
+        "some good info from the tourist desk"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "negative",
+        "Great"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "negative",
+        "shame"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "Great"
+      ],
+      [
+        "hotel",
+        "hotel prices",
+        "negative",
+        "shame"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Wonderful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "Wonderful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "We would definitely stay"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "would definitely stay here again"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "will not stay anywhere else"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "will not stay anywhere else"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "neutral",
+        "Good for a Stop over"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel miscellaneous",
+        "positive",
+        "Good for a Stop over"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "loved"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "loved"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "airport shuttle bus",
+        "location general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "airport shuttle bus",
+        "facilities general",
+        "positive",
+        "picks you up right outside the hotel"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Starwood",
+        "hotel general",
+        "negative",
+        "worst"
+      ],
+      [
+        "NULL",
+        "hotel quality",
+        "negative",
+        "the worst"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Starwood",
+        "hotel general",
+        "negative",
+        "worst"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel prices",
+        "positive",
+        "worth every penny"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel prices",
+        "negative",
+        "more expenseive"
+      ],
+      [
+        "NULL",
+        "hotel prices",
+        "positive",
+        "worth every penny"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "shopping center",
+        "location general",
+        "positive",
+        "ala Mona"
+      ],
+      [
+        "attractions",
+        "location general",
+        "positive",
+        "walk"
+      ],
+      [
+        "shopping center",
+        "location general",
+        "positive",
+        "shopping center"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "walking distance to many attractions"
+      ],
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "short driving disntance to the ala Mona shopping center"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel cleanliness",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "treated our children like royalty"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lifts",
+        "rooms design_features",
+        "neutral",
+        "fast"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lifts",
+        "facilities general",
+        "positive",
+        "fast"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bed",
+        "rooms design_features",
+        "positive",
+        "comfortable"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "beds",
+        "rooms comfort",
+        "positive",
+        "Extremely comfortable"
+      ],
+      [
+        "NULL",
+        "rooms cleanliness",
+        "positive",
+        "very clean"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "very helpful"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "friendly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Hotel",
+        "hotel general",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "love"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "room",
+        "rooms general",
+        "neutral",
+        "NULL"
+      ],
+      [
+        "room",
+        "rooms general",
+        "neutral",
+        "NULL"
+      ],
+      [
+        "room",
+        "rooms general",
+        "neutral",
+        "NULL"
+      ],
+      [
+        "room",
+        "rooms general",
+        "neutral",
+        "NULL"
+      ],
+      [
+        "room",
+        "rooms general",
+        "neutral",
+        "NULL"
+      ],
+      [
+        "room",
+        "rooms general",
+        "neutral",
+        "NULL"
+      ],
+      [
+        "room",
+        "rooms general",
+        "neutral",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "wonderful"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "probably the best we've ever stayed in"
+      ],
+      [
+        "room",
+        "rooms general",
+        "positive",
+        "lovely"
+      ],
+      [
+        "room",
+        "rooms design_features",
+        "positive",
+        "spacious"
+      ],
+      [
+        "bathroom",
+        "rooms general",
+        "positive",
+        "lovely"
+      ],
+      [
+        "bathroom",
+        "rooms design_features",
+        "positive",
+        "spacious"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "friendliest"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "most helpful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Room",
+        "rooms design_features",
+        "positive",
+        "Beautiful View"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Great Holiday"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Great Hotel"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Hotel",
+        "hotel general",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Silver",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "Silver",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Aparthotel Silver",
+        "hotel general",
+        "positive",
+        "good"
+      ],
+      [
+        "Aparthotel Silver",
+        "hotel cleanliness",
+        "positive",
+        "clean"
+      ],
+      [
+        "Aparthotel Silver",
+        "hotel quality",
+        "positive",
+        "tourist class hotel"
+      ],
+      [
+        "Aparthotel Silver",
+        "location general",
+        "positive",
+        "quiet neighbourhood"
+      ],
+      [
+        "Aparthotel Silver",
+        "location general",
+        "positive",
+        "north of the city centre"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "breakfasts",
+        "food_drinks quality",
+        "positive",
+        "good"
+      ],
+      [
+        "breakfasts",
+        "food_drinks style_options",
+        "positive",
+        "lots of choice to suit all tastes"
+      ],
+      [
+        "afternoon tea",
+        "food_drinks miscellaneous",
+        "positive",
+        "recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "It was wonderful !"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "wonderful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "Great service"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "Great"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "very friendly"
+      ],
+      [
+        "breakfast",
+        "food_drinks prices",
+        "positive",
+        "excellant complementary"
+      ],
+      [
+        "breakfast",
+        "food_drinks style_options",
+        "positive",
+        "American style"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "I would recommend it"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "I would recommend it"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotels",
+        "hotel general",
+        "positive",
+        "would recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "rooms miscellaneous",
+        "positive",
+        "free of charge"
+      ],
+      [
+        "hotel",
+        "rooms miscellaneous",
+        "positive",
+        "duration of our stay"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "huge umbrellas",
+        "facilities prices",
+        "positive",
+        "free of charge"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "I am planning to go back to Florence in September"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "would definately stay"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "would definately stay"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel quality",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel prices",
+        "positive",
+        "great priced"
+      ],
+      [
+        "hotel",
+        "room_amenities general",
+        "positive",
+        "nice amenities"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "beautifully restored"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "historical furniture"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "beautifully restored with historical furniture"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "negative",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "would definitely stay here again"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "room",
+        "rooms design_features",
+        "positive",
+        "beautiful"
+      ],
+      [
+        "bath",
+        "rooms general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms general",
+        "positive",
+        "beautiful"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "floors in marble"
+      ],
+      [
+        "jacuzzi bathtubs",
+        "room_amenities general",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mattress",
+        "rooms design_features",
+        "negative",
+        "very firm"
+      ],
+      [
+        "NULL",
+        "rooms design_features",
+        "negative",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "mattress",
+        "room_amenities quality",
+        "negative",
+        "very firm"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel cleanliness",
+        "positive",
+        "Security is excellent"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Security",
+        "service general",
+        "positive",
+        "excellent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Very good choice"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Excellent location"
+      ],
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "close to every touristic spot"
+      ],
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "surrounded by restaurants and bars"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "close to every touristic spot"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "Excellent"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "surrounded by restaurants and bars"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Very good choice"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Time Square",
+        "location general",
+        "positive",
+        "close proximity"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "room",
+        "rooms quality",
+        "positive",
+        "quiet"
+      ],
+      [
+        "room",
+        "rooms comfort",
+        "positive",
+        "enjoyed a restful sleep every nigh"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "negative",
+        "small"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "good location"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "negative",
+        "really small"
+      ],
+      [
+        "rooms",
+        "rooms prices",
+        "positive",
+        "low priced"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "great"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "kindness"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "Great Location"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Location",
+        "location general",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "lovely"
+      ],
+      [
+        "shopping boulevard",
+        "hotel design_features",
+        "positive",
+        "smart"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "lovely"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "modern"
+      ],
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "great location"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "We will definitely stay"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "definitely stay here"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel design_features",
+        "positive",
+        "classy"
+      ],
+      [
+        "lobby",
+        "hotel design_features",
+        "positive",
+        "classy"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Hotel",
+        "hotel design_features",
+        "positive",
+        "classy with a beautiful lobby"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "breakfas",
+        "food_drinks quality",
+        "positive",
+        "nice"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel miscellaneous",
+        "positive",
+        "recommend this Hotel for its location"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Breakfast",
+        "food_drinks quality",
+        "positive",
+        "nice"
+      ],
+      [
+        "Breakfast",
+        "food_drinks prices",
+        "positive",
+        "reasonably priced"
+      ],
+      [
+        "room",
+        "rooms prices",
+        "negative",
+        "extra to cost"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Room",
+        "rooms design_features",
+        "positive",
+        "large"
+      ],
+      [
+        "Room",
+        "rooms cleanliness",
+        "positive",
+        "very clean"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "refrigerator",
+        "rooms miscellaneous",
+        "negative",
+        "did not work"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "refrigerator",
+        "room_amenities general",
+        "negative",
+        "not work properly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "Excellent"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "close to airport"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "walking distance to Van Gogh Museum"
+      ],
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "lots of nice restaurants and Terraces around"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "food_drinks quality",
+        "positive",
+        "amazing"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "amazing restaurant nearby"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "friendly"
+      ],
+      [
+        "hotel",
+        "hotel comfort",
+        "positive",
+        "comfortable"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel quality",
+        "positive",
+        "Friendly"
+      ],
+      [
+        "hotel",
+        "hotel comfort",
+        "positive",
+        "Comfortable"
+      ],
+      [
+        "hotel",
+        "hotel quality",
+        "positive",
+        "welcoming"
+      ],
+      [
+        "hotel",
+        "hotel quality",
+        "positive",
+        "friendly"
+      ],
+      [
+        "hotel",
+        "hotel comfort",
+        "positive",
+        "comfortable"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "excellent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "pleasantly suprised"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "negative",
+        "Bad"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Bad"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "Great Customer Service"
+      ],
+      [
+        "Ramada",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Customer Service",
+        "service general",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Marriott in San Juan",
+        "hotel general",
+        "positive",
+        "loved"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "ready to help"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "always, always, ready to help me out"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "right around the corner from the Eiffel Tower"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "close to metros"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "close to metros"
+      ],
+      [
+        "NULL",
+        "hotel design_features",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Hotel",
+        "hotel general",
+        "positive",
+        "Great"
+      ],
+      [
+        "Hotel",
+        "location general",
+        "positive",
+        "excellent location"
+      ],
+      [
+        "Hotel",
+        "location general",
+        "positive",
+        "right around the corner from the Eiffel Tower"
+      ],
+      [
+        "Hotel",
+        "location general",
+        "positive",
+        "close to metros, restaurants, supermarket, shops"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "definatly stay here again"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Hotel",
+        "hotel general",
+        "positive",
+        "Lovely"
+      ],
+      [
+        "Hotel",
+        "hotel general",
+        "positive",
+        "Excellent"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "great"
+      ],
+      [
+        "rooms",
+        "rooms general",
+        "positive",
+        "good"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "well sized"
+      ],
+      [
+        "bathroom",
+        "rooms design_features",
+        "positive",
+        "good size"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "room_amenities design_features",
+        "negative",
+        "Old"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "negative",
+        "Small"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel design_features",
+        "negative",
+        "Old"
+      ],
+      [
+        "NULL",
+        "hotel design_features",
+        "negative",
+        "Small"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "Great location"
+      ],
+      [
+        "rooms",
+        "rooms cleanliness",
+        "positive",
+        "Clean"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "convenient location"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "Great"
+      ],
+      [
+        "rooms",
+        "rooms cleanliness",
+        "positive",
+        "Clean"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "convenient"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "I highly recommend the Hotel Saint Marie"
+      ],
+      [
+        "Hotel Saint Marie",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Hotel Saint Marie",
+        "hotel general",
+        "positive",
+        "highly recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "recommend"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "definitely recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Overall"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "wonderful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Sunroute Plaza",
+        "hotel general",
+        "positive",
+        "had a wonderful time"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "located right downtown"
+      ],
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "a number of internet cafes"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "located right downtown with many services nearby"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "without doubt"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "great"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "excellant"
+      ],
+      [
+        "amenities",
+        "room_amenities quality",
+        "positive",
+        "modern"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "would stay there again without doubt"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "lends itself to exploring Old San Juan in comfort"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "enjoy the history of the area"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "superb with lots of local caf茅s and restaurants"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "superb"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "lots of local caf茅s and restaurants"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "Great location"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "Great"
+      ],
+      [
+        "security",
+        "hotel miscellaneous",
+        "positive",
+        "great"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "great"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "FRIENDLY"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lobby and sitting area",
+        "hotel design_features",
+        "positive",
+        "comfortable"
+      ],
+      [
+        "NULL",
+        "rooms comfort",
+        "positive",
+        "NULL"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "retro"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lobby",
+        "hotel comfort",
+        "positive",
+        "comfortable"
+      ],
+      [
+        "sitting area",
+        "hotel comfort",
+        "positive",
+        "comfortable"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "simply furnished"
+      ],
+      [
+        "rooms",
+        "location general",
+        "positive",
+        "retro"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "within walking distance of Alexanderplatz"
+      ],
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "very efficient metro system"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "location general",
+        "positive",
+        "within walking distance of Alexanderplatz"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Rooms",
+        "rooms cleanliness",
+        "positive",
+        "clean"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "room",
+        "rooms design_features",
+        "positive",
+        "huge"
+      ],
+      [
+        "room",
+        "rooms comfort",
+        "positive",
+        "comfortable"
+      ],
+      [
+        "furniture",
+        "rooms design_features",
+        "positive",
+        "modern"
+      ],
+      [
+        "bathroom",
+        "rooms cleanliness",
+        "positive",
+        "very clean"
+      ],
+      [
+        "bathroom",
+        "rooms design_features",
+        "positive",
+        "beautiful"
+      ],
+      [
+        "bathroom",
+        "rooms design_features",
+        "negative",
+        "tad on the small side"
+      ],
+      [
+        "room",
+        "room_amenities general",
+        "positive",
+        "separate TV"
+      ],
+      [
+        "room",
+        "rooms general",
+        "positive",
+        "sofa/twin bed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Great place !"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Great place!"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "negative",
+        "no elevator"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "Nice"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "Nice"
+      ],
+      [
+        "elevator",
+        "facilities general",
+        "negative",
+        "no"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "Location"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "NULL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel quality",
+        "positive",
+        "t find anything better"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "can`t find anything better"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Very nice"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "Very nice"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "wifi",
+        "hotel general",
+        "negative",
+        "on the slow side"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "free wifi",
+        "facilities quality",
+        "negative",
+        "slow side of things"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "rooms cleanliness",
+        "negative",
+        "not"
+      ],
+      [
+        "rooms",
+        "rooms cleanliness",
+        "negative",
+        "small"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms cleanliness",
+        "negative",
+        "not to clean"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "negative",
+        "small"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel prices",
+        "positive",
+        "Great Value"
+      ],
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Value",
+        "hotel prices",
+        "positive",
+        "Great"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "front desk",
+        "service general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "management team",
+        "service general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "great"
+      ],
+      [
+        "front desk",
+        "service general",
+        "positive",
+        "saving grace"
+      ],
+      [
+        "management team",
+        "service general",
+        "positive",
+        "saving grace"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "As good as ever"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "good"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "customer service at its ' best"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "customer service",
+        "service general",
+        "positive",
+        "best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Hotel",
+        "hotel general",
+        "positive",
+        "Loved"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "but this a great place"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "in every way"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "great place in every way"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rooms",
+        "rooms general",
+        "negative",
+        "small"
+      ],
+      [
+        "NULL",
+        "rooms design_features",
+        "negative",
+        "adequate"
+      ],
+      [
+        "NULL",
+        "rooms design_features",
+        "negative",
+        "small"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms design_features",
+        "negative",
+        "small"
+      ],
+      [
+        "rooms",
+        "rooms design_features",
+        "positive",
+        "adequate"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "The hotel was amazing"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "amazing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Kapok",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "Kapok",
+        "hotel general",
+        "positive",
+        "loved it"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Kapok",
+        "hotel general",
+        "positive",
+        "Fantastic"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "hotel quality",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "room",
+        "rooms general",
+        "positive",
+        "view is great"
+      ],
+      [
+        "The Borgmann Villa",
+        "location general",
+        "positive",
+        "backs on to Amsterdams beautiful Vondel Park"
+      ],
+      [
+        "The Borgmann Villa",
+        "location general",
+        "positive",
+        "10 min walk to the Museum's and Leidseplein"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "will definitely be back"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food_drinks prices",
+        "positive",
+        "free breakfast"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "breakfast",
+        "food_drinks prices",
+        "positive",
+        "free"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "room",
+        "rooms design_features",
+        "positive",
+        "great view of the golden gate bridge"
+      ],
+      [
+        "bridge",
+        "location general",
+        "positive",
+        "great view of the golden gate bridge"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "room",
+        "rooms design_features",
+        "positive",
+        "great view of the golden gate bridge"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Loved it !"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Loved it !"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Loved"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "room service meals",
+        "food_drinks quality",
+        "positive",
+        "best steaks"
+      ],
+      [
+        "NULL",
+        "food_drinks style_options",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "room service meals",
+        "food_drinks quality",
+        "positive",
+        "just incredible"
+      ],
+      [
+        "room service meals",
+        "food_drinks quality",
+        "positive",
+        "best steaks we have ever had"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Excellent Staff"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Excellent hotel"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Staff",
+        "service general",
+        "positive",
+        "Excellent"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "Excellent"
+      ],
+      [
+        "hotel",
+        "hotel prices",
+        "positive",
+        "the price"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "buffet",
+        "food_drinks style_options",
+        "positive",
+        "great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "buffet",
+        "food_drinks quality",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rooms",
+        "rooms design_features",
+        "negative",
+        "basic"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms design_features",
+        "neutral",
+        "very basic"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rooms",
+        "rooms cleanliness",
+        "positive",
+        "clean"
+      ],
+      [
+        "rooms",
+        "rooms comfort",
+        "positive",
+        "comfortable"
+      ],
+      [
+        "restaurant",
+        "food_drinks quality",
+        "positive",
+        "excellent"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rooms",
+        "rooms cleanliness",
+        "positive",
+        "clean"
+      ],
+      [
+        "rooms",
+        "rooms comfort",
+        "positive",
+        "comfortable"
+      ],
+      [
+        "pool",
+        "facilities general",
+        "positive",
+        "great"
+      ],
+      [
+        "food",
+        "food_drinks quality",
+        "positive",
+        "excellent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hotel",
+        "hotel design_features",
+        "positive",
+        "brand new to us"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel design_features",
+        "negative",
+        "small"
+      ],
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "brand new"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "The staff"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "great"
+      ],
+      [
+        "room",
+        "rooms general",
+        "positive",
+        "rooms"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "great"
+      ],
+      [
+        "rooms",
+        "rooms general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "i would stay here again"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "would stay here again"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lobby",
+        "food_drinks miscellaneous",
+        "neutral",
+        "did have coffee"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "room",
+        "room_amenities general",
+        "neutral",
+        "wish they had coffeepots"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive",
+        "Centraal Station"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "location general",
+        "positive",
+        "excellent"
+      ],
+      [
+        "location",
+        "location general",
+        "positive",
+        "right next to Centraal Station"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Personell",
+        "service general",
+        "positive",
+        "nice"
+      ],
+      [
+        "Personell",
+        "service general",
+        "positive",
+        "service-minded"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "Would recommend"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hotel",
+        "hotel general",
+        "positive",
+        "Would recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "staff",
+        "service general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "reception staff",
+        "service general",
+        "positive",
+        "warm welcome on arrival"
+      ],
+      [
+        "reception staff",
+        "service general",
+        "positive",
+        "able to check-in despite arriving early"
+      ],
+      [
+        "reception staff",
+        "service general",
+        "positive",
+        "lots of information offered"
+      ],
+      [
+        "Room",
+        "rooms cleanliness",
+        "positive",
+        "clean"
+      ],
+      [
+        "Room",
+        "rooms design_features",
+        "negative",
+        "not huge"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "venient"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "helpful"
+      ],
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "I stayed here as a single female"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "great place to be"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "But anyway"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "hotel general",
+        "positive",
+        "would stay here again"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "room",
+        "rooms design_features",
+        "positive",
+        "clean"
+      ],
+      [
+        "bed",
+        "rooms general",
+        "positive",
+        "most comfortable"
+      ],
+      [
+        "bed",
+        "rooms general",
+        "positive",
+        "bed"
+      ],
+      [
+        "bed",
+        "rooms general",
+        "positive",
+        "comfortable bed"
+      ],
+      [
+        "bed",
+        "rooms general",
+        "positive",
+        "bed"
+      ],
+      [
+        "NULL",
+        "rooms comfort",
+        "positive",
+        "comfortable bed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "room",
+        "rooms general",
+        "positive",
+        "lovely"
+      ],
+      [
+        "room",
+        "rooms cleanliness",
+        "positive",
+        "clean"
+      ],
+      [
+        "bed",
+        "rooms comfort",
+        "positive",
+        "most comfortable"
+      ],
+      [
+        "pillows",
+        "rooms comfort",
+        "positive",
+        "most comfortable"
+      ]
+    ]
+  }
+]

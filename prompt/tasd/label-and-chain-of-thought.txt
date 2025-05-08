@@ -1,0 +1,10 @@
+According to the following sentiment elements definition: 
+
+- The 'aspect term' is the exact word or phrase in the text that represents a specific feature, attribute, or aspect of a product or service that a user may express an opinion about, the aspect term might be 'NULL' for implicit aspect. 
+- The 'aspect category' refers to the category that aspect belongs to, and the available categories includes: [[aspect_category]].
+- The 'sentiment polarity' refers to the degree of positivity, negativity or neutrality expressed in the opinion towards a particular aspect or feature of a product or service, and the available polarities include: 'positive', 'negative' and 'neutral'.
+
+Return all sentiment elements with their corresponding aspect terms, aspect categories and sentiment polarity in the following text with the format of [('aspect term', 'aspect category', 'sentiment polarity'), ...].
+Prior to that, provide a reasoning for your decision on which aspects are addressed in the text in a few sentences.
+
+[[examples]]

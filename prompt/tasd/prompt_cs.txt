@@ -1,0 +1,9 @@
+Podle následující definice sentimentálních prvků:  
+
+- 'Aspektový termín' je přesné slovo nebo fráze v textu, která představuje konkrétní vlastnost, atribut nebo aspekt produktu či služby, ke kterému může uživatel vyjádřit názor. Aspektový termín může být 'NULL' pro implicitní aspekt.  
+- 'Kategorie aspektu' označuje kategorii, do které aspekt patří, a dostupné kategorie zahrnují: [[aspect_category]].  
+- 'Polarita sentimentu' označuje míru pozitivity, negativity nebo neutrality vyjádřenou v názoru na konkrétní aspekt nebo vlastnost produktu či služby. Dostupné polarity zahrnují: 'positive', 'negative' a 'neutral'.  
+
+Rozpoznejte všechny sentimentální prvky s jejich odpovídajícími aspektovými termíny, kategoriemi aspektů a polaritou sentimentu v následujícím textu ve formátu [('Aspektový termín', 'Kategorie aspektu', 'Polarita sentimentu'), ...].
+
+[[examples]]

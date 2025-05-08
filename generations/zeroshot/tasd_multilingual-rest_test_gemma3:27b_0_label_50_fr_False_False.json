@@ -1,0 +1,12643 @@
+[
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "patron",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "patron",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "prix",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "repas",
+        "food prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pizzas",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "pizzas",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "personnel",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "personnel",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "salade",
+        "food quality",
+        "negative"
+      ],
+      [
+        "sauce",
+        "food quality",
+        "negative"
+      ],
+      [
+        "ravioles",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "attente",
+        "service general",
+        "negative"
+      ],
+      [
+        "ravioles",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "sauce",
+        "food quality",
+        "negative"
+      ],
+      [
+        "crème",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Au centre",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "terrasse",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "terrasse",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Service",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Service",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Salade",
+        "food quality",
+        "negative"
+      ],
+      [
+        "vin",
+        "drinks quality",
+        "negative"
+      ],
+      [
+        "gratin",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Salade",
+        "food quality",
+        "negative"
+      ],
+      [
+        "vin",
+        "drinks quality",
+        "neutral"
+      ],
+      [
+        "gratin de raviolis",
+        "food quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "glaces",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "glaces",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Terrasse",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Terrasse",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "emplacement",
+        "location general",
+        "positive"
+      ],
+      [
+        "service",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "emplacement",
+        "location general",
+        "positive"
+      ],
+      [
+        "service",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "main",
+        "food quality",
+        "negative"
+      ],
+      [
+        "serveuse",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveuses",
+        "service general",
+        "negative"
+      ],
+      [
+        "musique",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "attente",
+        "service general",
+        "negative"
+      ],
+      [
+        "côtelettes",
+        "food quality",
+        "negative"
+      ],
+      [
+        "serveurs",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "patronne",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "patronne",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Virgin Colada",
+        "drinks prices",
+        "neutral"
+      ],
+      [
+        "patron",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "resto",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ],
+      [
+        "patron",
+        "service general",
+        "positive"
+      ],
+      [
+        "femme",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Saumon",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "frites",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "pavé de Saumon",
+        "food quality",
+        "positive"
+      ],
+      [
+        "gratin du jour",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "poêlée de noix de st Jacques",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "noix",
+        "food quality",
+        "positive"
+      ],
+      [
+        "sauce",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assiette",
+        "food quality",
+        "positive"
+      ],
+      [
+        "noix",
+        "food quality",
+        "positive"
+      ],
+      [
+        "sauce crème légère",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "plat",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "plat",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "adresse",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "adresse",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cuisine créole",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "enfants",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "neutral"
+      ],
+      [
+        "assiettes",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "ambiance",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "ambiance",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "restaurant",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "apéro",
+        "drinks style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "apéro",
+        "drinks style_options",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cocktails",
+        "drinks style_options",
+        "positive"
+      ],
+      [
+        "service",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive"
+      ],
+      [
+        "cocktails",
+        "drinks quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "entrée",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "entrées",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "foi gras",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "foi gras",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "carpaccio",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "carpaccio de st jacques sauvages",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pluma de pata negra",
+        "food quality",
+        "positive"
+      ],
+      [
+        "purée",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "purée a l 'huile de truffe",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rodolphe",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "repas",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "carte",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "assiettes",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "carte",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "aliments",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "plateaux de fruits de mer",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "plateaux de fruits de mer",
+        "food prices",
+        "negative"
+      ],
+      [
+        "aliments",
+        "food prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pâtes",
+        "food quality",
+        "negative"
+      ],
+      [
+        "moules",
+        "food quality",
+        "negative"
+      ],
+      [
+        "saint jacques",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "moules",
+        "food quality",
+        "negative"
+      ],
+      [
+        "saint jacques",
+        "food quality",
+        "negative"
+      ],
+      [
+        "pâtes aux fruits de mer",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Salle",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "service",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive"
+      ],
+      [
+        "Salle",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "repas",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "repas",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lasagnes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "café",
+        "drinks quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lasagnes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "café gourmand",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cocktails",
+        "drinks style_options",
+        "negative"
+      ],
+      [
+        "plats",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mojito",
+        "drinks quality",
+        "negative"
+      ],
+      [
+        "lasagnes",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Bref",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Escalope milanaise",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Escalope milanaise",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Entrecôte",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Entrecôte",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "resto",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "produits",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "produits",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "seau à glace",
+        "drinks style_options",
+        "negative"
+      ],
+      [
+        "pain",
+        "food quality",
+        "negative"
+      ],
+      [
+        "serveuses",
+        "service general",
+        "negative"
+      ],
+      [
+        "plats",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ],
+      [
+        "serveuses",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "personne",
+        "service general",
+        "negative"
+      ],
+      [
+        "entrecôte",
+        "food style_options",
+        "neutral"
+      ],
+      [
+        "omelettes",
+        "food style_options",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "omelette",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "endroit",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "assiette",
+        "food quality",
+        "positive"
+      ],
+      [
+        "vins",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "patron",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "endroit",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "assiette",
+        "food quality",
+        "positive"
+      ],
+      [
+        "vins",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Art dit Vin",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Art dit Vin",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rapport qualité",
+        "restaurant prices",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "souffle au grand margnier",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "NULL",
+        "service general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "carte",
+        "food style_options",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "les légumes",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "légumes",
+        "food style_options",
+        "neutral"
+      ],
+      [
+        "plats",
+        "food prices",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "restaurant",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "prix",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "fruits de mer",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "fruits de mer",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "chipirons",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ],
+      [
+        "assiette",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "chipirons à l 'encre",
+        "food quality",
+        "negative"
+      ],
+      [
+        "assiette du pêcheur",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "produits",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "desserts",
+        "food quality",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "desserts",
+        "food quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Anchois",
+        "food quality",
+        "positive"
+      ],
+      [
+        "axoa",
+        "food quality",
+        "positive"
+      ],
+      [
+        "pommes de terre",
+        "food quality",
+        "positive"
+      ],
+      [
+        "salade",
+        "food quality",
+        "positive"
+      ],
+      [
+        "sangria",
+        "drinks quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assiette decouverte",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "Produits",
+        "food quality",
+        "positive"
+      ],
+      [
+        "assiette decouverte",
+        "food quality",
+        "positive"
+      ],
+      [
+        "sangria",
+        "drinks quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "location general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rue piétonne",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "araignée",
+        "restaurant miscellaneous",
+        "negative"
+      ],
+      [
+        "soupes de poissons",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ],
+      [
+        "serveuse",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "patron",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "patron",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "magret",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "frites",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "magret",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "frites",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveuse",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveuse",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "saveur",
+        "food quality",
+        "positive"
+      ],
+      [
+        "cuissons",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "carte",
+        "food style_options",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "carte",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveur",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveur",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "chef de salle",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "chef de salle",
+        "service general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "charcuterie",
+        "food quality",
+        "positive"
+      ],
+      [
+        "beignets de fromages",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assortiment de charcuterie corse",
+        "food quality",
+        "positive"
+      ],
+      [
+        "beignets de fromages",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "dorade",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "dorade du jour",
+        "food quality",
+        "positive"
+      ],
+      [
+        "dorade du jour",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "table",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "prix",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "prestation",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "agneau",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "agneau",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assiette",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assiette corse",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assiett",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assiette de fromage",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cuisine",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cuisine",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Pizza",
+        "food quality",
+        "negative"
+      ],
+      [
+        "entrecôte",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Pizza",
+        "food quality",
+        "negative"
+      ],
+      [
+        "entrecôte",
+        "food quality",
+        "negative"
+      ],
+      [
+        "pate",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "endroit",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "vue",
+        "location general",
+        "positive"
+      ],
+      [
+        "endroit",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "endroit",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "Marco",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ],
+      [
+        "Cuisine",
+        "food style_options",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "endroit",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "terrasse",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "églis",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "location general",
+        "positive"
+      ],
+      [
+        "terrasse",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "entrée",
+        "food quality",
+        "positive"
+      ],
+      [
+        "plat",
+        "food quality",
+        "positive"
+      ],
+      [
+        "dessert",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "repas",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveur",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveur",
+        "service general",
+        "negative"
+      ],
+      [
+        "directeur",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "positive"
+      ],
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive"
+      ],
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "carte",
+        "food style_options",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "carte",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Burger",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "fromage",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Burger aux fromages",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "tranche de fromage",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sauce roquefort",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "sauce roquefort",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mousse au chocolat",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "mousse au chocolat",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "quartier",
+        "location general",
+        "negative"
+      ],
+      [
+        "cadre",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "quartier",
+        "location general",
+        "positive"
+      ],
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ],
+      [
+        "assiette",
+        "food quality",
+        "positive"
+      ],
+      [
+        "service",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ],
+      [
+        "assiette",
+        "food quality",
+        "positive"
+      ],
+      [
+        "service",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "décor",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "décor",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "verrière",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "entrées",
+        "food prices",
+        "neutral"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "entrées",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "entrées",
+        "food prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "plats",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "plats",
+        "food quality",
+        "positive"
+      ],
+      [
+        "plats",
+        "food style_options",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "plats",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "plats",
+        "food style_options",
+        "neutral"
+      ],
+      [
+        "plats",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "viandes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "bavette échalotes",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bavette échalotes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "viandes",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pot",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "pot au chocolat",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "plat",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "plat",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "adresse",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lieu",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lieu",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "lieu",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "plats",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "plats",
+        "food quality",
+        "negative"
+      ],
+      [
+        "plats",
+        "food prices",
+        "negative"
+      ],
+      [
+        "plats",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bouteilles",
+        "drinks quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "salle dansante",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "salle dansante",
+        "ambience general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Attente",
+        "service general",
+        "negative"
+      ],
+      [
+        "vin",
+        "drinks quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Attente",
+        "service general",
+        "negative"
+      ],
+      [
+        "vin",
+        "drinks style_options",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "vin",
+        "drinks prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "viande",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "viande",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "viande",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "viande",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Personnel",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Personnel",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "terasse",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "terasse",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "neutral"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "chocolat",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "mi-cuit au chocolat",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Entrée",
+        "food quality",
+        "positive"
+      ],
+      [
+        "plat",
+        "food quality",
+        "positive"
+      ],
+      [
+        "dessert",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Entrée plat dessert",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "Montmartre",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Ravioles",
+        "food quality",
+        "positive"
+      ],
+      [
+        "tartiflette",
+        "food quality",
+        "positive"
+      ],
+      [
+        "crêpe suzette",
+        "food quality",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Ravioles",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "tartiflette",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "crêpe suzette",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveurs",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveurs",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "ambiance",
+        "ambience general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "ambiance",
+        "ambience general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Repas",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Repas",
+        "food style_options",
+        "neutral"
+      ],
+      [
+        "Repas",
+        "food prices",
+        "positive"
+      ],
+      [
+        "NULL",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "menu",
+        "food prices",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food prices",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "personnel",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "personnel",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "déco",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "déco",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "brasserie",
+        "restaurant miscellaneous",
+        "neutral"
+      ],
+      [
+        "déco",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "ambiance",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "service",
+        "service general",
+        "negative"
+      ],
+      [
+        "riz arborio",
+        "food quality",
+        "negative"
+      ],
+      [
+        "riz arborio",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "ris de veau",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "ris de veau",
+        "food quality",
+        "negative"
+      ],
+      [
+        "riz arborio aux truffes",
+        "food quality",
+        "negative"
+      ],
+      [
+        "riz arborio aux truffes",
+        "food prices",
+        "negative"
+      ],
+      [
+        "ris de veau",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "ambiance",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "service",
+        "service general",
+        "negative"
+      ],
+      [
+        "plats",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Vin",
+        "drinks quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Vins au verre",
+        "drinks quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "soufflé",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "carte",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant prices",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Ça",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "adresse",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cuisine traditionnelle",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "escargots",
+        "food quality",
+        "positive"
+      ],
+      [
+        "os à moelle",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "escargots",
+        "food quality",
+        "positive"
+      ],
+      [
+        "os à moelle",
+        "food quality",
+        "positive"
+      ],
+      [
+        "bourguignon",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "salle",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "salle",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Service",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Service",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant prices",
+        "neutral"
+      ],
+      [
+        "restaurant",
+        "restaurant general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant miscellaneous",
+        "neutral"
+      ],
+      [
+        "restaurant",
+        "restaurant prices",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Menus",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Menus",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Apéritifs",
+        "drinks quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Apéritifs",
+        "drinks quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Assiettes",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Assiettes de tapas",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Plat",
+        "food quality",
+        "negative"
+      ],
+      [
+        "viande",
+        "food quality",
+        "negative"
+      ],
+      [
+        "pomme de terre",
+        "food quality",
+        "negative"
+      ],
+      [
+        "courgettes",
+        "food quality",
+        "negative"
+      ],
+      [
+        "salade",
+        "food quality",
+        "negative"
+      ],
+      [
+        "Plat",
+        "food quality",
+        "negative"
+      ],
+      [
+        "sauce au vin",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Plat",
+        "food quality",
+        "negative"
+      ],
+      [
+        "viande",
+        "food quality",
+        "negative"
+      ],
+      [
+        "pomme de terre",
+        "food quality",
+        "negative"
+      ],
+      [
+        "courgettes",
+        "food quality",
+        "negative"
+      ],
+      [
+        "salade",
+        "food quality",
+        "negative"
+      ],
+      [
+        "sauce au vin",
+        "food quality",
+        "positive"
+      ],
+      [
+        "plat",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Vin",
+        "drinks quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Vin",
+        "drinks quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Tarte aux pommes",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Tarte aux pommes au calva",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "Tarte aux pommes au calva",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assiettes",
+        "food prices",
+        "negative"
+      ],
+      [
+        "plats",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food prices",
+        "negative"
+      ],
+      [
+        "assiettes",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "plats",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "frites",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "frites",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "boissons",
+        "drinks prices",
+        "negative"
+      ],
+      [
+        "NULL",
+        "ambience general",
+        "neutral"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "boissons",
+        "drinks prices",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "nourriture",
+        "food quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "peintres",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "addition",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ],
+      [
+        "patron",
+        "service general",
+        "positive"
+      ],
+      [
+        "plats",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "plats",
+        "food quality",
+        "positive"
+      ],
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "entrées",
+        "food quality",
+        "positive"
+      ],
+      [
+        "plats",
+        "food prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "entrées",
+        "food quality",
+        "positive"
+      ],
+      [
+        "menu",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "plats",
+        "food prices",
+        "positive"
+      ],
+      [
+        "entrées",
+        "food style_options",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assaisonnement",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assaisonnement",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "dessert",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "dessert",
+        "food quality",
+        "positive"
+      ],
+      [
+        "dessert",
+        "food style_options",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "ambience general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "endroit",
+        "restaurant miscellaneous",
+        "positive"
+      ],
+      [
+        "endroit",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "service",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "service",
+        "service general",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "haddock",
+        "food quality",
+        "positive"
+      ],
+      [
+        "canard",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "haddock façon flammekueche",
+        "food quality",
+        "positive"
+      ],
+      [
+        "canard confis",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cabillaud",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cabillaud risotto émulsion de chorizo",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "riz au lait",
+        "food quality",
+        "positive"
+      ],
+      [
+        "sauce caramel",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "riz au lait vanille sauce caramel beurre salé",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "tarte sablée aux agrumes",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "tarte sablée aux agrumes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "diner",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveurs",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveurs",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "moment",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ],
+      [
+        "serveur",
+        "service general",
+        "negative"
+      ],
+      [
+        "bouffe",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "frites",
+        "food quality",
+        "negative"
+      ],
+      [
+        "bavette",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mousse",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "mousse au chocolat",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mousse au chocolat",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "repas",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "plats",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "prix",
+        "restaurant prices",
+        "positive"
+      ],
+      [
+        "produits",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "produits",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "formule",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "formules",
+        "food prices",
+        "positive"
+      ],
+      [
+        "formules",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveurs",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveurs",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "établissement",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "établissement",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ],
+      [
+        "personnel",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ],
+      [
+        "personnel",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "terrasse",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ],
+      [
+        "terrasse",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assiettes",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assiettes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "assiettes",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "établissement",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "établissement",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "terrasse",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "carte",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "terrasse",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "carte",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "plats",
+        "food quality",
+        "positive"
+      ],
+      [
+        "Soupe",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "plats",
+        "food quality",
+        "positive"
+      ],
+      [
+        "menu du jour",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "Soupe de pois capuchino",
+        "food quality",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "plats",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "équipe",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "équipe",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "attente",
+        "service general",
+        "positive"
+      ],
+      [
+        "bonne humeur",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "table",
+        "service general",
+        "negative"
+      ],
+      [
+        "boeuf bourguignon",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "boeuf bourguignon",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pommes de terres",
+        "food quality",
+        "negative"
+      ],
+      [
+        "carottes",
+        "food quality",
+        "negative"
+      ],
+      [
+        "sauce",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "pommes de terres",
+        "food quality",
+        "negative"
+      ],
+      [
+        "carottes",
+        "food quality",
+        "negative"
+      ],
+      [
+        "sauce",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "personnel",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "personnel",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "patronne",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "patronne",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bouteilles de vins",
+        "drinks style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "grande étagère de bouteilles de vins",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "déco",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "vin",
+        "drinks style_options",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "déco",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveurs",
+        "service general",
+        "positive"
+      ],
+      [
+        "vin",
+        "drinks quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveurs",
+        "service general",
+        "positive"
+      ],
+      [
+        "vin",
+        "drinks quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assiette de jambon",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "plats",
+        "food quality",
+        "negative"
+      ],
+      [
+        "qualite",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "plats",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "produits",
+        "food quality",
+        "positive"
+      ],
+      [
+        "plats",
+        "food prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ],
+      [
+        "salle",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "salle",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ],
+      [
+        "rue",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "plats",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "musique",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "plats",
+        "food quality",
+        "positive"
+      ],
+      [
+        "plats",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "vins",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bar",
+        "location general",
+        "neutral"
+      ],
+      [
+        "lieu",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveur",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveur",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ],
+      [
+        "carte",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "prix",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ],
+      [
+        "carte",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "carte",
+        "food prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "verre",
+        "drinks quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "location general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "location general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "personne",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Accueil",
+        "service general",
+        "neutral"
+      ],
+      [
+        "serveuses",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Accueil",
+        "service general",
+        "neutral"
+      ],
+      [
+        "serveuses",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "repas",
+        "food quality",
+        "positive"
+      ],
+      [
+        "dessert",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "repas",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ],
+      [
+        "repas",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "terrasse",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "service",
+        "service general",
+        "positive"
+      ],
+      [
+        "plats",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "terrasse",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "plats",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "service",
+        "service general",
+        "positive"
+      ],
+      [
+        "formule",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "verre",
+        "drinks quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "terrasse",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "plaid",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "terrasse",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Bondé",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pizzas",
+        "food quality",
+        "positive"
+      ],
+      [
+        "plats",
+        "food prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "pizzas",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "plats du jour",
+        "food prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "viande",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "carte",
+        "food style_options",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Tiramisu",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Tiramisu",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "Tiramisu",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "fir",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "menu-carte",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "plats",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "menu-carte",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "plats de saison",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "carte",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "carte",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "dorade en tartare",
+        "food quality",
+        "positive"
+      ],
+      [
+        "crevettes cajun",
+        "food quality",
+        "positive"
+      ],
+      [
+        "gnocchi",
+        "food quality",
+        "positive"
+      ],
+      [
+        "cabillaud",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "dorade en tartare",
+        "food quality",
+        "positive"
+      ],
+      [
+        "crevettes cajun",
+        "food quality",
+        "positive"
+      ],
+      [
+        "gnocchi d 'agria à la truffe blanche",
+        "food quality",
+        "positive"
+      ],
+      [
+        "dos de cabillaud",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "vins",
+        "drinks quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "carte des vins",
+        "drinks style_options",
+        "neutral"
+      ],
+      [
+        "cuvées",
+        "drinks prices",
+        "positive"
+      ],
+      [
+        "cuvées",
+        "drinks style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Service",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Service",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sommelier",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "sommelier",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Ambiance",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Ambiance",
+        "ambience general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "restaurant",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bonbons",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "adresse",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "adresse",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "Etoile",
+        "location general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "resto",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "deco",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "deco",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "terrasse",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "terrasse",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "intérieur",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "nourriture",
+        "food quality",
+        "negative"
+      ],
+      [
+        "déco",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "burger",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "burger",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "décors",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "décors",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "histoire des lieux",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "huîtres",
+        "food quality",
+        "positive"
+      ],
+      [
+        "crevettes roses",
+        "food quality",
+        "positive"
+      ],
+      [
+        "homard",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "produits",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "crevettes",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "crevettes",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "homard",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "homard",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "soupe",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "soupe",
+        "food quality",
+        "positive"
+      ],
+      [
+        "soupe",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "poisson",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "poissons",
+        "food quality",
+        "positive"
+      ],
+      [
+        "poissons",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bouillabaisse",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bouillabaisse",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "soufflé",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "soufflé",
+        "food quality",
+        "positive"
+      ],
+      [
+        "soufflé",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "déjeuner",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "déjeuner",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "décoration",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "décoration",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cuisine",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "prix",
+        "restaurant prices",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cuisine",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "cuisine",
+        "food prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "personnel",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "personnel",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "endroit",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "vue",
+        "location general",
+        "positive"
+      ],
+      [
+        "dîner",
+        "food prices",
+        "negative"
+      ],
+      [
+        "dîner",
+        "food quality",
+        "negative"
+      ],
+      [
+        "dîner",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Pour",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "terrasse",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "terrasse",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "quartier",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveurs",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveurs",
+        "service general",
+        "negative"
+      ],
+      [
+        "serveuses",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "responsable",
+        "service general",
+        "negative"
+      ],
+      [
+        "terrasse",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "responsable",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "chaises",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "verres",
+        "drinks style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "verres",
+        "drinks style_options",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "produits",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "produits",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "desserts",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "desserts",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "addition",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "établissement",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "établissement",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mouches",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "cuisine",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "carte",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mouche",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "table",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Sophi",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "positive"
+      ],
+      [
+        "NULL",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "menu",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "menu",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sole meunière",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "sole meunière",
+        "food quality",
+        "positive"
+      ],
+      [
+        "carte",
+        "food prices",
+        "neutral"
+      ],
+      [
+        "sole meunière",
+        "food prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "côte de veau",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "côte de veau",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Vin",
+        "drinks style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Vin au verre",
+        "drinks style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Café gourmand",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Café gourmand",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "déjeuner",
+        "food quality",
+        "positive"
+      ],
+      [
+        "Turbot poché à la rhubarbe",
+        "food quality",
+        "positive"
+      ],
+      [
+        "sauce crémée",
+        "food quality",
+        "positive"
+      ],
+      [
+        "île flottante",
+        "food quality",
+        "positive"
+      ],
+      [
+        "tarte aux pralines",
+        "food quality",
+        "positive"
+      ],
+      [
+        "Beaujolais",
+        "drinks quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Terrasse",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "décor",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Terrasse",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "décor",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "champagne",
+        "drinks prices",
+        "negative"
+      ],
+      [
+        "champagne",
+        "drinks quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "piscines de champagne",
+        "drinks style_options",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveur",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveur",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveurs",
+        "service general",
+        "negative"
+      ],
+      [
+        "patronne",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveurs",
+        "service general",
+        "negative"
+      ],
+      [
+        "patronne",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Service",
+        "service general",
+        "positive"
+      ],
+      [
+        "plats",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Service",
+        "service general",
+        "positive"
+      ],
+      [
+        "plats",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "Service",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bavette",
+        "food quality",
+        "negative"
+      ],
+      [
+        "salade",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bavette",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "sauce au bleu",
+        "food quality",
+        "negative"
+      ],
+      [
+        "salade",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "adresse",
+        "restaurant miscellaneous",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "adresse",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "produits",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assiette",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assiette",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "carte des vins",
+        "drinks style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "carte des vins",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "carte des vins",
+        "drinks style_options",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "drinks quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rapport qualité-prix",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rapport qualité-prix est excellent .",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ],
+      [
+        "service",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ],
+      [
+        "service",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "adresse",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "adresse",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "critiques gastronomiques",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "plats",
+        "food quality",
+        "negative"
+      ],
+      [
+        "plats",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "plats à la carte",
+        "food prices",
+        "negative"
+      ],
+      [
+        "vapeurs",
+        "food quality",
+        "positive"
+      ],
+      [
+        "vapeurs",
+        "food prices",
+        "negative"
+      ],
+      [
+        "plats à la carte",
+        "food quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "ccompagnements",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "accompagnements",
+        "food prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Prise de commande",
+        "service general",
+        "negative"
+      ],
+      [
+        "plats",
+        "food quality",
+        "negative"
+      ],
+      [
+        "accompagnements",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Menu",
+        "food style_options",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Menu",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "plats",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "plats",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "plats",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "prix",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "salle",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "terrasse",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "salle",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "personnel",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "personnel",
+        "service general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Menu",
+        "food quality",
+        "positive"
+      ],
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "Menu",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "Menu",
+        "food quality",
+        "positive"
+      ],
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cuisine",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "établissement",
+        "restaurant general",
+        "neutral"
+      ],
+      [
+        "personnes",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cuisine",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "dessert",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ],
+      [
+        "tranche de St-Nectaire",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveurs",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveurs",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sommelier",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "sommelier",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Carte",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Carte",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Plats",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Plats",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Le fait maison",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "carte",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "carte",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "frites",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "supplément frites",
+        "food quality",
+        "negative"
+      ],
+      [
+        "supplément frites",
+        "food prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "personnel",
+        "service general",
+        "positive"
+      ],
+      [
+        "carte",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "plats",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "personnel",
+        "service general",
+        "positive"
+      ],
+      [
+        "carte de vins",
+        "drinks style_options",
+        "positive"
+      ],
+      [
+        "plats",
+        "food quality",
+        "negative"
+      ],
+      [
+        "carte",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "ambiance",
+        "ambience general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "ambiance",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveur",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "attente",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveurs",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "nourriture",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "tartine de chèvre chaud",
+        "food quality",
+        "positive"
+      ],
+      [
+        "menu",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "nourriture",
+        "food quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "adresse",
+        "restaurant general",
+        "neutral"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "adresse",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "salle",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "ampoule",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rideaux",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rideaux",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cuisine",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cuisine",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "portions",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "onglet de veau",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "onglet de veau",
+        "food quality",
+        "negative"
+      ],
+      [
+        "gratin dauphinois",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "sauce",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "thon",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "thon",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "dessert",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "glace",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "NULL",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "resto",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ],
+      [
+        "ambiance",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "espace Iounge",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "personnel",
+        "service general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "personnel",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "burgers",
+        "food style_options",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "burgers",
+        "food style_options",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveus",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ],
+      [
+        "responsable",
+        "service general",
+        "negative"
+      ],
+      [
+        "relation client",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "responsable",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ],
+      [
+        "restaurant",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "VIANDES",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "VIANDES",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "frites",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "frites",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Puree",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Puree",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "entrée",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "saumon",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "saumon fumé",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sauté de veau",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "sauté de veau",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Vin",
+        "drinks prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Vin",
+        "drinks prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "salle",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "salle",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "eau en caraffe",
+        "drinks quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assiette",
+        "food quality",
+        "positive"
+      ],
+      [
+        "quartier",
+        "location general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assiette",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive"
+      ],
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "endroit",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "escalopes panées",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "escalopes",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "prix",
+        "drinks prices",
+        "negative"
+      ],
+      [
+        "desserts",
+        "food prices",
+        "negative"
+      ],
+      [
+        "coca",
+        "drinks style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "boissons",
+        "drinks prices",
+        "negative"
+      ],
+      [
+        "desserts",
+        "food prices",
+        "negative"
+      ],
+      [
+        "canette de coca",
+        "drinks prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "nourriture",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "nourriture",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Ambiance",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Ambiance",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveuse",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveuse",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "poulet",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Cuisine",
+        "food quality",
+        "negative"
+      ],
+      [
+        "poulet",
+        "food quality",
+        "negative"
+      ],
+      [
+        "poulet",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sandwich club",
+        "food quality",
+        "negative"
+      ],
+      [
+        "plat vietnamien",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "sandwich club",
+        "food quality",
+        "negative"
+      ],
+      [
+        "plat vietnamien",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "décoration",
+        "ambience general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "décoration",
+        "ambience general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "formule",
+        "food prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "formule tapas",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "calamars",
+        "food quality",
+        "positive"
+      ],
+      [
+        "croquetas",
+        "food quality",
+        "positive"
+      ],
+      [
+        "pain",
+        "food quality",
+        "positive"
+      ],
+      [
+        "serrano",
+        "food quality",
+        "positive"
+      ],
+      [
+        "tortilla",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "recettes espagnoles",
+        "food quality",
+        "positive"
+      ],
+      [
+        "recettes espagnoles",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sangria",
+        "drinks quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "sangria",
+        "drinks quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "desserts",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "crème catalane",
+        "food quality",
+        "positive"
+      ],
+      [
+        "gâteau basque",
+        "food quality",
+        "positive"
+      ],
+      [
+        "fromage de brebis",
+        "food quality",
+        "positive"
+      ],
+      [
+        "confiture de cerises noires",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "desserts",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveurs",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveurs",
+        "service general",
+        "positive"
+      ],
+      [
+        "endroit",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "tables",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "salade",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "salade composée",
+        "food prices",
+        "negative"
+      ],
+      [
+        "salade composée",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food prices",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "vin",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "tapas",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "tapas",
+        "food quality",
+        "positive"
+      ],
+      [
+        "verre de vin",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "lieu",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Patron",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Patron",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lieu",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lieu",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "anniversaire",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assiette",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assiette",
+        "food quality",
+        "negative"
+      ],
+      [
+        "assiette",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "viande",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assiettes",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "saumon",
+        "food quality",
+        "negative"
+      ],
+      [
+        "serveuse",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "saumon",
+        "food quality",
+        "negative"
+      ],
+      [
+        "serveuse",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "haricots verts",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "haricots verts",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "fraisier",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "fraisier",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cocktails",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "cafés",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cafés",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "assiette",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "cocktails sans alcool",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveuse",
+        "service general",
+        "positive"
+      ],
+      [
+        "saumons",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveuse",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant miscellaneous",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "nem",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "nourriture",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "riz cantonais",
+        "food quality",
+        "negative"
+      ],
+      [
+        "glace",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "riz cantonais",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cuisine",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cuisine",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "repas",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "repas",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "accueil",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Service",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Service",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "produits",
+        "food quality",
+        "positive"
+      ],
+      [
+        "présentations",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "produits",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Adresse",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Adresse",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "raviolis",
+        "food quality",
+        "positive"
+      ],
+      [
+        "gambes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "turbot",
+        "food quality",
+        "positive"
+      ],
+      [
+        "agneau",
+        "food quality",
+        "positive"
+      ],
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ],
+      [
+        "vins",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food prices",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant miscellaneous",
+        "neutral"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "gambes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ],
+      [
+        "agneau rosé",
+        "food quality",
+        "positive"
+      ],
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ],
+      [
+        "vins de sicile",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "entrées",
+        "food prices",
+        "neutral"
+      ],
+      [
+        "turbot pour 2",
+        "food prices",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Endroit",
+        "location general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Endroit",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Nourriture",
+        "food style_options",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "prix",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "qualité",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Accueil",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Accueil",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pizza",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "pizza",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pizza",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "pizza",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveuse",
+        "service general",
+        "negative"
+      ],
+      [
+        "champignon",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveuse",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveuse",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveuse",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mojito",
+        "drinks quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "mojito",
+        "drinks quality",
+        "negative"
+      ],
+      [
+        "mojito",
+        "drinks style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "courgettes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "magret",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "courgettes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "magret",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cuisine",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "patron",
+        "service general",
+        "positive"
+      ],
+      [
+        "femme",
+        "service general",
+        "positive"
+      ],
+      [
+        "fils",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "viande",
+        "food quality",
+        "positive"
+      ],
+      [
+        "produits",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "viande",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Serveur",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Serveur",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "repas",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "pizza",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "terrasse",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "spa",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "terrasse",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "location general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Prix",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveu",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveur",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "direction",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive"
+      ],
+      [
+        "lieu",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "table",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lieu",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lieu",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "chef",
+        "service general",
+        "positive"
+      ],
+      [
+        "équipe",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ],
+      [
+        "équipe",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "serveuses",
+        "service general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveuses",
+        "service general",
+        "positive"
+      ],
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "serveuses",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "viandes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "quantités",
+        "food prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "viandes",
+        "food quality",
+        "positive"
+      ],
+      [
+        "viandes",
+        "food style_options",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mayonnais",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "sauces mayonnaises",
+        "food quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "tartiflette",
+        "food quality",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "tartiflette",
+        "food quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "repas",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Endroit",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "nourriture",
+        "food quality",
+        "positive"
+      ],
+      [
+        "patron",
+        "service general",
+        "positive"
+      ],
+      [
+        "vin",
+        "drinks quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "nourriture",
+        "food quality",
+        "positive"
+      ],
+      [
+        "Endroit",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "patron",
+        "service general",
+        "positive"
+      ],
+      [
+        "bouteille",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "plats",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "plats",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "produits",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "produits",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "accueil",
+        "service general",
+        "negative"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "accueil",
+        "service general",
+        "negative"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "negative"
+      ],
+      [
+        "rabatteur",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hamburger",
+        "food quality",
+        "positive"
+      ],
+      [
+        "frites",
+        "food quality",
+        "positive"
+      ],
+      [
+        "patron",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "produit",
+        "food quality",
+        "positive"
+      ],
+      [
+        "hamburger",
+        "food quality",
+        "positive"
+      ],
+      [
+        "frites",
+        "food quality",
+        "positive"
+      ],
+      [
+        "patron",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "emplacement",
+        "location general",
+        "positive"
+      ],
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "assiette",
+        "food prices",
+        "negative"
+      ],
+      [
+        "assiette",
+        "food quality",
+        "negative"
+      ],
+      [
+        "charcuterie",
+        "food quality",
+        "negative"
+      ],
+      [
+        "plat",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "emplacement",
+        "location general",
+        "positive"
+      ],
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "serveur",
+        "service general",
+        "negative"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "negative"
+      ],
+      [
+        "assiettes",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "assiettes",
+        "food quality",
+        "negative"
+      ],
+      [
+        "assiette de charcuterie",
+        "food style_options",
+        "neutral"
+      ],
+      [
+        "andouillette et pomme de terre",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "carte",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "serveuse",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "carte",
+        "food style_options",
+        "neutral"
+      ],
+      [
+        "serveuse",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "patronne",
+        "service general",
+        "negative"
+      ],
+      [
+        "plats",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "patronne",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant miscellaneous",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "patronne",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "patronne",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "menu enfant",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Restaurant",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Restaurant",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "restaurateur",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cadre",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assiettes",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "personnes",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assiettes",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "nuggets",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "plateau",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Accueil",
+        "service general",
+        "positive"
+      ],
+      [
+        "salle",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "grillades",
+        "food quality",
+        "positive"
+      ],
+      [
+        "prix",
+        "restaurant prices",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Accueil",
+        "service general",
+        "positive"
+      ],
+      [
+        "arrière salle",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "produits",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "neutral"
+      ],
+      [
+        "grillades au feu de bois",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "prix",
+        "restaurant prices",
+        "neutral"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "neutral"
+      ],
+      [
+        "salle",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "tagliatelles",
+        "food quality",
+        "negative"
+      ],
+      [
+        "fruits de mer",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "service",
+        "service general",
+        "negative"
+      ],
+      [
+        "accueil",
+        "service general",
+        "negative"
+      ],
+      [
+        "saint Jacques",
+        "food quality",
+        "positive"
+      ],
+      [
+        "riz",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "produits",
+        "food quality",
+        "positive"
+      ],
+      [
+        "service",
+        "service general",
+        "negative"
+      ],
+      [
+        "accueil",
+        "service general",
+        "negative"
+      ],
+      [
+        "saint Jacques",
+        "food quality",
+        "positive"
+      ],
+      [
+        "riz",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "produits",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ],
+      [
+        "plats",
+        "food quality",
+        "positive"
+      ],
+      [
+        "ambiance",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cabanon de plage",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ],
+      [
+        "plats",
+        "food quality",
+        "positive"
+      ],
+      [
+        "ambiance",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "équipe",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "équipe",
+        "service general",
+        "positive"
+      ],
+      [
+        "lieu",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "table",
+        "food quality",
+        "positive"
+      ],
+      [
+        "rue",
+        "location general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ],
+      [
+        "table",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cuisine provençale",
+        "food quality",
+        "positive"
+      ],
+      [
+        "cuisine provençale",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive"
+      ],
+      [
+        "endroit",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ],
+      [
+        "salade",
+        "food quality",
+        "negative"
+      ],
+      [
+        "plat",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "produits",
+        "food quality",
+        "negative"
+      ],
+      [
+        "salade d 'accueil",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "plat principal",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "dessert",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "patron",
+        "service general",
+        "negative"
+      ],
+      [
+        "serveurs",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "accueil",
+        "service general",
+        "negative"
+      ],
+      [
+        "serveurs",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "vaisselle",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "serveuses",
+        "service general",
+        "positive"
+      ],
+      [
+        "apéritif",
+        "drinks style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "serveuses",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bar restaurant",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "accueil",
+        "service general",
+        "negative"
+      ],
+      [
+        "service",
+        "service general",
+        "negative"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "negative"
+      ],
+      [
+        "buffet",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "accueil",
+        "service general",
+        "negative"
+      ],
+      [
+        "service",
+        "service general",
+        "negative"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "negative"
+      ],
+      [
+        "buffet",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "établissement",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "carte",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "plats",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "carte",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "plats",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "tartare",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "moules",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "moules",
+        "food style_options",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "moules",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "moules",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "frites",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "frites",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "moule marinière",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cocotte de moule marinière",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "La note",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "moules",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "moules",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "responsable",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "responsable",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ],
+      [
+        "endroit",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "plats",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "rapport qualité prix",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "plats",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food prices",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "risotto",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "risotto",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "risotto",
+        "food prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cadre",
+        "ambience general",
+        "neutral"
+      ],
+      [
+        "port",
+        "location general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cadre",
+        "ambience general",
+        "neutral"
+      ],
+      [
+        "port touristique",
+        "location general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "demoiselle",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "commande",
+        "service general",
+        "negative"
+      ],
+      [
+        "patron",
+        "service general",
+        "negative"
+      ],
+      [
+        "vin",
+        "drinks style_options",
+        "negative"
+      ],
+      [
+        "plat",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "patron",
+        "service general",
+        "negative"
+      ],
+      [
+        "service du vin",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "salle",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "ambiance",
+        "ambience general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Deco",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "tables",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Deco",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Personnel",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Personnel",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Menus",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Menus",
+        "food prices",
+        "neutral"
+      ],
+      [
+        "Menus",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "produits",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food prices",
+        "positive"
+      ],
+      [
+        "produits",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Plats",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Plats",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "desserts",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "desserts",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Coctails",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "drinks prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Coctails",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "Coctails",
+        "drinks prices",
+        "neutral"
+      ],
+      [
+        "Coctails",
+        "drinks style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Restaurant",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Restaurant",
+        "restaurant miscellaneous",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Terrasse",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "assiettes",
+        "restaurant miscellaneous",
+        "positive"
+      ],
+      [
+        "poissons",
+        "food quality",
+        "positive"
+      ],
+      [
+        "décoration",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "service",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Terrasse",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "assiettes",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "poissons",
+        "food quality",
+        "positive"
+      ],
+      [
+        "décoration",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "service",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "adresse",
+        "location general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "location general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "patronne",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "patronne",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cassoulet",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cassoulet",
+        "food quality",
+        "positive"
+      ],
+      [
+        "cassoulet",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Minervois",
+        "drinks style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "verre",
+        "drinks style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "fois gras",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "fois gras",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "patronne",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "accueil",
+        "service general",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cassoulet",
+        "food quality",
+        "negative"
+      ],
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cassoulet",
+        "food quality",
+        "negative"
+      ],
+      [
+        "cuisine",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Patron",
+        "service general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cuisine",
+        "food quality",
+        "negative"
+      ],
+      [
+        "service",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "choix",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Repas",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Repas",
+        "food quality",
+        "negative"
+      ],
+      [
+        "Repas",
+        "food prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "repas",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "repas",
+        "food prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "plat",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "plat",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "situé",
+        "location general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Service",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Service",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Pizza",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "tiramisu",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Pizza",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "tiramisu",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bière",
+        "drinks style_options",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bière",
+        "drinks style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lieu",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lieu",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Cuisine",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "Cuisine",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "chef",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "patissière",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "Bœuf",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ],
+      [
+        "langue de Bœuf",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cuisine",
+        "food quality",
+        "positive"
+      ],
+      [
+        "endroit",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cuisine traditionnelle",
+        "food quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "ambience general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "repas",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "repas",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pomme de terre",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "pomme de terre",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "ambiance",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative"
+      ]
+    ]
+  }
+]

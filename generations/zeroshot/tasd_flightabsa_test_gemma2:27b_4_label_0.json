@@ -1,0 +1,7760 @@
+[
+  {
+    "pred_label": [
+      [
+        "food",
+        "onboard food",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "onboard food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "someone there to help",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "PERSON",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "time",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "customer treatment",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "customer treatment",
+        "airline service",
+        "positive"
+      ],
+      [
+        "NULL",
+        "punctuality general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "plane",
+        "onboard cleanliness",
+        "positive"
+      ],
+      [
+        "flight",
+        "punctuality general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "plane",
+        "onboard cleanliness",
+        "positive"
+      ],
+      [
+        "plane",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "quantity of food",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "sausage",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "egg",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "bacon",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "mushrooms",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "tomato",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "dessert",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "cherry mousse",
+        "onboard food",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cherry mousse",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "quantity of food",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "plate",
+        "onboard food",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cabin crew",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mistakes",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hospitality",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hospitality",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "fee",
+        "onboard price",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "fee",
+        "airline price",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "generally underperfomed",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "landing",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "seat",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ],
+      [
+        "seat",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Cabin crew",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Service",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "airline",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "airline",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight crew",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight crew",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "airline",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "airline",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Aegean Airlines",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "business class with Aegean Airlines",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "attendant",
+        "airline service",
+        "negative"
+      ],
+      [
+        "singling out people of color",
+        "airline service",
+        "negative"
+      ],
+      [
+        "pay extra",
+        "airline price",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "attendant",
+        "airline service",
+        "negative"
+      ],
+      [
+        "NULL",
+        "airline price",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Air France",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Air France",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "checking",
+        "airport operation check_in",
+        "positive"
+      ],
+      [
+        "boarding",
+        "airport operation boarding",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ],
+      [
+        "boarding",
+        "airport operation boarding",
+        "positive"
+      ],
+      [
+        "checking",
+        "airport operation check_in",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "luggage",
+        "airport operation baggage",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "book our luggage",
+        "airport operation baggage",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Flight",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "boarding",
+        "airport operation boarding",
+        "negative"
+      ],
+      [
+        "speedy check in",
+        "airport operation check_in",
+        "negative"
+      ],
+      [
+        "speedy check in",
+        "airport operation check_in",
+        "negative"
+      ],
+      [
+        "area",
+        "airport operation check_in",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Flight",
+        "punctuality general",
+        "neutral"
+      ],
+      [
+        "speedy check in",
+        "airport operation check_in",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "movie selection",
+        "onboard entertainment",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "movie selection",
+        "onboard entertainment",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "atmosphere",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "check in",
+        "airport operation check_in",
+        "positive"
+      ],
+      [
+        "flight",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "attendants",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "check in",
+        "airport operation check_in",
+        "positive"
+      ],
+      [
+        "attendants",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "tui flights",
+        "airline general",
+        "negative"
+      ],
+      [
+        "tight",
+        "onboard seat comfort",
+        "negative"
+      ],
+      [
+        "uncomfortable",
+        "onboard seat comfort",
+        "negative"
+      ],
+      [
+        "Staff on board",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "onboard seat comfort",
+        "negative"
+      ],
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ],
+      [
+        "Staff",
+        "airline service",
+        "positive"
+      ],
+      [
+        "tui flights",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Check in",
+        "airport operation check_in",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Check in",
+        "airport operation check_in",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "delay",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flights",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flights",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "delayed",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Flight",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Turkish airline",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Turkish airline",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "took off",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "check in",
+        "airport operation check_in",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "PERSON at check in",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight attendants",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "PERSON",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "punctuality general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Check in",
+        "airport operation check_in",
+        "positive"
+      ],
+      [
+        "waited",
+        "airport operation check_in",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Check in",
+        "airport operation check_in",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Lounge",
+        "airport operation check_in",
+        "positive"
+      ],
+      [
+        "Fast track",
+        "airport operation check_in",
+        "positive"
+      ],
+      [
+        "priority boarding",
+        "airport operation boarding",
+        "positive"
+      ],
+      [
+        "cost",
+        "airline price",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cost",
+        "airline price",
+        "positive"
+      ],
+      [
+        "Lounge/Fast track/priority boarding",
+        "airport operation boarding",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Easy jet flight",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Easy jet flight",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flights",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ],
+      [
+        "baggage",
+        "airport operation baggage",
+        "positive"
+      ],
+      [
+        "prices",
+        "onboard price",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "prices",
+        "onboard price",
+        "positive"
+      ],
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ],
+      [
+        "flights",
+        "airline general",
+        "positive"
+      ],
+      [
+        "baggage drop",
+        "airport operation baggage",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "customer service",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "customer service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "up charge",
+        "airline price",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "airline",
+        "airline price",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "seats",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "seats",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Jet2",
+        "airline general",
+        "positive"
+      ],
+      [
+        "low cost flights and holidays",
+        "airline price",
+        "positive"
+      ],
+      [
+        "private transfer",
+        "airport operation baggage",
+        "negative"
+      ],
+      [
+        "organisation",
+        "airport operation check_in",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Jet2",
+        "airline general",
+        "positive"
+      ],
+      [
+        "organisation",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "leg room",
+        "onboard seat legroom",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "leg room",
+        "onboard seat legroom",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "delayed",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Gatwick North to PERSON",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "baggage rule",
+        "airport operation baggage",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "baggage",
+        "airport operation baggage",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "legs",
+        "onboard seat legroom",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "onboard seat legroom",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "seats",
+        "onboard seat comfort",
+        "negative"
+      ],
+      [
+        "positioned",
+        "onboard seat comfort",
+        "negative"
+      ],
+      [
+        "privacy partion",
+        "onboard seat comfort",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "seats",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Food",
+        "onboard food",
+        "neutral"
+      ],
+      [
+        "dinner",
+        "onboard food",
+        "positive"
+      ],
+      [
+        "breakfast",
+        "onboard food",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Food",
+        "onboard food",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "carrier",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "seat",
+        "onboard seat legroom",
+        "neutral"
+      ],
+      [
+        "leg room",
+        "onboard seat legroom",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "airline",
+        "airline general",
+        "negative"
+      ],
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "connecting flight",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "customer service",
+        "airline service",
+        "negative"
+      ],
+      [
+        "every one on the team",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "customer service",
+        "airline service",
+        "negative"
+      ],
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "every one on the team",
+        "airline service",
+        "negative"
+      ],
+      [
+        "airline",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "crew",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "crew",
+        "airline service",
+        "positive"
+      ],
+      [
+        "flight",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Easyjet",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Easyjet",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Ryanair",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Ryanair",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Customer service",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Customer service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Jet 2",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Jet 2",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "late taking off",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "check everyone through",
+        "airport operation check_in",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "taking off",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Joke of a company",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "company",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Staff",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Staff",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "punctuality",
+        "punctuality general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ],
+      [
+        "punctuality",
+        "punctuality general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Ryanair",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ],
+      [
+        "Ryanair",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "food",
+        "onboard food",
+        "neutral"
+      ],
+      [
+        "Service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "cabin crew",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "meals",
+        "onboard food",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "meals",
+        "onboard food",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Ryanair",
+        "airline general",
+        "negative"
+      ],
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "onboard food",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "roll with one piece of turkey",
+        "onboard food",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight attendant",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "PERSON",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Seats",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Seats",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "SAS",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "young lady",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "delayed",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "cabin crew",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Flight",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "cabin crew",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "boarding",
+        "airport operation boarding",
+        "negative"
+      ],
+      [
+        "customer service",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "customer service",
+        "airline service",
+        "negative"
+      ],
+      [
+        "boarding",
+        "airport operation boarding",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Jet2",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Jet2",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "professional",
+        "airline general",
+        "positive"
+      ],
+      [
+        "knowledgeable",
+        "airline service",
+        "positive"
+      ],
+      [
+        "kind",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "experience",
+        "airline general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight Aalborg-Copehagen",
+        "punctuality general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Aalborg-Copehagen",
+        "airline general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight crew",
+        "airline service",
+        "positive"
+      ],
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ],
+      [
+        "flight crew",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "in flight experience",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bag",
+        "airport operation baggage",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bag",
+        "airport operation baggage",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "international airline",
+        "airline general",
+        "negative"
+      ],
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "airline",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "departed",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "crew",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "crew",
+        "airline service",
+        "positive"
+      ],
+      [
+        "NULL",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "compensation",
+        "onboard price",
+        "negative"
+      ],
+      [
+        "coffee",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "lunch",
+        "onboard food",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lunch",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "coffee",
+        "onboard food",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "check in",
+        "airport operation check_in",
+        "positive"
+      ],
+      [
+        "inflight teams",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "check in and inflight teams",
+        "airline service",
+        "positive"
+      ],
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "way",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flights",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "roundtrip flights",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "onboard food",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "onboard food",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "seating",
+        "onboard seat comfort",
+        "positive"
+      ],
+      [
+        "entertainment movie selection",
+        "onboard entertainment",
+        "positive"
+      ],
+      [
+        "lounge seating",
+        "onboard seat comfort",
+        "positive"
+      ],
+      [
+        "NULL",
+        "onboard cleanliness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Check in",
+        "airport operation check_in",
+        "positive"
+      ],
+      [
+        "flight",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "food",
+        "onboard food",
+        "positive"
+      ],
+      [
+        "everyone",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline service",
+        "positive"
+      ],
+      [
+        "food",
+        "onboard food",
+        "positive"
+      ],
+      [
+        "Check in",
+        "airport operation check_in",
+        "positive"
+      ],
+      [
+        "flight",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "baggage drop off",
+        "airport operation baggage",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "baggage drop",
+        "airport operation baggage",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "punctuality general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Flight",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "luggage",
+        "airport operation baggage",
+        "negative"
+      ],
+      [
+        "luggage",
+        "airport operation baggage",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "luggage",
+        "airport operation baggage",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "stewards",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cabin crew member",
+        "airline service",
+        "negative"
+      ],
+      [
+        "earlier flights with Lufthansa",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cabin crew member",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "fresh fruit and pastries",
+        "onboard food",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "pastries",
+        "onboard food",
+        "positive"
+      ],
+      [
+        "fruit",
+        "onboard food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "entertainment system",
+        "onboard entertainment",
+        "negative"
+      ],
+      [
+        "selection of movies",
+        "onboard entertainment",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "entertainment system",
+        "onboard entertainment",
+        "negative"
+      ],
+      [
+        "selection of movies",
+        "onboard entertainment",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight",
+        "airline general",
+        "positive"
+      ],
+      [
+        "PERSON",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Airline",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Airline",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "seats",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "connecting flight",
+        "punctuality general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "punctuality general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Lufthansa",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Lufthansa",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "premium economy seats",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "premium economy seats",
+        "onboard seat comfort",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "water",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "hand sanitiser",
+        "airport operation baggage",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "water",
+        "onboard food",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "cabin crew",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "cabin crew",
+        "airline service",
+        "positive"
+      ],
+      [
+        "flight",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "extra cost",
+        "onboard price",
+        "negative"
+      ],
+      [
+        "priority",
+        "airline general",
+        "negative"
+      ],
+      [
+        "chaos",
+        "airport operation boarding",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "board",
+        "airport operation boarding",
+        "negative"
+      ],
+      [
+        "extra cost for the priority",
+        "airline price",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Seats",
+        "onboard seat legroom",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Seats",
+        "onboard seat comfort",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Business Class",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Business Class",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "customer service",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "customer service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "staff",
+        "airline service",
+        "negative"
+      ],
+      [
+        "government",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ],
+      [
+        "food",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "staff",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Aegean flight",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Aegean flight",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Staff on board",
+        "airline service",
+        "positive"
+      ],
+      [
+        "airport staff on the ground",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Staff",
+        "airline service",
+        "negative"
+      ],
+      [
+        "seats",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Staff",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "AirEuropa",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "AirEuropa",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "check in desks",
+        "airport operation check_in",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airport operation check_in",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "refund",
+        "airline price",
+        "negative"
+      ],
+      [
+        "nobody",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "refund",
+        "airline price",
+        "negative"
+      ],
+      [
+        "NULL",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ],
+      [
+        "passenger baggage behaviour",
+        "airport operation baggage",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ],
+      [
+        "baggage behaviour",
+        "airport operation baggage",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "seats",
+        "onboard seat comfort",
+        "negative"
+      ],
+      [
+        "cleaned",
+        "onboard cleanliness",
+        "negative"
+      ],
+      [
+        "flight",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ],
+      [
+        "seats",
+        "onboard seat comfort",
+        "negative"
+      ],
+      [
+        "seats",
+        "onboard cleanliness",
+        "negative"
+      ],
+      [
+        "flight",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Meals",
+        "onboard food",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Meals",
+        "onboard food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "delay",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "seats",
+        "onboard seat comfort",
+        "positive"
+      ],
+      [
+        "leg room",
+        "onboard seat legroom",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "seats",
+        "onboard seat comfort",
+        "positive"
+      ],
+      [
+        "leg room",
+        "onboard seat legroom",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "refund",
+        "airline price",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Pegasus",
+        "airline price",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Pegasus",
+        "airline price",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "TUI",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "TUI",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "onboard food",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Service of food",
+        "onboard food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lack of genuine concern",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline price",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Food/Snacks",
+        "onboard food",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Food",
+        "onboard food",
+        "positive"
+      ],
+      [
+        "Snacks",
+        "onboard food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "BA travellers",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "BA",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "carry on",
+        "onboard seat legroom",
+        "negative"
+      ],
+      [
+        "checked it in",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "carry on",
+        "airline price",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Check in",
+        "airport operation check_in",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Check in",
+        "airport operation check_in",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "drink",
+        "onboard food",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "drink with meal",
+        "onboard food",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "seats",
+        "onboard seat comfort",
+        "negative"
+      ],
+      [
+        "plane",
+        "onboard cleanliness",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "board",
+        "airport operation boarding",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "airline price",
+        "positive"
+      ],
+      [
+        "flight",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight",
+        "airline price",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "incompetent",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "customer care",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "customer care",
+        "airline service",
+        "negative"
+      ],
+      [
+        "NULL",
+        "airline price",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "delay",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "On board service",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "On board service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "crew",
+        "airline service",
+        "positive"
+      ],
+      [
+        "flight",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "Wizz air",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Wizz air",
+        "airline general",
+        "positive"
+      ],
+      [
+        "flight",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ],
+      [
+        "crew",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Bag",
+        "airport operation baggage",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Bag",
+        "airport operation baggage",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flights",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flights",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Lufthansa",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Lufthansa",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "EasyJet",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "EasyJet",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "BA",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "BA",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Service",
+        "airline service",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Service",
+        "airline service",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Staff",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Staff",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "SAS",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "SAS",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "crew members",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "crew members",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "leg",
+        "punctuality general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Outbound",
+        "airline general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "space",
+        "onboard seat legroom",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "aircraft",
+        "airline general",
+        "positive"
+      ],
+      [
+        "space",
+        "onboard seat legroom",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "airline",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "airline",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Food",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "check in process",
+        "airport operation check_in",
+        "negative"
+      ],
+      [
+        "seat selection",
+        "onboard price",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "onboard price",
+        "negative"
+      ],
+      [
+        "check in process",
+        "airport operation check_in",
+        "negative"
+      ],
+      [
+        "Food",
+        "onboard food",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Jet 2 staff",
+        "airline service",
+        "positive"
+      ],
+      [
+        "check in",
+        "airport operation check_in",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "check in",
+        "airport operation check_in",
+        "positive"
+      ],
+      [
+        "Jet 2 staff",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "time",
+        "punctuality general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Fight",
+        "punctuality general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "luggage",
+        "airport operation baggage",
+        "negative"
+      ],
+      [
+        "refund",
+        "airline price",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline service",
+        "negative"
+      ],
+      [
+        "NULL",
+        "airline price",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Turkish Airlines",
+        "airline general",
+        "positive"
+      ],
+      [
+        "BA",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Turkish Airlines",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pricing",
+        "airline price",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "pricing",
+        "airline price",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "World traveller cabin",
+        "onboard cleanliness",
+        "positive"
+      ],
+      [
+        "Boeing 777",
+        "airline general",
+        "neutral"
+      ],
+      [
+        "cabin crew interaction",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cabin crew interaction",
+        "airline service",
+        "negative"
+      ],
+      [
+        "World traveller cabin",
+        "onboard cleanliness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "wifi",
+        "onboard entertainment",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "wifi",
+        "onboard entertainment",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Plane",
+        "onboard cleanliness",
+        "positive"
+      ],
+      [
+        "seats/leg room",
+        "onboard seat comfort",
+        "positive"
+      ],
+      [
+        "seats/leg room",
+        "onboard seat legroom",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Plane",
+        "onboard cleanliness",
+        "positive"
+      ],
+      [
+        "leg room",
+        "onboard seat legroom",
+        "positive"
+      ],
+      [
+        "seats",
+        "onboard seat comfort",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "charter flight",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "space",
+        "onboard seat legroom",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "space",
+        "onboard seat legroom",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "leg room",
+        "onboard seat legroom",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "leg room",
+        "onboard seat legroom",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "seats",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "seats",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "stuff",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "stuff",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "BA",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "BA",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "THIS AIRLINE",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "AIRLINE",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "return flight",
+        "punctuality general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "return flight",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "budget airline",
+        "airline general",
+        "neutral"
+      ],
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "boarding",
+        "airport operation boarding",
+        "positive"
+      ],
+      [
+        "entertainment",
+        "onboard entertainment",
+        "negative"
+      ],
+      [
+        "prices",
+        "onboard price",
+        "negative"
+      ],
+      [
+        "premium airline",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "boarding",
+        "airport operation boarding",
+        "positive"
+      ],
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Jet2",
+        "airline general",
+        "negative"
+      ],
+      [
+        "departing late",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "late arriving",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "late departing",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Jet2",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cabin crew",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cabin crew",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "seats",
+        "onboard seat comfort",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "PERSON",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Plane",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Plane",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "TAP",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "TAP",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Air France",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Air France",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "security",
+        "airport operation check_in",
+        "negative"
+      ],
+      [
+        "seat",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "security",
+        "airport operation check_in",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flights",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ],
+      [
+        "planes",
+        "onboard seat comfort",
+        "positive"
+      ],
+      [
+        "seats",
+        "onboard seat comfort",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ],
+      [
+        "seats",
+        "onboard seat comfort",
+        "positive"
+      ],
+      [
+        "flights",
+        "airline general",
+        "positive"
+      ],
+      [
+        "flights",
+        "punctuality general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "refund",
+        "airline price",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "legroom",
+        "onboard seat legroom",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "legroom",
+        "onboard seat legroom",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Turkish airlines",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "customer service",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "price",
+        "airline price",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline price",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "booking in process",
+        "airline service",
+        "positive"
+      ],
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "on-line check-in",
+        "airport operation check_in",
+        "positive"
+      ],
+      [
+        "baggage drop",
+        "airport operation baggage",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "baggage drop",
+        "airport operation baggage",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flights",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "seats",
+        "onboard seat comfort",
+        "positive"
+      ],
+      [
+        "seats",
+        "onboard cleanliness",
+        "positive"
+      ],
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ],
+      [
+        "seats",
+        "onboard seat comfort",
+        "positive"
+      ],
+      [
+        "flights",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "seats",
+        "onboard cleanliness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "on time",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "comfortable",
+        "onboard seat comfort",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Flight",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "plane",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "experience",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "punctuality general",
+        "neutral"
+      ],
+      [
+        "food",
+        "onboard food",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight",
+        "airline general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "onboard price",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "price",
+        "onboard price",
+        "positive"
+      ],
+      [
+        "leg room",
+        "onboard seat legroom",
+        "positive"
+      ],
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ],
+      [
+        "communication",
+        "airport operation check_in",
+        "negative"
+      ],
+      [
+        "room types",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ],
+      [
+        "communication",
+        "airline service",
+        "negative"
+      ],
+      [
+        "leg room",
+        "onboard seat legroom",
+        "positive"
+      ],
+      [
+        "NULL",
+        "airline price",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "onboard food",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "onboard food",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "punctuality general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "check-in",
+        "airport operation check_in",
+        "positive"
+      ],
+      [
+        "flight",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "easyjet  assistant",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Flight",
+        "punctuality general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Flight",
+        "punctuality general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Pegasus",
+        "airline general",
+        "positive"
+      ],
+      [
+        "flights",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "crew",
+        "airline service",
+        "positive"
+      ],
+      [
+        "seats",
+        "onboard seat comfort",
+        "positive"
+      ],
+      [
+        "transit in SAW",
+        "airport operation check_in",
+        "neutral"
+      ],
+      [
+        "price",
+        "onboard price",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Pegasus",
+        "airline general",
+        "positive"
+      ],
+      [
+        "crew",
+        "airline service",
+        "positive"
+      ],
+      [
+        "flights",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "seats",
+        "onboard seat comfort",
+        "positive"
+      ],
+      [
+        "NULL",
+        "airline price",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "headphone jack",
+        "onboard entertainment",
+        "negative"
+      ],
+      [
+        "economy class ticket",
+        "onboard price",
+        "negative"
+      ],
+      [
+        "money worth",
+        "onboard price",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline price",
+        "negative"
+      ],
+      [
+        "food",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "headphone jack",
+        "onboard entertainment",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "early",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "ahead of schedule",
+        "punctuality general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "punctuality general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Prosecco",
+        "onboard food",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bottle of Prosecco",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "check in",
+        "airport operation check_in",
+        "positive"
+      ],
+      [
+        "wait",
+        "airport operation check_in",
+        "negative"
+      ],
+      [
+        "wait",
+        "airport operation boarding",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "check in",
+        "airport operation check_in",
+        "positive"
+      ],
+      [
+        "wait for security",
+        "airport operation check_in",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "airline",
+        "airline general",
+        "negative"
+      ],
+      [
+        "delays",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "compensation",
+        "airline price",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "compensation",
+        "airline service",
+        "negative"
+      ],
+      [
+        "delays",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Booking",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Booking",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Toilets",
+        "onboard cleanliness",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Toilets",
+        "onboard cleanliness",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Service",
+        "airline service",
+        "positive"
+      ],
+      [
+        "meals",
+        "onboard food",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "veggie meals",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "food",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "Service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "airport operation check_in",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ],
+      [
+        "boarding",
+        "airport operation boarding",
+        "positive"
+      ],
+      [
+        "Check in",
+        "airport operation check_in",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "baggage restrictions",
+        "airport operation baggage",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "baggage restrictions",
+        "airport operation baggage",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Service",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Service",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "help",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "help",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "baggage handling",
+        "airport operation baggage",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "baggage handling",
+        "airport operation baggage",
+        "negative"
+      ],
+      [
+        "Airline",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Flight",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Return Flight",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "luggage",
+        "airport operation baggage",
+        "negative"
+      ],
+      [
+        "travel further",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ],
+      [
+        "luggage",
+        "airport operation baggage",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Planes",
+        "onboard cleanliness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Planes",
+        "onboard cleanliness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "bowl",
+        "onboard food",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "legroom",
+        "onboard seat legroom",
+        "negative"
+      ],
+      [
+        "planes",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ],
+      [
+        "legroom",
+        "onboard seat legroom",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Flights",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "cabin crew",
+        "airline service",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cabin crew",
+        "airline service",
+        "neutral"
+      ],
+      [
+        "Flights",
+        "punctuality general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Jet2 staff",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Jet2 staff",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "costumer service",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "costumer service",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "QATAR",
+        "airline general",
+        "positive"
+      ],
+      [
+        "BA",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "BA",
+        "airline general",
+        "negative"
+      ],
+      [
+        "QATAR",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flights",
+        "airline general",
+        "positive"
+      ],
+      [
+        "Jet2",
+        "airline general",
+        "positive"
+      ],
+      [
+        "landed early",
+        "punctuality general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flights",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Staff",
+        "airline service",
+        "negative"
+      ],
+      [
+        "legroom",
+        "onboard seat legroom",
+        "negative"
+      ],
+      [
+        "seats",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ],
+      [
+        "seats",
+        "onboard seat comfort",
+        "negative"
+      ],
+      [
+        "legroom",
+        "onboard seat legroom",
+        "negative"
+      ],
+      [
+        "Staff",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flights",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "seats",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "seats",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Turkish Airlines",
+        "airline general",
+        "negative"
+      ],
+      [
+        "luggage",
+        "airport operation baggage",
+        "negative"
+      ],
+      [
+        "compensation",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "luggage",
+        "airport operation baggage",
+        "negative"
+      ],
+      [
+        "Turkish Airlines",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food quality",
+        "onboard food",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "options",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "food",
+        "onboard food",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "delay",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "experience",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "airplane",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "customer care representative",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "customer care representative",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "seats",
+        "onboard seat comfort",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "seats",
+        "onboard seat comfort",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "seats",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "seats",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "company",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "company",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "airport operation check_in",
+        "negative"
+      ],
+      [
+        "experience",
+        "airport operation check_in",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "airline service",
+        "negative"
+      ],
+      [
+        "check-in",
+        "airport operation check_in",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "air bridge",
+        "airport operation boarding",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "air bridge",
+        "airport operation boarding",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "airline",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "airline",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "airline service",
+        "positive"
+      ],
+      [
+        "beverages",
+        "onboard food",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Lufthansa",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Lufthansa",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "EasyJet",
+        "airline general",
+        "positive"
+      ],
+      [
+        "flights",
+        "punctuality general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "EasyJet",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight attendants",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight attendants",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "plane",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Cancellations",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "value",
+        "airline price",
+        "negative"
+      ],
+      [
+        "they",
+        "airline general",
+        "negative"
+      ],
+      [
+        "employees",
+        "airport operation check_in",
+        "negative"
+      ],
+      [
+        "customer service",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Cancellations",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "airline price",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Staff",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Staff",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "airlines",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "coffee",
+        "onboard food",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "coffee",
+        "airline price",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Jet2",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Jet2",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Turbo service",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Ground Crew Operations",
+        "airline service",
+        "negative"
+      ],
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "crew",
+        "airline service",
+        "positive"
+      ],
+      [
+        "boarding procedures",
+        "airport operation boarding",
+        "positive"
+      ],
+      [
+        "in-flight entertainment",
+        "onboard entertainment",
+        "negative"
+      ],
+      [
+        "leg room",
+        "onboard seat legroom",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "crew",
+        "airline service",
+        "positive"
+      ],
+      [
+        "in-flight entertainment",
+        "onboard entertainment",
+        "negative"
+      ],
+      [
+        "flight",
+        "airline general",
+        "positive"
+      ],
+      [
+        "boarding procedures",
+        "airport operation boarding",
+        "positive"
+      ],
+      [
+        "leg room",
+        "onboard seat legroom",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Turkish business class",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Turkish business class",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "PERSON",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "low-sodium meal",
+        "onboard food",
+        "positive"
+      ],
+      [
+        "kosher",
+        "onboard food",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "low-sodium meal",
+        "onboard food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "business class",
+        "onboard seat comfort",
+        "positive"
+      ],
+      [
+        "pod seat",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "pod seat",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "check in",
+        "airport operation check_in",
+        "positive"
+      ],
+      [
+        "flight",
+        "punctuality general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "check in",
+        "airport operation check_in",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "legs",
+        "onboard seat legroom",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "space for the legs",
+        "onboard seat legroom",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Coach class",
+        "airline general",
+        "neutral"
+      ],
+      [
+        "leaving",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "time",
+        "punctuality general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "planes",
+        "onboard cleanliness",
+        "positive"
+      ],
+      [
+        "planes",
+        "onboard seat comfort",
+        "positive"
+      ],
+      [
+        "cabin crew",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cabin crew",
+        "airline service",
+        "positive"
+      ],
+      [
+        "planes",
+        "onboard cleanliness",
+        "positive"
+      ],
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ],
+      [
+        "planes",
+        "airline general",
+        "positive"
+      ],
+      [
+        "airline",
+        "airline price",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Flight",
+        "punctuality general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Flight",
+        "punctuality general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "PERSON",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Jet2",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Jet2",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "company",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "company",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "prices",
+        "airline price",
+        "negative"
+      ],
+      [
+        "customer service",
+        "airline service",
+        "negative"
+      ],
+      [
+        "amenities",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "customer service",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Premium check in",
+        "airport operation check_in",
+        "positive"
+      ],
+      [
+        "main queue",
+        "airport operation check_in",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Premium check",
+        "airport operation check_in",
+        "positive"
+      ],
+      [
+        "queue for check in",
+        "airport operation check_in",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "airline",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "airline",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "seat",
+        "onboard seat comfort",
+        "negative"
+      ],
+      [
+        "seat",
+        "onboard seat legroom",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Staff",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Airplane",
+        "airline general",
+        "positive"
+      ],
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Airplane",
+        "airline general",
+        "positive"
+      ],
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "movies",
+        "onboard entertainment",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "selection of movies",
+        "onboard entertainment",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "inquiry service",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Turkish Airlines",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Turkish Airlines",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Flight",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Flight",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "TAP",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "TAP",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Jet 2",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Jet 2",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Airplane",
+        "airline general",
+        "positive"
+      ],
+      [
+        "connections",
+        "punctuality general",
+        "positive"
+      ],
+      [
+        "baggage",
+        "airport operation baggage",
+        "positive"
+      ],
+      [
+        "food",
+        "onboard food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "after-sales service",
+        "airline service",
+        "negative"
+      ],
+      [
+        "on-board service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Jet2.com",
+        "airline general",
+        "positive"
+      ],
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "airline service",
+        "negative"
+      ],
+      [
+        "services",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "services",
+        "airline service",
+        "negative"
+      ],
+      [
+        "flight",
+        "airline general",
+        "negative"
+      ],
+      [
+        "staff",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "penalty",
+        "airline price",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline price",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "punctuality general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "airline",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "airline",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "punctuality general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Scandinavian Airlines",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Scandinavian Airlines",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Inflight service",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Inflight service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "tui",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "person from tui",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cabin crew",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cabin crew",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Air France’s business class",
+        "airline general",
+        "positive"
+      ],
+      [
+        "a lot of praise",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "BA",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Service",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Service",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "customer service",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "customer service",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "BA",
+        "airline general",
+        "positive"
+      ],
+      [
+        "experience",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "BA",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Jet 2",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Jet 2",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "plane",
+        "onboard seat comfort",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "plane",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "drinks",
+        "onboard food",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "plenty of access to drinks",
+        "onboard food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "crew",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "crew",
+        "airline service",
+        "positive"
+      ],
+      [
+        "crew",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "return flight",
+        "airline price",
+        "negative"
+      ],
+      [
+        "price",
+        "airline price",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "BCN to SFO",
+        "airline price",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Terminal C",
+        "airport operation check_in",
+        "positive"
+      ],
+      [
+        "less busy",
+        "airport operation check_in",
+        "positive"
+      ],
+      [
+        "quicker to get",
+        "airport operation check_in",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "BA",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "carry on",
+        "airport operation baggage",
+        "negative"
+      ],
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "communicate",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "airline service",
+        "positive"
+      ],
+      [
+        "experience",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ],
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Food",
+        "onboard food",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Food",
+        "onboard food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "it",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Lufthansa",
+        "airline general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Lufthansa",
+        "airline general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lounge",
+        "onboard seat comfort",
+        "positive"
+      ],
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ],
+      [
+        "flight",
+        "onboard seat legroom",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ],
+      [
+        "flight",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Food",
+        "onboard food",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Food",
+        "onboard food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Ryanair",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Ryanair",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Turkish airlines",
+        "airline general",
+        "negative"
+      ],
+      [
+        "quality",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Turkish airlines",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Virgin",
+        "airline price",
+        "negative"
+      ],
+      [
+        "Tui",
+        "airline price",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Virgin",
+        "airline price",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "onboard seat legroom",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "extra £48",
+        "airport operation check_in",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline price",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "glass of water",
+        "onboard food",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "glass of water",
+        "onboard food",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "jet 2",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "jet 2",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "seat",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "seat",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "windows",
+        "onboard seat legroom",
+        "negative"
+      ],
+      [
+        "food",
+        "onboard food",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "onboard food",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "onboard food",
+        "positive"
+      ],
+      [
+        "cleanliness",
+        "onboard cleanliness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "cleanliness",
+        "onboard cleanliness",
+        "neutral"
+      ],
+      [
+        "food",
+        "onboard food",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "delays",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "seats",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "punctuality general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "selection of drinks",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "food",
+        "onboard food",
+        "negative"
+      ],
+      [
+        "plane",
+        "airline general",
+        "negative"
+      ],
+      [
+        "cabin staff",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "seats at the front",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "luggage",
+        "airport operation baggage",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "airport operation check_in",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "customer service",
+        "airline service",
+        "negative"
+      ],
+      [
+        "lady",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "customer service",
+        "airline service",
+        "negative"
+      ],
+      [
+        "lady on report desk",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Air France",
+        "airline general",
+        "positive"
+      ],
+      [
+        "staff",
+        "airline service",
+        "positive"
+      ],
+      [
+        "food",
+        "onboard food",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "treatment of the staff",
+        "airline service",
+        "positive"
+      ],
+      [
+        "Air France",
+        "airline general",
+        "positive"
+      ],
+      [
+        "food",
+        "onboard food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "RYANAIR",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "RYANAIR",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hot food",
+        "onboard food",
+        "positive"
+      ],
+      [
+        "lasagna",
+        "onboard food",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lasagna",
+        "onboard food",
+        "positive"
+      ],
+      [
+        "food",
+        "onboard food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flights",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "SAS",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "airline",
+        "airline price",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "airline",
+        "airline general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "airline price",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight attendants",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight attendants",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "seats",
+        "onboard seat comfort",
+        "neutral"
+      ],
+      [
+        "service",
+        "airline service",
+        "negative"
+      ],
+      [
+        "food",
+        "onboard food",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "airline service",
+        "negative"
+      ],
+      [
+        "seats",
+        "onboard seat comfort",
+        "neutral"
+      ],
+      [
+        "food",
+        "onboard food",
+        "neutral"
+      ],
+      [
+        "food service",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "leg room",
+        "onboard seat legroom",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "leg room",
+        "onboard seat legroom",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Wizz Air",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Wizz Air",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "disembark",
+        "airport operation boarding",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airport operation boarding",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Customer service",
+        "airline service",
+        "negative"
+      ],
+      [
+        "British Airways",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Customer service",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flight",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline service",
+        "positive"
+      ],
+      [
+        "rest of the crew",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "legroom",
+        "onboard seat legroom",
+        "neutral"
+      ],
+      [
+        "crew",
+        "airline service",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "crew",
+        "airline service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flight",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "compensation",
+        "airline price",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airport operation boarding",
+        "negative"
+      ],
+      [
+        "compensation",
+        "airline price",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "check bag process",
+        "airport operation baggage",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "check bag process",
+        "airport operation check_in",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "delay",
+        "punctuality general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "punctuality general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "customer service",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "customer service",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "snacks",
+        "onboard food",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "snacks",
+        "onboard food",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "check in",
+        "airport operation check_in",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "check in",
+        "airport operation check_in",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Turkish Airlines flight",
+        "airline price",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Turkish Airlines flight",
+        "airline price",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "selection",
+        "onboard entertainment",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "selection",
+        "onboard entertainment",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flights",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "plane",
+        "onboard cleanliness",
+        "negative"
+      ],
+      [
+        "crew",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "crew",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "leg room",
+        "onboard seat legroom",
+        "positive"
+      ],
+      [
+        "front seats",
+        "onboard seat comfort",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "onboard price",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "baggage handling",
+        "airport operation baggage",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "baggage handling",
+        "airport operation baggage",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "treatment",
+        "airline service",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "punctuality general",
+        "negative"
+      ],
+      [
+        "treatment of the passengers between flights",
+        "airline service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "entertainment console speakers",
+        "onboard entertainment",
+        "negative"
+      ],
+      [
+        "it",
+        "punctuality general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "entertainment console speakers",
+        "onboard entertainment",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "worst",
+        "airline general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "airline general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "seat",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "seat",
+        "onboard seat comfort",
+        "negative"
+      ]
+    ]
+  }
+]

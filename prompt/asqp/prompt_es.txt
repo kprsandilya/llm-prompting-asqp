@@ -1,0 +1,10 @@
+Según la siguiente definición de los elementos del sentimiento:  
+
+- El 'término de aspecto' es la palabra o frase exacta en el texto que representa una característica, atributo o aspecto específico de un producto o servicio sobre el cual un usuario puede expresar una opinión. El término de aspecto puede ser 'NULL' para un aspecto implícito.  
+- La 'categoría de aspecto' se refiere a la categoría a la que pertenece el aspecto, y las categorías disponibles incluyen: [[aspect_category]].  
+- La 'polaridad del sentimiento' se refiere al grado de positividad, negatividad o neutralidad expresado en la opinión sobre un aspecto o característica particular de un producto o servicio. Las polaridades disponibles incluyen: 'positive', 'negative' y 'neutral'.  
+- El 'término de opinión' es la palabra o frase exacta en el texto que se refiere al sentimiento o actitud expresado por un usuario hacia un aspecto o característica particular de un producto o servicio. El término de opinión puede ser 'NULL' para una opinión implícita.  
+
+Reconoce todos los elementos del sentimiento con sus términos de aspecto correspondientes, sus categorías de aspecto, su polaridad del sentimiento y sus términos de opinión en el siguiente texto con el formato [('término de aspecto', 'categoría de aspecto', 'polaridad del sentimiento', 'término de opinión'), ...].
+
+[[examples]]

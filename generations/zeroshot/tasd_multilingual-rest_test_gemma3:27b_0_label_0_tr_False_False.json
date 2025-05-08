@@ -1,0 +1,2589 @@
+[
+  {
+    "pred_label": [
+      [
+        "Serviste",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Serviste",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Ortam",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Ortam",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Lezzet",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sushico",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "sushico şubesi",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Bahçe",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Bahçesi",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Sushi ustasi",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "becerikli",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "şakaci",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Sushi ustasi",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "servis",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "servis",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Menü çeşitleri",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Menü çeşitleri",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Fiyatları",
+        "restaurant prices",
+        "neutral"
+      ],
+      [
+        "mekan",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "mekan",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "Fiyatları",
+        "restaurant prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "künefesini",
+        "food quality",
+        "positive"
+      ],
+      [
+        "muhallebisini",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "süt tatlilari",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "künefesini",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "saç arasi",
+        "food quality",
+        "positive"
+      ],
+      [
+        "tavuk sis",
+        "food quality",
+        "positive"
+      ],
+      [
+        "ekmeklerde",
+        "food quality",
+        "positive"
+      ],
+      [
+        "biçak arasi",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mekan",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "mekan",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Servis",
+        "service general",
+        "negative"
+      ],
+      [
+        "michelin yildizli yemek",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Servis",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "buzdolaplari",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "kola",
+        "drinks quality",
+        "negative"
+      ],
+      [
+        "sicak kola",
+        "drinks quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "kola",
+        "drinks quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mekan",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "tatların",
+        "food quality",
+        "positive"
+      ],
+      [
+        "kuverdeki turşuya",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "tatların",
+        "food quality",
+        "positive"
+      ],
+      [
+        "mekanın",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Et menüsü",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Et",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Tatlılar",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Tatlılar",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sahibi Beyti Bey",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "masanıza",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Mekanın sahibi",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Beyti",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "yemek",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "osmanlı tarzı dekorasyon",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "akıl almaz lezzetleri",
+        "food quality",
+        "positive"
+      ],
+      [
+        "türk mutfağı",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lezzetleri",
+        "food quality",
+        "positive"
+      ],
+      [
+        "dekorasyonu",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Servis",
+        "service general",
+        "negative"
+      ],
+      [
+        "mekan",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "mekan",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "Servis",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Garsonlarin ilgisizligi",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Garsonlarin",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Yemekler",
+        "food quality",
+        "negative"
+      ],
+      [
+        "soguk",
+        "food quality",
+        "negative"
+      ],
+      [
+        "gec geliyor",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Yemekler",
+        "food quality",
+        "negative"
+      ],
+      [
+        "geliyor",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Marina manzarasi",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Marina manzarasi",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Bide Cikolatali Karayip katlari",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Cikolatali Karayip katlarini",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "İstikrarli",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "susi",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "susi",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Sushiler",
+        "food quality",
+        "positive"
+      ],
+      [
+        "yemekler",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Sushiler",
+        "food quality",
+        "positive"
+      ],
+      [
+        "yemekler",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "yemekleriniz",
+        "food quality",
+        "positive"
+      ],
+      [
+        "lezzet",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "yemeklerinizz",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Garsonlarin servis sunumunda",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Garsonlarin",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Tesekkur ediyorum",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bicak arasi",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bicak arasi",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Masanin bir ucundan diger ucuna kadar",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "fiyatlar",
+        "restaurant prices",
+        "positive"
+      ],
+      [
+        "lezzetler",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lezzetler",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "muhallebisi",
+        "food quality",
+        "positive"
+      ],
+      [
+        "krem karamel",
+        "food quality",
+        "positive"
+      ],
+      [
+        "ayva tatlısı",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Çikolatalı Saray muhallebisi",
+        "food quality",
+        "positive"
+      ],
+      [
+        "krem karamel",
+        "food quality",
+        "positive"
+      ],
+      [
+        "ayva tatlısından",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "onların",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pilav üstü döneri",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "pilav üstü döneri",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "teras katı",
+        "location general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "şubesi",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Diğer katlara",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "katlara",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Çalışanlar",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Çalışanlar",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "fiyatlar",
+        "restaurant prices",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "fiyatlar",
+        "restaurant prices",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "teras katı",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "tatlı",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "çay",
+        "drinks style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "teras katında",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Biçak arasi",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "saç arasi",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "garsonlar",
+        "service general",
+        "negative"
+      ],
+      [
+        "fiyatlar",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "fiyatlar",
+        "food prices",
+        "negative"
+      ],
+      [
+        "Biçak arasi",
+        "food quality",
+        "positive"
+      ],
+      [
+        "saç arasi",
+        "food quality",
+        "positive"
+      ],
+      [
+        "garsonlar",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Etli ekmeği",
+        "food quality",
+        "positive"
+      ],
+      [
+        "mekan",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Etli ekmeğinin",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Başakşehir şubesi",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "o eski Ovalı",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Başakşehir şubesi",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mekanın yeri",
+        "location general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "mekanın yeri",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "çalışanları",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "çalışanları",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lezzeti",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lezzetine",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "deniz ürünleri salatası",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "deniz ürünleri salatası",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "ahtapot",
+        "food style_options",
+        "neutral"
+      ],
+      [
+        "karides",
+        "food style_options",
+        "neutral"
+      ],
+      [
+        "kalamar",
+        "food style_options",
+        "neutral"
+      ],
+      [
+        "füme",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "somon",
+        "food style_options",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "ahtapot , karides , kalamar , somon",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sağlıklı",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "hafif",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mekan",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "mekan",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lüks",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "mekan",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "aksesuarlar",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "tarihi geçmiş",
+        "restaurant general",
+        "negative"
+      ],
+      [
+        "göz yormakta",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "aksesuarlar",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "mekan",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "döner",
+        "food quality",
+        "negative"
+      ],
+      [
+        "kırmızı et",
+        "food quality",
+        "negative"
+      ],
+      [
+        "et köfte",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "künefe",
+        "food quality",
+        "negative"
+      ],
+      [
+        "peynir",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "künefe",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Illa kebap",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "kebap",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "iyi",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lahmacunu tavugu",
+        "food quality",
+        "negative"
+      ],
+      [
+        "hesap",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lahmacunu tavugu",
+        "food quality",
+        "negative"
+      ],
+      [
+        "hesap",
+        "food prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "design",
+        "restaurant miscellaneous",
+        "negative"
+      ],
+      [
+        "ic",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "demode",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "design",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "fix menuye",
+        "restaurant prices",
+        "neutral"
+      ],
+      [
+        "raki",
+        "drinks prices",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "1600 tl",
+        "restaurant prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "kahve ve caylar",
+        "drinks prices",
+        "negative"
+      ],
+      [
+        "cay",
+        "drinks prices",
+        "positive"
+      ],
+      [
+        "hesap",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "kahve ve caylar",
+        "drinks prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "deniz kenarı",
+        "location general",
+        "positive"
+      ],
+      [
+        "oturum",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "oturumu",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Mekan",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "personel",
+        "service general",
+        "negative"
+      ],
+      [
+        "servis",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "servis",
+        "service general",
+        "negative"
+      ],
+      [
+        "personel",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Yemekleri",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Yemekleri",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "İftar servisi",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "İftar servisini",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "kaliteli servis",
+        "service general",
+        "positive"
+      ],
+      [
+        "şartlar",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "servis",
+        "service general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Ramazanda",
+        "restaurant miscellaneous",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sushi",
+        "food quality",
+        "positive"
+      ],
+      [
+        "çalışanlar",
+        "service general",
+        "positive"
+      ],
+      [
+        "güler yüzlü",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "çalışanları",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Bu fiyata",
+        "restaurant prices",
+        "positive"
+      ],
+      [
+        "memnuniyet",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "fiyata",
+        "restaurant prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Mekan",
+        "ambience general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Mekan",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "et yemekler",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "et yemekler",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Tarihi bina",
+        "location general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Tarihi bina",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Tereyağlı Mercimek Çorbası",
+        "food quality",
+        "positive"
+      ],
+      [
+        "Bıçak arası",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Bıçak arası",
+        "food quality",
+        "positive"
+      ],
+      [
+        "Tereyağlı Mercimek Çorbası",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Her Şubesi",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "kaliteyi",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "döner",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "döner",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mekan",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "Servis",
+        "service general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "ambiyans",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Farkli tatlar",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "tatlar",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Tavuklar",
+        "food quality",
+        "negative"
+      ],
+      [
+        "dogranmis olmasi",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Tavuklarin",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Pilav",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Pilavda",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "9 ,5 TL",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "9 ,5 TL",
+        "restaurant prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "kahvalti",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "kahvalti",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "kahvalti",
+        "food quality",
+        "positive"
+      ],
+      [
+        "memnun kalmistim",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "kahvalti",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "subede",
+        "location general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Beyoglu 'nda ki subede",
+        "restaurant general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Manzara",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "Garsonlar",
+        "service general",
+        "positive"
+      ],
+      [
+        "Ege bey",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Garsonlari",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "fiyatlar",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "yemek",
+        "food quality",
+        "negative"
+      ],
+      [
+        "çeşit",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "İsim",
+        "restaurant general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "fiyatlar",
+        "food prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Konumu",
+        "location general",
+        "positive"
+      ],
+      [
+        "manzara",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "lezzeti",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lezzeti",
+        "food quality",
+        "positive"
+      ],
+      [
+        "manzarası",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "Konumu",
+        "location general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lahmacun",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lahmacun",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Kebapları",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Kebapları",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Hepsi",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sigara içmeyenlerin dostu olması",
+        "location general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "mekan",
+        "restaurant miscellaneous",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "salonlar",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "garsonlar",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "salonlar",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "garsonlar",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Etler",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Etler",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "kuzu kol",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "kuzu kol",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "zeytinyağlılar",
+        "food quality",
+        "positive"
+      ],
+      [
+        "imambayıldı",
+        "food quality",
+        "positive"
+      ],
+      [
+        "alkol",
+        "drinks quality",
+        "negative"
+      ],
+      [
+        "koyu ayran",
+        "drinks quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "koyu ayranı",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "imambayıldı",
+        "food quality",
+        "positive"
+      ],
+      [
+        "zeytinyağlılar",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "iyatlara",
+        "restaurant prices",
+        "negative"
+      ],
+      [
+        "alitesinde",
+        "food quality",
+        "positive"
+      ],
+      [
+        "eyti",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "fiyatlara",
+        "restaurant prices",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lokanta",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lokanta",
+        "restaurant general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Susileri",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Susileri",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Çin yemekleri",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Çin yemekleri",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "kalite",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "öğle ve akşam yemekleriyle",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "tatlılarını",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "tatlılarını",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "yazın dondurması",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "dondurması",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Sütlü tatlilari",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Sütlü tatlilari",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Çayi",
+        "drinks quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Çayi",
+        "drinks quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Döner",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Döneri",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "iskenderi",
+        "food quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "iskenderi",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Sos",
+        "food style_options",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Sos",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "yogurt",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "yogurt",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "gereksiz derecede çok kalabalik",
+        "ambience general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Kebap",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "ambiyans",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "lezzet",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "ambiyans",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "lezzet",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Lahmacun",
+        "food quality",
+        "positive"
+      ],
+      [
+        "içliköfte",
+        "food quality",
+        "positive"
+      ],
+      [
+        "dolmaları",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Lahmacun ve içliköfte",
+        "food quality",
+        "positive"
+      ],
+      [
+        "dolmaları",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Etler",
+        "food quality",
+        "positive"
+      ],
+      [
+        "marinasyon",
+        "food quality",
+        "positive"
+      ],
+      [
+        "pişirme",
+        "food quality",
+        "positive"
+      ],
+      [
+        "sunum",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Etler",
+        "food quality",
+        "positive"
+      ],
+      [
+        "Etler",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "fıstıklı kebap",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "fıstıklı kebap",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Katmer",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Katmer",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Ambiyans",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "dekorasyon",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "menü",
+        "food style_options",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Ambiyans ve dekorasyon",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "sipariş",
+        "food style_options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Manzara",
+        "restaurant general",
+        "positive"
+      ],
+      [
+        "yemekler",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "porsiyon miktarı",
+        "food style_options",
+        "negative"
+      ],
+      [
+        "fiyatı",
+        "restaurant prices",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Manzara",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "yemekler",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "porsiyon miktarı",
+        "food style_options",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "yemekleri",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "garsonlar",
+        "service general",
+        "negative"
+      ],
+      [
+        "kahvaltısı",
+        "food quality",
+        "negative"
+      ],
+      [
+        "suböreği",
+        "food style_options",
+        "positive"
+      ],
+      [
+        "otopark",
+        "restaurant general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "koku",
+        "ambience general",
+        "negative"
+      ],
+      [
+        "garsonlar",
+        "service general",
+        "negative"
+      ],
+      [
+        "yemekleri",
+        "food quality",
+        "neutral"
+      ],
+      [
+        "kahvaltısı",
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Çalışanlar",
+        "service general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Çalışanlar",
+        "service general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Çay",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "su böreği",
+        "food style_options",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Çayı",
+        "drinks quality",
+        "positive"
+      ],
+      [
+        "su böreği",
+        "food quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Tavsiye ederim",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Istiklal Caddesi",
+        "location general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "solda",
+        "location general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mekanların aurası",
+        "ambience general",
+        "positive"
+      ],
+      [
+        "Fenerbahçe",
+        "location general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "mekanların",
+        "ambience general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "buranı",
+        "restaurant general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "buranın",
+        "restaurant general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lezzet",
+        "food quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lezzetler",
+        "food quality",
+        "positive"
+      ]
+    ]
+  }
+]

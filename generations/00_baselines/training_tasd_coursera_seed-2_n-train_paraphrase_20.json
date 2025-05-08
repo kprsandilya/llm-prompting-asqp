@@ -1,0 +1,6937 @@
+{
+    "precision": 0.23,
+    "recall": 0.1885245901639344,
+    "f1": 0.2072072072072072,
+    "all_labels": [
+        [
+            [
+                "course value",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Professors Emily and Carlos",
+                "great",
+                "great"
+            ],
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty response",
+                "staffs",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "content and the exercises",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course workload",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "presentation comprehensiveness",
+                "lectures",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "short lectures",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ],
+            [
+                "material quantity",
+                "amount of material",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "material",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "courses",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "final assignment",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "final exam",
+                "bad",
+                "bad"
+            ],
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments workload",
+                "project",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "MOOC",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "assignment",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material quantity",
+                "supplemental document",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "class",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course into multiple separate",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "faculty response",
+                "quiz questions",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments comprehensiveness",
+                "Week 3 assignment",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty comprehensiveness",
+                "Ng",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ],
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Professor",
+                "great",
+                "great"
+            ],
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Professor",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "content",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course value",
+                "NULL",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "course value",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material comprehensiveness",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "course",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ],
+            [
+                "course general",
+                "course",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "course",
+                "great",
+                "great"
+            ],
+            [
+                "faculty general",
+                "Dr. BArbara Oakley and Dr. Sejnowsky",
+                "great",
+                "great"
+            ],
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quantity",
+                "video",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty response",
+                "instructors",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course workload",
+                "NULL",
+                "bad",
+                "bad"
+            ],
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material comprehensiveness",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "faculty relatability",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "Courses",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "professor",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "lessons",
+                "great",
+                "great"
+            ],
+            [
+                "course general",
+                "lessons",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "videos",
+                "great",
+                "great"
+            ],
+            [
+                "faculty comprehensiveness",
+                "lecturer",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "material",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "material quantity",
+                "material",
+                "bad",
+                "bad"
+            ],
+            [
+                "course quality",
+                "course",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "George Siedel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "class",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "video lectures",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments workload",
+                "assignments",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course relatability",
+                "content",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course material",
+                "great",
+                "great"
+            ],
+            [
+                "faculty general",
+                "professor",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty comprehensiveness",
+                "teacher",
+                "great",
+                "great"
+            ],
+            [
+                "faculty general",
+                "teacher",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "Videos",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Justin - Nicholas Toytama",
+                "bad",
+                "bad"
+            ],
+            [
+                "course general",
+                "COURSE",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "presentation comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "course relatability",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments comprehensiveness",
+                "assignment questions",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty response",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ],
+            [
+                "assignments quality",
+                "assignments",
+                "great",
+                "great"
+            ],
+            [
+                "presentation quality",
+                "video lectures",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation relatability",
+                "videos",
+                "great",
+                "great"
+            ],
+            [
+                "assignments relatability",
+                "programming exercises",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "lectures",
+                "bad",
+                "bad"
+            ],
+            [
+                "presentation comprehensiveness",
+                "explanations",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "assignments",
+                "bad",
+                "bad"
+            ],
+            [
+                "assignments workload",
+                "assignments",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "assignments comprehensiveness",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty comprehensiveness",
+                "Dr. Terrence Sejnowski",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty relatability",
+                "course professor",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material comprehensiveness",
+                "material",
+                "bad",
+                "bad"
+            ],
+            [
+                "assignments workload",
+                "final exam",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "assignments",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "instructors",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ],
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ],
+            [
+                "course relatability",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "course",
+                "great",
+                "great"
+            ],
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "Course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "lab assistants",
+                "great",
+                "great"
+            ],
+            [
+                "faculty general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments comprehensiveness",
+                "quizzes",
+                "great",
+                "great"
+            ],
+            [
+                "material quality",
+                "material",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "course",
+                "great",
+                "great"
+            ],
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Yaakov",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "ok",
+                "ok"
+            ],
+            [
+                "course relatability",
+                "NULL",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "grades general",
+                "assignment",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "exercises",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material relatability",
+                "reading material sources",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "assignments",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "assignments",
+                "bad",
+                "bad"
+            ],
+            [
+                "grades general",
+                "autograder",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "assignments comprehensiveness",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "grades general",
+                "automated grader",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments relatability",
+                "excersizes",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "Course",
+                "great",
+                "great"
+            ],
+            [
+                "faculty general",
+                "Professor",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "power points",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation comprehensiveness",
+                "videos",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty response",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments workload",
+                "quiz",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "course relatability",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty comprehensiveness",
+                "Professors Emily Fox and Carlos Guestrin",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation comprehensiveness",
+                "lectures",
+                "great",
+                "great"
+            ],
+            [
+                "presentation quality",
+                "lectures",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "Videos",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "visual aides",
+                "great",
+                "great"
+            ],
+            [
+                "faculty general",
+                "professor",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments comprehensiveness",
+                "tests",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "lecture",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course relatability",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "presentation quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "lessons",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Quentin and team",
+                "great",
+                "great"
+            ],
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ],
+            [
+                "faculty general",
+                "teachers",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "animation",
+                "great",
+                "great"
+            ],
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "teachers",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Jonathan Biss",
+                "great",
+                "great"
+            ],
+            [
+                "faculty comprehensiveness",
+                "Jonathan Biss",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "assignments",
+                "great",
+                "great"
+            ],
+            [
+                "faculty response",
+                "He",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course relatability",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "material",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Dr. Chuck",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "assignments relatability",
+                "assignments",
+                "great",
+                "great"
+            ],
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "slides, transcription of the videos",
+                "bad",
+                "bad"
+            ],
+            [
+                "assignments comprehensiveness",
+                "quiz",
+                "bad",
+                "bad"
+            ],
+            [
+                "assignments quality",
+                "quizzes",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "class",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation comprehensiveness",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "presentation comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "presentation quality",
+                "content",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "faculty comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "faculty response",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "lessons",
+                "great",
+                "great"
+            ],
+            [
+                "presentation comprehensiveness",
+                "lessons",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "Content",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "material",
+                "bad",
+                "bad"
+            ],
+            [
+                "material quantity",
+                "material",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "content",
+                "great",
+                "great"
+            ],
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "Course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Prof. Silverman",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Jeff Leek",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "Assignments",
+                "ok",
+                "ok"
+            ],
+            [
+                "assignments comprehensiveness",
+                "Assignments",
+                "bad",
+                "bad"
+            ],
+            [
+                "assignments quality",
+                "Assignments",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "materials",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty comprehensiveness",
+                "Andrew Ng",
+                "great",
+                "great"
+            ],
+            [
+                "faculty general",
+                "Andrew Ng",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "class",
+                "great",
+                "great"
+            ],
+            [
+                "presentation comprehensiveness",
+                "videos",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course value",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "grades general",
+                "Grading",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Berklee",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course workload",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "lesson",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments comprehensiveness",
+                "assignments",
+                "great",
+                "great"
+            ],
+            [
+                "assignments comprehensiveness",
+                "questions",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "teaching",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "video",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "exercise",
+                "bad",
+                "bad"
+            ],
+            [
+                "assignments comprehensiveness",
+                "exercise",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "faculty comprehensiveness",
+                "NULL",
+                "bad",
+                "bad"
+            ],
+            [
+                "course general",
+                "NULL",
+                "bad",
+                "bad"
+            ],
+            [
+                "course relatability",
+                "examples",
+                "bad",
+                "bad"
+            ],
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course relatability",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course relatability",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material comprehensiveness",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "course relatability",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty comprehensiveness",
+                "He",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Dr. Charles Severance",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Teacher",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "grades general",
+                "grades",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "grades general",
+                "grading of the exams",
+                "bad",
+                "bad"
+            ],
+            [
+                "course value",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Andrew Ng",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course relatability",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "presentation",
+                "bad",
+                "bad"
+            ],
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ],
+            [
+                "faculty general",
+                "Lecturer",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "content",
+                "great",
+                "great"
+            ],
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course value",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "content",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "course",
+                "great",
+                "great"
+            ],
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "course",
+                "great",
+                "great"
+            ],
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments comprehensiveness",
+                "assignments",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "videos",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "management",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "lectures",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "courses",
+                "great",
+                "great"
+            ],
+            [
+                "course general",
+                "courses",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "course",
+                "great",
+                "great"
+            ],
+            [
+                "course quality",
+                "course",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Proff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "videos",
+                "great",
+                "great"
+            ],
+            [
+                "faculty comprehensiveness",
+                "Professor Sachs",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Professor Hitoshi Murayama",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ],
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ],
+            [
+                "course comprehensiveness",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material quantity",
+                "material",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "assignments quantity",
+                "quizzes",
+                "ok",
+                "ok"
+            ],
+            [
+                "presentation quality",
+                "lectures",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "assingments",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "material quantity",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "faculty response",
+                "mentor",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "grades general",
+                "grading system",
+                "bad",
+                "bad"
+            ],
+            [
+                "presentation quality",
+                "speech",
+                "bad",
+                "bad"
+            ],
+            [
+                "faculty general",
+                "Teacher's",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Dr. Chuck",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "case studies",
+                "great",
+                "great"
+            ],
+            [
+                "course relatability",
+                "case studies",
+                "great",
+                "great"
+            ],
+            [
+                "faculty general",
+                "guest speakers",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course relatability",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "assignments relatability",
+                "peer assignments",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "content",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material comprehensiveness",
+                "materials",
+                "great",
+                "great"
+            ],
+            [
+                "assignments comprehensiveness",
+                "assignment",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "discussions in the videos",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "courses",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Dr. Odersky",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "bad"
+            ],
+            [
+                "course general",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Professor Andrew Ng",
+                "great",
+                "great"
+            ],
+            [
+                "material quality",
+                "exercises",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "content",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "faculty comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material relatability",
+                "material",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course workload",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Iyengar",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "content",
+                "great",
+                "great"
+            ],
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "course workload",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "assignments",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course relatability",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty relatability",
+                "professor",
+                "great",
+                "great"
+            ],
+            [
+                "faculty comprehensiveness",
+                "professor",
+                "great",
+                "great"
+            ],
+            [
+                "faculty general",
+                "professor",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments comprehensiveness",
+                "homework",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation relatability",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "professor",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course workload",
+                "NULL",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "course value",
+                "NULL",
+                "bad",
+                "bad"
+            ],
+            [
+                "assignments quality",
+                "quizzes",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "lectures",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ],
+            [
+                "grades general",
+                "peer assessments",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "courses",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "record videos",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course relatability",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty comprehensiveness",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Dr Chuck",
+                "great",
+                "great"
+            ]
+        ]
+    ],
+    "all_preds": [
+        [
+            [
+                "CV",
+                "CV",
+                "useless",
+                "useless"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "coursera",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "lectures quality",
+                "lectures",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "the general feeling",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignment general",
+                "assignment",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "final exam",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "coursera course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignment quality",
+                "assignment",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "difficulty",
+                "difficulty",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "coursera",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "documentation",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "Narration",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course content",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "field of interest",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "instructor's absence",
+                "instructors",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "learning",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "Courses",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "program general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "content",
+                "NULL",
+                "good",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "teacher",
+                "teacher",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "the course",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "clinical picture of depression",
+                "NULL",
+                "important",
+                "important"
+            ]
+        ],
+        [
+            [
+                "assignment quality",
+                "assignment",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "student debt",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "html",
+                "NULL",
+                "a bad thing",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course instructor has used real life cases to link up with course material. course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course material",
+                "course",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "Course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "Yaakov",
+                "Yaakov",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignment auto - grader",
+                "assignment",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "Information",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "reading material",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments general",
+                "assignments",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments general",
+                "assignments",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "grader",
+                "grader",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "class general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "fun",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "lectures quality",
+                "lectures",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "teaching methodology",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "professor",
+                "professor",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "teaching methodology",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "lecture quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "lesson quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "lecture quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "Jonathan Biss",
+                "he",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "quiz quality",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "the week",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "introduction to machine learning",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "content quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "learning how to learn",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "Content",
+                "Content",
+                "good",
+                "good"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "content quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "professor",
+                "professor",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Assignments",
+                "Assignments",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course structure",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "Andrew Ng",
+                "he",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "class general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "lesson general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "sloppy teaching with respect to best practices",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "video quality",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "exercise general",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "teacher training",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "everything",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "exam quality",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "great course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "Andrew",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "content quality",
+                "content",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "the event",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "Proff, Proff",
+                "Proff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "professor Sachs",
+                "professor",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "4 weeks of greatness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "quizzes",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Dr. Chuck, Dr. Chuck",
+                "Dr. Chuck",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "grading",
+                "peer assignments",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "platform",
+                "platform",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material in Week 2",
+                "NULL",
+                "good",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "Dr. Odersky",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "non - specialist",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "Professor Andrew Ng",
+                "he",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "best intelectual time",
+                "intelectual time",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "history of the Middle East",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "Haskell",
+                "Haskell",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "Python",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "week 2 content on confusion matrix",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "assignment quality",
+                "assignments",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Buddhism",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "general information",
+                "NULL",
+                "good",
+                "good"
+            ]
+        ],
+        [
+            [
+                "challenge general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "professor general",
+                "professor",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "professor",
+                "professor",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "job",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "game making",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "writing",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "learning",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "Python",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    ]
+}

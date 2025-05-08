@@ -1,0 +1,11504 @@
+[
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "Gross"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "neutral",
+        "alright"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "neutral",
+        "alright"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "place",
+        "ambience general",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "decor",
+        "ambience general",
+        "neutral",
+        "distraction"
+      ],
+      [
+        "eggplant",
+        "food quality",
+        "negative",
+        "cold"
+      ],
+      [
+        "eggplant",
+        "food prices",
+        "negative",
+        "300 bucks"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "2 FRICKIN HOURS"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "quacamole",
+        "food quality",
+        "positive",
+        "yummy"
+      ],
+      [
+        "wings with chimmichuri",
+        "food quality",
+        "positive",
+        "yummy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "hot dogs",
+        "food quality",
+        "positive",
+        "good"
+      ],
+      [
+        "pork croquette sandwich",
+        "food quality",
+        "positive",
+        "fantastic"
+      ],
+      [
+        "bun",
+        "food quality",
+        "positive",
+        "perfect"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NOTHING BUT",
+        "restaurant prices",
+        "positive",
+        "NOTHING BUT"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "positive",
+        "fair"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "GREAT"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pork souvlaki",
+        "food general",
+        "positive",
+        "best"
+      ],
+      [
+        "pork souvlaki",
+        "food general",
+        "positive",
+        "ever had"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "pork souvlaki",
+        "food quality",
+        "positive",
+        "best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "nearly an hour"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "entree",
+        "food quality",
+        "positive",
+        "very good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "entree",
+        "food quality",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Casa La Femme",
+        "restaurant general",
+        "neutral",
+        "recommend"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Casa La Femme",
+        "restaurant miscellaneous",
+        "positive",
+        "recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lets face it",
+        "restaurant general",
+        "neutral",
+        "lets face it"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "restaurant",
+        "ambience general",
+        "positive",
+        "inviting"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "STAFF",
+        "service general",
+        "negative",
+        "FIRED"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "STAFF",
+        "service general",
+        "negative",
+        "FIRED"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "table",
+        "food general",
+        "neutral",
+        "get a table"
+      ],
+      [
+        "reservation",
+        "restaurant general",
+        "neutral",
+        "without a reservation"
+      ],
+      [
+        "bottle",
+        "restaurant miscellaneous",
+        "negative",
+        "do n't make you by bottles"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "get a table without a reservation"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "quesadilla",
+        "food quality",
+        "negative",
+        "no sense of proportion or flavor"
+      ],
+      [
+        "quesadilla",
+        "food style_options",
+        "negative",
+        "no sense of proportion"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Four Seasons",
+        "restaurant general",
+        "negative",
+        "charge"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "The Four Seasons",
+        "restaurant miscellaneous",
+        "neutral",
+        "a sort of landmark"
+      ],
+      [
+        "The Four Seasons",
+        "restaurant prices",
+        "negative",
+        "charge you through the nose"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "baba ganoush",
+        "food quality",
+        "positive",
+        "enjoy delicious"
+      ],
+      [
+        "belly dancers",
+        "ambience general",
+        "positive",
+        "talented"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "BFC",
+        "restaurant miscellaneous",
+        "negative",
+        "wait"
+      ],
+      [
+        "front of house staff",
+        "service general",
+        "negative",
+        "abused"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "over an hour later"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "enjoy"
+      ],
+      [
+        "food",
+        "food general",
+        "positive",
+        "enjoy"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "enjoy"
+      ],
+      [
+        "food",
+        "food quality",
+        "positive",
+        "enjoy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "frozen black sesame mousse",
+        "food quality",
+        "neutral",
+        "interesting"
+      ],
+      [
+        "frozen black sesame mousse",
+        "food quality",
+        "neutral",
+        "not extraordinary"
+      ],
+      [
+        "matcha ( powdered green tea ) and blueberry cheesecake",
+        "food quality",
+        "positive",
+        "phenomenal"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "spot",
+        "restaurant general",
+        "positive",
+        "deliver"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "modern Japanese",
+        "food quality",
+        "positive",
+        "delivers"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "hot dogs",
+        "food quality",
+        "positive",
+        "top notch"
+      ],
+      [
+        "Slamwich",
+        "food quality",
+        "positive",
+        "amazing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "little curtain",
+        "restaurant general",
+        "positive",
+        "excuse me"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "waiter",
+        "service general",
+        "positive",
+        "cute"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "positive",
+        "Inexpensive"
+      ],
+      [
+        "NULL",
+        "ambience general",
+        "positive",
+        "unassuming"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pricing",
+        "drinks prices",
+        "negative",
+        "dollar less"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "menu",
+        "food prices",
+        "negative",
+        "complaint"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Everything",
+        "food general",
+        "positive",
+        "great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "menu",
+        "food quality",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "crust",
+        "food quality",
+        "positive",
+        "bite"
+      ],
+      [
+        "crust",
+        "food quality",
+        "positive",
+        "chew"
+      ],
+      [
+        "sauce",
+        "drinks quality",
+        "positive",
+        "light"
+      ],
+      [
+        "sauce",
+        "drinks quality",
+        "positive",
+        "acidity"
+      ],
+      [
+        "cheese",
+        "food prices",
+        "positive",
+        "salt"
+      ],
+      [
+        "cheese",
+        "food prices",
+        "positive",
+        "flavor"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "crust",
+        "food quality",
+        "positive",
+        "great"
+      ],
+      [
+        "crust",
+        "food quality",
+        "positive",
+        "good"
+      ],
+      [
+        "sauce",
+        "food quality",
+        "positive",
+        "light"
+      ],
+      [
+        "cheese",
+        "food quality",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "portobello",
+        "food general",
+        "negative",
+        "was n't a fan of"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "portobello and asparagus mole",
+        "food quality",
+        "negative",
+        "fan"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "Great"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "amazing"
+      ],
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "class act"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "but",
+        "restaurant prices",
+        "negative",
+        "cheap"
+      ],
+      [
+        "but",
+        "restaurant prices",
+        "negative",
+        "cheap"
+      ],
+      [
+        "very",
+        "food quality",
+        "positive",
+        "yummy"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food prices",
+        "negative",
+        "Not cheap"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive",
+        "yummy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "wait",
+        "service general",
+        "positive",
+        "to go back"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "go back"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "was made"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "hung up"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "None was made"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "spinach",
+        "food quality",
+        "negative",
+        "undercooked"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "great"
+      ],
+      [
+        "food",
+        "food general",
+        "positive",
+        "even better"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "great"
+      ],
+      [
+        "environment",
+        "ambience general",
+        "positive",
+        "better"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bathroom",
+        "drinks prices",
+        "negative",
+        "disgusting"
+      ],
+      [
+        "bathroom",
+        "drinks prices",
+        "negative",
+        "disgusting"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "mens bathroom",
+        "ambience general",
+        "negative",
+        "disgusting"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "definitely",
+        "restaurant general",
+        "positive",
+        "go back again"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "go back"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Place",
+        "location general",
+        "positive",
+        "open till late"
+      ],
+      [
+        "no dress code",
+        "restaurant general",
+        "positive",
+        "no dress code"
+      ],
+      [
+        "dress code",
+        "restaurant general",
+        "neutral",
+        "dress code"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Place",
+        "restaurant miscellaneous",
+        "positive",
+        "open till late"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "frontman",
+        "restaurant general",
+        "negative",
+        "bad behavior"
+      ],
+      [
+        "display",
+        "restaurant general",
+        "neutral",
+        "such"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "frontman",
+        "service general",
+        "negative",
+        "bad"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Love",
+        "food general",
+        "positive",
+        "it"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "Love"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "this place",
+        "restaurant general",
+        "negative",
+        "0 stars"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "restaurant general",
+        "negative",
+        "0 stars"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "floor",
+        "food general",
+        "negative",
+        "wet"
+      ],
+      [
+        "floor",
+        "food general",
+        "negative",
+        "all over"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "negative",
+        "no hand towels left"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Red Dragon Roll",
+        "food general",
+        "positive",
+        "Red Dragon Roll"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Yamato",
+        "restaurant general",
+        "positive",
+        "Just go"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sashimi",
+        "drinks quality",
+        "positive",
+        "excellent place"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Yamato",
+        "restaurant miscellaneous",
+        "positive",
+        "excellent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "order",
+        "restaurant general",
+        "negative",
+        "missing"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "missing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "server",
+        "service general",
+        "positive",
+        "has personality"
+      ],
+      [
+        "server",
+        "service general",
+        "positive",
+        "respects the privacy"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "server",
+        "service general",
+        "positive",
+        "refreshing"
+      ],
+      [
+        "server",
+        "service general",
+        "positive",
+        "professionalism"
+      ],
+      [
+        "server",
+        "service general",
+        "positive",
+        "respects"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "neutral",
+        "walked off"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "walked off"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "price",
+        "drinks prices",
+        "negative",
+        "range"
+      ],
+      [
+        "price",
+        "drinks prices",
+        "negative",
+        "range"
+      ],
+      [
+        "price",
+        "restaurant prices",
+        "negative",
+        "range"
+      ],
+      [
+        "times",
+        "food general",
+        "neutral",
+        "6"
+      ],
+      [
+        "years",
+        "food general",
+        "neutral",
+        "last 2"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative",
+        "out of our price range"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "were",
+        "service general",
+        "positive",
+        "tag teamed"
+      ],
+      [
+        "were",
+        "service general",
+        "positive",
+        "tag teamed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "waitress",
+        "service general",
+        "negative",
+        "tag teamed"
+      ],
+      [
+        "waiter",
+        "service general",
+        "negative",
+        "tag teamed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "chicken lollipop",
+        "food general",
+        "positive",
+        "favorite"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "chicken lollipop",
+        "food quality",
+        "positive",
+        "favorite"
+      ],
+      [
+        "dishes",
+        "food quality",
+        "negative",
+        "oily"
+      ],
+      [
+        "dishes",
+        "food quality",
+        "negative",
+        "spicy"
+      ],
+      [
+        "Chilli Chicken",
+        "food quality",
+        "negative",
+        "oily"
+      ],
+      [
+        "Chilli Chicken",
+        "food quality",
+        "negative",
+        "spicy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "waiter",
+        "service general",
+        "negative",
+        "forgot to put in"
+      ],
+      [
+        "waiter",
+        "service general",
+        "negative",
+        "that part of our order"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "waiter",
+        "service general",
+        "negative",
+        "forgot"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "fish",
+        "food quality",
+        "positive",
+        "exceeded our expectations"
+      ],
+      [
+        "filet",
+        "food quality",
+        "positive",
+        "exceeded our expectations"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Delivery guy",
+        "service general",
+        "negative",
+        "upset"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "risotto",
+        "food general",
+        "positive",
+        "amazing"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "risotto",
+        "food quality",
+        "positive",
+        "amazing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "stuff",
+        "drinks quality",
+        "negative",
+        "tasted like cardboard"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "stuff tilapia",
+        "food quality",
+        "negative",
+        "horrid"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "chicken pasta",
+        "food general",
+        "positive",
+        "i love"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "chicken pasta",
+        "food quality",
+        "positive",
+        "love"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "waitress",
+        "service general",
+        "neutral",
+        "was n't mean"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "Wretched"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "retching"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "patio",
+        "drinks style_options",
+        "positive",
+        "take advantage of"
+      ],
+      [
+        "patio",
+        "restaurant general",
+        "positive",
+        "visit"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "be back"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "vitello alla marsala",
+        "food quality",
+        "positive",
+        "impressed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "food"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food prices",
+        "negative",
+        "uncooked"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "not comforting"
+      ],
+      [
+        "food",
+        "food quality",
+        "negative",
+        "not appetizing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Shabu",
+        "food general",
+        "positive",
+        "better"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Shabu Shabu",
+        "food quality",
+        "positive",
+        "won 't find much better"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "nasty",
+        "service general",
+        "negative",
+        "nasty"
+      ],
+      [
+        "personal",
+        "service general",
+        "negative",
+        "personal"
+      ],
+      [
+        "so nasty",
+        "service general",
+        "negative",
+        "nasty"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "nasty"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "manager",
+        "service general",
+        "negative",
+        "rude"
+      ],
+      [
+        "situation",
+        "service general",
+        "negative",
+        "poorly"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "manager",
+        "service general",
+        "negative",
+        "rude"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food general",
+        "negative",
+        "no apology or acknowledgment"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "no apology or acknowledgment"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Food",
+        "food general",
+        "positive",
+        "Good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Food",
+        "food quality",
+        "positive",
+        "Good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "dark",
+        "food general",
+        "positive",
+        "dark"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "positive",
+        "cozy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "It is",
+        "ambience general",
+        "positive",
+        "romantic"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "positive",
+        "romantic"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "dogs",
+        "food general",
+        "positive",
+        "fresh"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "dogs",
+        "food quality",
+        "positive",
+        "amazing fresh"
+      ],
+      [
+        "toppings",
+        "food style_options",
+        "positive",
+        "best"
+      ],
+      [
+        "toppings",
+        "food style_options",
+        "positive",
+        "endless"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "is given"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "great"
+      ],
+      [
+        "dinner",
+        "food quality",
+        "positive",
+        "great quality"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "BBE",
+        "drinks prices",
+        "positive",
+        "fixe prix"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "BBE $ 29 fixe prix menu",
+        "food prices",
+        "positive",
+        "wonderful"
+      ],
+      [
+        "BBE $ 29 fixe prix menu",
+        "food style_options",
+        "positive",
+        "a flight of sake"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "place",
+        "restaurant general",
+        "neutral",
+        "favorite"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "favorite"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "decor",
+        "ambience general",
+        "negative",
+        "weird"
+      ],
+      [
+        "mirrored walls",
+        "ambience general",
+        "negative",
+        "dizzy"
+      ],
+      [
+        "mirrored walls",
+        "ambience general",
+        "negative",
+        "delusional"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Servers",
+        "service general",
+        "positive",
+        "Greg is my favorite"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Greg",
+        "service general",
+        "positive",
+        "favorite"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "was totally professional and always on top of things"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Paul",
+        "service general",
+        "positive",
+        "professional"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "very well"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "two glasses of wine",
+        "drinks prices",
+        "negative",
+        "comp"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "manager",
+        "service general",
+        "negative",
+        "seem like a big concession"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "good"
+      ],
+      [
+        "food",
+        "food general",
+        "neutral",
+        "not outstanding"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "neutral",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "delicious",
+        "food general",
+        "positive",
+        "delicious"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive",
+        "delicious"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lack",
+        "service general",
+        "negative",
+        "customer service"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant miscellaneous",
+        "positive",
+        "good reputation"
+      ],
+      [
+        "customer service",
+        "service general",
+        "negative",
+        "intelligent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "stir-fried squid",
+        "food quality",
+        "negative",
+        "tasted"
+      ],
+      [
+        "stir-fried squid",
+        "food general",
+        "negative",
+        "worst"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "stir-fried squid",
+        "food quality",
+        "negative",
+        "worst"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "squid ink",
+        "drinks prices",
+        "negative",
+        "turns your lips and teeth black"
+      ],
+      [
+        "taste",
+        "drinks quality",
+        "positive",
+        "phenomenal"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food style_options",
+        "negative",
+        "doesn 't look appetizing"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive",
+        "phenomenal"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "fish tacos",
+        "food general",
+        "positive",
+        "recommend"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "fish tacos",
+        "food quality",
+        "positive",
+        "recommend"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "neutral",
+        "ok"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "food prices",
+        "negative",
+        "overpriced"
+      ],
+      [
+        "fish and chips",
+        "food prices",
+        "negative",
+        "about $ 15"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Fried Sea Bass",
+        "food quality",
+        "positive",
+        "which was very good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Thai style Fried Sea Bass",
+        "food quality",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Zenkichi",
+        "restaurant general",
+        "positive",
+        "come to Zenkichi anytime"
+      ],
+      [
+        "Zenkichi",
+        "ambience general",
+        "positive",
+        "quiet"
+      ],
+      [
+        "Zenkichi",
+        "ambience general",
+        "positive",
+        "unhurried"
+      ],
+      [
+        "Zenkichi",
+        "ambience general",
+        "positive",
+        "memorable"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Red Dragon Roll",
+        "food general",
+        "positive",
+        "my favorite"
+      ],
+      [
+        "Roll",
+        "food general",
+        "positive",
+        "of any food group"
+      ],
+      [
+        "Roll",
+        "food general",
+        "positive",
+        "of any food group"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Red Dragon Roll",
+        "food quality",
+        "positive",
+        "favorite"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "tap beer",
+        "drinks style_options",
+        "negative",
+        "no tap beer"
+      ],
+      [
+        "disappointment",
+        "restaurant general",
+        "negative",
+        "was a disappointment"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "beer",
+        "drinks style_options",
+        "negative",
+        "disappointment"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "four course prix fix menu",
+        "food quality",
+        "positive",
+        "enjoyed"
+      ],
+      [
+        "white organza tent",
+        "ambience general",
+        "positive",
+        "gorgeous"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Indian",
+        "food general",
+        "positive",
+        "Great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Indian food",
+        "food quality",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Al Di La",
+        "restaurant general",
+        "positive",
+        "Love"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Al Di La",
+        "restaurant general",
+        "positive",
+        "Love"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "negative",
+        "it"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "negative",
+        "sadly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "packed",
+        "restaurant general",
+        "negative",
+        "packed"
+      ],
+      [
+        "reservati",
+        "restaurant general",
+        "negative",
+        "reservati"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "neutral",
+        "always packed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "neutral",
+        "Everyone"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "come here at least once"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "place",
+        "food quality",
+        "negative",
+        "not beautiful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "ambience general",
+        "negative",
+        "not beautiful"
+      ],
+      [
+        "food",
+        "food quality",
+        "positive",
+        "speaks for itself"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        ".",
+        "ambience general",
+        "positive",
+        "wait"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "worth"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "guacamole",
+        "food prices",
+        "negative",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "guacamole",
+        "food quality",
+        "negative",
+        "bland"
+      ],
+      [
+        "guacamole",
+        "food prices",
+        "negative",
+        "bland"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "good"
+      ],
+      [
+        "food",
+        "food prices",
+        "positive",
+        "affordable"
+      ],
+      [
+        "place",
+        "location general",
+        "positive",
+        "clean"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "good"
+      ],
+      [
+        "place",
+        "ambience general",
+        "positive",
+        "clean"
+      ],
+      [
+        "place",
+        "restaurant prices",
+        "positive",
+        "affordable"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "here",
+        "location general",
+        "negative",
+        "go back"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "would not go back"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "The",
+        "restaurant general",
+        "neutral",
+        "The"
+      ],
+      [
+        "hostess",
+        "restaurant general",
+        "positive",
+        "was"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hostess",
+        "service general",
+        "positive",
+        "pleasant"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "atmosphere",
+        "ambience general",
+        "positive",
+        "great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "atmosphere",
+        "ambience general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "pleased"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurants",
+        "restaurant general",
+        "positive",
+        "restaurants"
+      ],
+      [
+        "restaurants",
+        "restaurant general",
+        "positive",
+        "most romantic"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "modern Japanese brasserie",
+        "restaurant general",
+        "positive",
+        "favorite"
+      ],
+      [
+        "modern Japanese brasserie",
+        "ambience general",
+        "positive",
+        "romantic"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "bread",
+        "food quality",
+        "negative",
+        "horrible"
+      ],
+      [
+        "appetizer of olives",
+        "food quality",
+        "negative",
+        "disappointing"
+      ],
+      [
+        "appetizer of olives",
+        "food prices",
+        "neutral",
+        "`` free ``"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "manager",
+        "restaurant general",
+        "positive",
+        "apologized"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "manager",
+        "service general",
+        "positive",
+        "smilingly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "expensive",
+        "restaurant prices",
+        "negative",
+        "the restaurant"
+      ],
+      [
+        "worth it",
+        "restaurant general",
+        "positive",
+        "may be it"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant prices",
+        "negative",
+        "expensive"
+      ],
+      [
+        "restaurant",
+        "restaurant general",
+        "negative",
+        "expensive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "I"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "NEVER return"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "reviews",
+        "restaurant general",
+        "negative",
+        "bad"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive",
+        "bad"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative",
+        "Unhygienic"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "ALL",
+        "restaurant general",
+        "positive",
+        "Best"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "Best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food prices",
+        "positive",
+        "prices"
+      ],
+      [
+        "food",
+        "food general",
+        "positive",
+        "food"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "Excellent"
+      ],
+      [
+        "food",
+        "food prices",
+        "positive",
+        "Excellent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "toilet",
+        "restaurant prices",
+        "negative",
+        "down the toilet"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative",
+        "$ 170"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rush",
+        "service general",
+        "negative",
+        "rush"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "rush"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "price",
+        "restaurant prices",
+        "negative",
+        "Not what I would expect"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "location",
+        "restaurant prices",
+        "neutral",
+        "expect"
+      ],
+      [
+        "location",
+        "restaurant miscellaneous",
+        "neutral",
+        "expect"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rolls",
+        "food general",
+        "positive",
+        "creative"
+      ],
+      [
+        "sushi",
+        "drinks style_options",
+        "positive",
+        "inventive"
+      ],
+      [
+        "japanese food",
+        "food general",
+        "positive",
+        "delicious"
+      ],
+      [
+        "sushi",
+        "drinks style_options",
+        "positive",
+        "inventive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rolls",
+        "food style_options",
+        "positive",
+        "creative"
+      ],
+      [
+        "japanese food",
+        "food style_options",
+        "positive",
+        "inventive"
+      ],
+      [
+        "japanese food",
+        "food quality",
+        "positive",
+        "delicious"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "drinks prices",
+        "negative",
+        "rude"
+      ],
+      [
+        "customer service",
+        "service general",
+        "negative",
+        "non-existent"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "negative",
+        "rude"
+      ],
+      [
+        "customer service",
+        "service general",
+        "negative",
+        "non-existent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "dog",
+        "food quality",
+        "positive",
+        "organic"
+      ],
+      [
+        "establishment",
+        "restaurant miscellaneous",
+        "positive",
+        "eco friendly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "rolls",
+        "food style_options",
+        "positive",
+        "creative"
+      ],
+      [
+        "creative",
+        "food general",
+        "neutral",
+        "rolls"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "rolls",
+        "food quality",
+        "positive",
+        "Good creative"
+      ],
+      [
+        "rolls",
+        "food style_options",
+        "positive",
+        "Good creative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "cocktail with Citrus Vodka and lemon and lime juice and mint leaves",
+        "drinks quality",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "Fabulous"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "positive",
+        "Fabulous"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "dining experience",
+        "restaurant general",
+        "positive",
+        "dining"
+      ],
+      [
+        "dining experience",
+        "restaurant general",
+        "positive",
+        "like"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Casa La Femme",
+        "restaurant general",
+        "negative",
+        "like no other dining experience"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Village Underground",
+        "restaurant general",
+        "positive",
+        "came"
+      ],
+      [
+        "Village Underground",
+        "restaurant general",
+        "positive",
+        "now I go"
+      ],
+      [
+        "Village Underground",
+        "restaurant general",
+        "neutral",
+        "now"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Village Underground",
+        "restaurant general",
+        "positive",
+        "go there all the time"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "was mediocre"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "mediocre"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food general",
+        "positive",
+        "excellent"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "excellent"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "excellent"
+      ],
+      [
+        "The Four Seasons",
+        "restaurant general",
+        "negative",
+        "dissappointed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "reservation",
+        "restaurant general",
+        "negative",
+        "can not complain too much about the wait for a table"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "wait",
+        "service general",
+        "neutral",
+        "can not complain too much"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "This",
+        "restaurant general",
+        "neutral",
+        "This"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "restaurant general",
+        "negative",
+        "doesn 't make any sense"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food quality",
+        "neutral",
+        "we"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "our wallets were empy and so were our stomachs"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative",
+        "left our wallets were empy"
+      ],
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative",
+        "missed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lobster roll",
+        "drinks quality",
+        "positive",
+        "excellent"
+      ],
+      [
+        "lobster roll",
+        "drinks quality",
+        "positive",
+        "excellent"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lobster roll",
+        "food quality",
+        "positive",
+        "excellent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Save",
+        "restaurant general",
+        "negative",
+        "Save"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "go somewhere else"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "modern Japanese food",
+        "food quality",
+        "positive",
+        "go-to for"
+      ],
+      [
+        "mirrors",
+        "ambience general",
+        "negative",
+        "confusing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "home",
+        "food general",
+        "positive",
+        "Remind me of home"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "positive",
+        "home"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "margherita pizza",
+        "food general",
+        "positive",
+        "love"
+      ],
+      [
+        "east village pizza",
+        "food general",
+        "positive",
+        "love"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "east village pizza",
+        "restaurant general",
+        "positive",
+        "love"
+      ],
+      [
+        "margherita pizza",
+        "food quality",
+        "positive",
+        "looove"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Dog",
+        "food general",
+        "positive",
+        "Tasty"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Dog",
+        "food quality",
+        "positive",
+        "Tasty"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "eat",
+        "food general",
+        "positive",
+        "eatting"
+      ],
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "indian place"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "indian place",
+        "restaurant miscellaneous",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "nice"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "appetizers",
+        "food quality",
+        "positive",
+        "are also delicious"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "appetizers",
+        "food quality",
+        "positive",
+        "delicious"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "spinach",
+        "food quality",
+        "positive",
+        "fresh"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "sashimi amuse bouche",
+        "food quality",
+        "positive",
+        "delightful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "it",
+        "restaurant general",
+        "positive",
+        "recommend it"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "servers",
+        "restaurant general",
+        "negative",
+        "attention"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "servers",
+        "service general",
+        "negative",
+        "perfected"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        ".",
+        "restaurant general",
+        "negative",
+        "nothing"
+      ],
+      [
+        "she",
+        "restaurant general",
+        "negative",
+        "No apology"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "No apology"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Atmosphere",
+        "ambience general",
+        "positive",
+        "Great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Atmosphere",
+        "ambience general",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "japanese tapas",
+        "food style_options",
+        "negative",
+        "does n't work"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food general",
+        "positive",
+        "tasty"
+      ],
+      [
+        "food",
+        "food general",
+        "positive",
+        "delicious"
+      ],
+      [
+        "food",
+        "food general",
+        "positive",
+        "kept it that way"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "tasty"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative",
+        "unfortunately"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "Helpful service"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "Helpful"
+      ],
+      [
+        "dish",
+        "food prices",
+        "neutral",
+        "$ 10"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "Terrible"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative",
+        "Waste of money"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "manager",
+        "service general",
+        "negative",
+        "did n"
+      ],
+      [
+        "taste",
+        "drinks quality",
+        "negative",
+        "it"
+      ],
+      [
+        "it",
+        "food general",
+        "negative",
+        ""
+      ]
+    ],
+    "tuple_list": [
+      [
+        "manager",
+        "service general",
+        "negative",
+        "bad"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Brooklyn",
+        "restaurant general",
+        "positive",
+        "One of my favorite"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "favorite"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "smug"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "arrogant"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "condescending"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "immediately",
+        "restaurant general",
+        "positive",
+        "which"
+      ],
+      [
+        "happy",
+        "service general",
+        "positive",
+        "us"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "happy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "drinks",
+        "drinks quality",
+        "positive",
+        "great"
+      ],
+      [
+        "Raymond",
+        "restaurant general",
+        "neutral",
+        "by"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "drinks",
+        "drinks quality",
+        "positive",
+        "great"
+      ],
+      [
+        "Raymond",
+        "service general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Brooklyn",
+        "location general",
+        "positive",
+        "alive and flourishing"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "rudeness"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "pastas",
+        "food quality",
+        "positive",
+        "incredible"
+      ],
+      [
+        "risottos",
+        "food quality",
+        "positive",
+        "fantastic"
+      ],
+      [
+        "sepia",
+        "food quality",
+        "positive",
+        "fantastic"
+      ],
+      [
+        "braised rabbit",
+        "food quality",
+        "positive",
+        "amazing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bill",
+        "restaurant general",
+        "neutral",
+        "bill came"
+      ],
+      [
+        "manager",
+        "restaurant general",
+        "neutral",
+        "manager"
+      ],
+      [
+        "wine",
+        "drinks prices",
+        "positive",
+        "pay for the wine"
+      ],
+      [
+        "food",
+        "food general",
+        "negative",
+        "with a maggot in it"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "maggot"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "sashimi",
+        "food quality",
+        "positive",
+        "fresh"
+      ],
+      [
+        "rolls",
+        "food style_options",
+        "positive",
+        "innovative"
+      ],
+      [
+        "rolls",
+        "food quality",
+        "positive",
+        "delicious"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "full price",
+        "restaurant prices",
+        "negative",
+        "full price"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "full price"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "order",
+        "restaurant general",
+        "negative",
+        "offered"
+      ],
+      [
+        "discount",
+        "restaurant prices",
+        "negative",
+        "even though"
+      ],
+      [
+        "missing",
+        "food general",
+        "negative",
+        "half"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "missing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "not return"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "belly dancers",
+        "service general",
+        "negative",
+        "show"
+      ],
+      [
+        "belly dancers",
+        "restaurant miscellaneous",
+        "negative",
+        "danced"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "never made it around"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        ".",
+        "food general",
+        "negative",
+        "a maggot"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "mushroom sauce",
+        "food quality",
+        "negative",
+        "maggot"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "nakgi-bokum",
+        "restaurant general",
+        "negative",
+        "was horrible"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "nakgi-bokum",
+        "food quality",
+        "negative",
+        "horrible"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bowl",
+        "drinks prices",
+        "negative",
+        "an extra $ 2 for the stone bowl"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "stone bowl",
+        "food prices",
+        "negative",
+        "bad"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hot dog lovers",
+        "food general",
+        "positive",
+        "hot dog lovers"
+      ],
+      [
+        "check this place out",
+        "restaurant general",
+        "positive",
+        "check this place out"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "check this place out"
+      ],
+      [
+        "hot dog",
+        "food quality",
+        "positive",
+        "amazing fun"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "martinis",
+        "drinks quality",
+        "positive",
+        "amazing"
+      ],
+      [
+        "martinis",
+        "drinks prices",
+        "positive",
+        "fairly priced"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food general",
+        "positive",
+        "seafood spaghetti"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "Good"
+      ],
+      [
+        "seafood spaghetti",
+        "food quality",
+        "positive",
+        "favorite"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        ".",
+        "food general",
+        "neutral",
+        "looked"
+      ],
+      [
+        "waiter",
+        "service general",
+        "positive",
+        "was"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "menu",
+        "food style_options",
+        "positive",
+        "great"
+      ],
+      [
+        "waiter",
+        "service general",
+        "positive",
+        "nice"
+      ],
+      [
+        "food",
+        "food quality",
+        "neutral",
+        "average"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Park Slope",
+        "location general",
+        "positive",
+        "in"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Went here",
+        "location general",
+        "negative",
+        "disappointed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "disappointed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bar",
+        "restaurant general",
+        "negative",
+        "the bartender disappeared"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bartender",
+        "service general",
+        "negative",
+        "disappeared"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "taste",
+        "food quality",
+        "positive",
+        "great taste"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "dessert",
+        "food general",
+        "negative",
+        "would be better"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "dessert",
+        "food quality",
+        "negative",
+        "Wrong"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food prices",
+        "negative",
+        "actual"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "waiters",
+        "service general",
+        "negative",
+        "push"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "negative",
+        "Poor service"
+      ],
+      [
+        "management",
+        "restaurant general",
+        "negative",
+        "management"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "negative",
+        "Poor"
+      ],
+      [
+        "management",
+        "service general",
+        "negative",
+        "Poor"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Indian",
+        "food general",
+        "positive",
+        "normal"
+      ],
+      [
+        "Indian",
+        "food general",
+        "positive",
+        "done really well"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Indian food",
+        "food style_options",
+        "neutral",
+        "normal"
+      ],
+      [
+        "Indian food",
+        "food quality",
+        "positive",
+        "well"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive",
+        "best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bread",
+        "food general",
+        "negative",
+        "stale"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bread",
+        "food quality",
+        "negative",
+        "stale"
+      ],
+      [
+        "salad",
+        "food prices",
+        "negative",
+        "overpriced"
+      ],
+      [
+        "salad",
+        "food style_options",
+        "negative",
+        "empty"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "visit",
+        "restaurant general",
+        "negative",
+        "was"
+      ],
+      [
+        "their",
+        "restaurant general",
+        "neutral",
+        "an"
+      ],
+      [
+        "experience",
+        "restaurant general",
+        "negative",
+        "was"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "unpleasant"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative",
+        "costly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "chicken",
+        "food quality",
+        "negative",
+        "inedible"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Loved",
+        "restaurant general",
+        "positive",
+        "Loved"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "Loved"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hot dogs",
+        "food general",
+        "positive",
+        "great"
+      ],
+      [
+        "hot dogs",
+        "food general",
+        "neutral",
+        "dogs"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hot dogs",
+        "food quality",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lobster knuckles",
+        "food quality",
+        "negative",
+        "tasteless"
+      ],
+      [
+        "lobster knuckles",
+        "food general",
+        "neutral",
+        "ok"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lobster knuckles",
+        "food style_options",
+        "neutral",
+        "ok"
+      ],
+      [
+        "lobster knuckles",
+        "food quality",
+        "negative",
+        "tasteless"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "hair"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "got hair in my food"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "entree",
+        "food general",
+        "positive",
+        "was also very good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "main entree",
+        "food quality",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "employee",
+        "restaurant general",
+        "negative",
+        "upset"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "upset"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Service",
+        "service general",
+        "positive",
+        "wonderful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Service",
+        "service general",
+        "positive",
+        "wonderful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "spectacular"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "knew everything"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "spectacular"
+      ],
+      [
+        "waiter",
+        "service general",
+        "positive",
+        "amazing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "happy"
+      ],
+      [
+        "grilled Mahi Mahi",
+        "food quality",
+        "negative",
+        "drenched"
+      ],
+      [
+        "grilled Mahi Mahi",
+        "food style_options",
+        "negative",
+        "drenched"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "glasses",
+        "ambience general",
+        "negative",
+        "dirty"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "dirty"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        ".",
+        "restaurant general",
+        "positive",
+        "Great place"
+      ],
+      [
+        ".",
+        "restaurant general",
+        "positive",
+        "great value ."
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "Great"
+      ],
+      [
+        "place",
+        "restaurant prices",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "always delivers"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "delivers on their food"
+      ],
+      [
+        "Bark",
+        "restaurant miscellaneous",
+        "neutral",
+        "crowded"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "waste",
+        "restaurant general",
+        "negative",
+        "waste"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "waste"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food general",
+        "negative",
+        "both"
+      ],
+      [
+        "service",
+        "service general",
+        "negative",
+        "both"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "disgusted"
+      ],
+      [
+        "service",
+        "service general",
+        "negative",
+        "disgusted"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "waitress",
+        "service general",
+        "neutral",
+        "waitress"
+      ],
+      [
+        "how many",
+        "drinks prices",
+        "neutral",
+        "in your party"
+      ],
+      [
+        "how many",
+        "drinks prices",
+        "neutral",
+        "in your party"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "waitress",
+        "service general",
+        "negative",
+        "shocked"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "souvlaki",
+        "restaurant general",
+        "positive",
+        "best"
+      ],
+      [
+        "best gyros",
+        "food general",
+        "positive",
+        "best"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "gyros",
+        "food quality",
+        "positive",
+        "best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food general",
+        "neutral",
+        "food"
+      ],
+      [
+        "service",
+        "service general",
+        "neutral",
+        "service"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "Subtle"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "Subtle"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "main course",
+        "food quality",
+        "positive",
+        "was wonderful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "main course",
+        "food quality",
+        "positive",
+        "wonderful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pizza",
+        "food quality",
+        "positive",
+        "the best pizza on the planet"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "pizza",
+        "food quality",
+        "positive",
+        "best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hot dog",
+        "food general",
+        "positive",
+        "is elevated"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hot dog",
+        "food quality",
+        "positive",
+        "elevated"
+      ],
+      [
+        "hot dog",
+        "food style_options",
+        "positive",
+        "elevated"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Our",
+        "restaurant general",
+        "negative",
+        "ever"
+      ],
+      [
+        "experience",
+        "restaurant general",
+        "negative",
+        "did not"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "did not ever get any better"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "scorn",
+        "restaurant general",
+        "negative",
+        "scorn"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "supercilious scorn"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "salad",
+        "food general",
+        "positive",
+        "extremely tasty"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "farro salad",
+        "food quality",
+        "positive",
+        "tasty"
+      ],
+      [
+        "mashed yukon potatoes",
+        "food quality",
+        "positive",
+        "tasty"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food general",
+        "negative",
+        "spicy"
+      ],
+      [
+        "food",
+        "food general",
+        "negative",
+        "oily"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "spicy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "they",
+        "food style_options",
+        "neutral",
+        "make them"
+      ],
+      [
+        "they",
+        "food style_options",
+        "neutral",
+        "look"
+      ],
+      [
+        "they",
+        "food style_options",
+        "neutral",
+        "re perfect"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "boths",
+        "ambience general",
+        "positive",
+        "not as small"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Awesome",
+        "restaurant general",
+        "positive",
+        "Awesome"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "Awesome"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "trimmings",
+        "restaurant general",
+        "positive",
+        "ALL the"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "trimmings",
+        "food style_options",
+        "positive",
+        "ALL"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "price",
+        "restaurant prices",
+        "negative",
+        "price"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "4 instead of 5"
+      ],
+      [
+        "chicken tikka masala",
+        "food prices",
+        "negative",
+        "no bread of rice"
+      ],
+      [
+        "feel",
+        "ambience general",
+        "negative",
+        "doesn 't have an upscale feel"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "seating",
+        "ambience general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Grilled Black Cod",
+        "food general",
+        "positive",
+        "absolutely devoured"
+      ],
+      [
+        "Grilled Salmon",
+        "food general",
+        "positive",
+        "was better"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Grilled Black Cod",
+        "food quality",
+        "positive",
+        "devoured"
+      ],
+      [
+        "Grilled Salmon dish",
+        "food quality",
+        "positive",
+        "better"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lunch",
+        "food prices",
+        "negative",
+        "expensive"
+      ],
+      [
+        "lunch",
+        "food general",
+        "positive",
+        "is deff worth it"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lunch buffet",
+        "food prices",
+        "negative",
+        "expensive"
+      ],
+      [
+        "lunch buffet",
+        "food quality",
+        "positive",
+        "worth"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "INDIAN",
+        "drinks style_options",
+        "positive",
+        "SPICE RAVE"
+      ],
+      [
+        "Bukhara Grill",
+        "restaurant general",
+        "positive",
+        "the tagline says it all"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Bukhara Grill",
+        "restaurant general",
+        "positive",
+        "RAVE"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "meat",
+        "food quality",
+        "positive",
+        "fresh"
+      ],
+      [
+        "sauces",
+        "food quality",
+        "positive",
+        "great"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "good"
+      ],
+      [
+        "kimchi",
+        "food prices",
+        "positive",
+        "free"
+      ],
+      [
+        "salad",
+        "food prices",
+        "positive",
+        "free"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "what",
+        "food general",
+        "positive",
+        "good"
+      ],
+      [
+        "what",
+        "food general",
+        "positive",
+        "had"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mashed potatoes",
+        "food quality",
+        "negative",
+        "hidden"
+      ],
+      [
+        "chicken",
+        "food general",
+        "neutral",
+        "under"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food style_options",
+        "negative",
+        "couldn 't even enjoy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bottle of wine",
+        "drinks quality",
+        "neutral",
+        "high-end"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bottle of wine",
+        "drinks quality",
+        "positive",
+        "high-end"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Indo Chinese food",
+        "food quality",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Mussles",
+        "food quality",
+        "positive",
+        "superb"
+      ],
+      [
+        "calamari",
+        "food quality",
+        "positive",
+        "superb"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "recommend",
+        "restaurant general",
+        "negative",
+        "never"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "restaurant general",
+        "negative",
+        "never recommend"
+      ],
+      [
+        "place",
+        "restaurant miscellaneous",
+        "negative",
+        "never recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "seasoning",
+        "food quality",
+        "negative",
+        "no seasoning"
+      ],
+      [
+        "seasoning",
+        "food general",
+        "neutral",
+        "just average"
+      ],
+      [
+        "seasoning",
+        "food general",
+        "neutral",
+        "just shredded"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative",
+        "average"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative",
+        "shredded"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative",
+        "no seasoning"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "SO",
+        "restaurant general",
+        "positive",
+        "SO"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "GOOD"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "one time special occasion",
+        "restaurant general",
+        "positive",
+        "Nice"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "positive",
+        "Nice"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "fit-out",
+        "restaurant general",
+        "positive",
+        "fit-out"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "fit-out",
+        "ambience general",
+        "positive",
+        "nice"
+      ],
+      [
+        "furnishings",
+        "ambience general",
+        "positive",
+        "attractive"
+      ],
+      [
+        "wine list",
+        "drinks style_options",
+        "positive",
+        "reasonable"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flavor",
+        "food quality",
+        "negative",
+        "no flavor"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "negative",
+        "rude"
+      ],
+      [
+        "staff",
+        "service general",
+        "negative",
+        "not attentive"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative",
+        "no flavor"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Food",
+        "food quality",
+        "positive",
+        "amazing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "would be a compliment"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "Terrible"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "Terrible"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "prices",
+        "drinks prices",
+        "negative",
+        "prices"
+      ],
+      [
+        "food",
+        "food general",
+        "negative",
+        "food"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative",
+        "high"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "restaurant general",
+        "negative",
+        "were turning"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "negative",
+        "horrified"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "food style_options",
+        "positive",
+        "you NAME it"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "dinner",
+        "food general",
+        "negative",
+        "disappointing"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "disappointing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "dinner for two",
+        "food prices",
+        "negative",
+        "didn 't include Wine"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "La Femme",
+        "restaurant general",
+        "positive",
+        "unlike any other"
+      ],
+      [
+        "experience",
+        "restaurant general",
+        "positive",
+        "true"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Casa La Femme",
+        "restaurant general",
+        "positive",
+        "true"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "worth it"
+      ],
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "worth it"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "location general",
+        "neutral",
+        "hidden away"
+      ],
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "worth"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "experience",
+        "restaurant general",
+        "negative",
+        "horri"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "horrible"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "waiter",
+        "service general",
+        "positive",
+        "waiter"
+      ],
+      [
+        "food",
+        "food quality",
+        "positive",
+        "delicious"
+      ],
+      [
+        "view",
+        "location general",
+        "positive",
+        "great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "waiter",
+        "service general",
+        "positive",
+        "attentive"
+      ],
+      [
+        "food",
+        "food quality",
+        "positive",
+        "delicious"
+      ],
+      [
+        "views of the city",
+        "location general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "establishment",
+        "restaurant general",
+        "positive",
+        "real deal"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "establishment",
+        "restaurant general",
+        "positive",
+        "real deal"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "meal",
+        "food quality",
+        "negative",
+        "inedible"
+      ],
+      [
+        "bill",
+        "restaurant prices",
+        "negative",
+        "since"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "meal",
+        "food quality",
+        "negative",
+        "inedible"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative",
+        "fought my bill"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "scene",
+        "location general",
+        "positive",
+        "quite a spectacular"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "scene",
+        "ambience general",
+        "positive",
+        "spectacular"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "",
+        "restaurant general",
+        "positive",
+        ""
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "enjoy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "large",
+        "restaurant general",
+        "negative",
+        "go"
+      ],
+      [
+        "group",
+        "restaurant general",
+        "neutral",
+        "larger"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative",
+        "Do n't go"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        ".",
+        "food quality",
+        "negative",
+        "disaster"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Dessert",
+        "food quality",
+        "negative",
+        "disaster"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Expensive",
+        "restaurant prices",
+        "negative",
+        "Expensive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative",
+        "Expensive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "wedding",
+        "restaurant general",
+        "positive",
+        "received the highest compliments from"
+      ],
+      [
+        "wedding",
+        "restaurant general",
+        "positive",
+        "received the highest compliments from"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Water 's Edge",
+        "restaurant miscellaneous",
+        "positive",
+        "highest compliments"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "place",
+        "restaurant general",
+        "negative",
+        "reputation"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "restaurant miscellaneous",
+        "negative",
+        "survives on reputation alone"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "where",
+        "location general",
+        "neutral",
+        "to begin"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "do n't even know where to begin"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "should be able to get into"
+      ],
+      [
+        "food",
+        "food general",
+        "neutral",
+        "well prepared"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "well prepared"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "table",
+        "location general",
+        "negative",
+        "pushed"
+      ],
+      [
+        "price fixed",
+        "restaurant prices",
+        "negative",
+        "pushed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "pushed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "atmosphere",
+        "ambience general",
+        "positive",
+        "raved"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "atmosphere",
+        "ambience general",
+        "positive",
+        "raved"
+      ],
+      [
+        "rooms",
+        "ambience general",
+        "positive",
+        "elegant"
+      ],
+      [
+        "views",
+        "location general",
+        "positive",
+        "incomparable"
+      ],
+      [
+        "food",
+        "food quality",
+        "positive",
+        "fabulous"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "dishes",
+        "food quality",
+        "positive",
+        "enjoyed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "dishes",
+        "food quality",
+        "positive",
+        "enjoyed"
+      ],
+      [
+        "dish",
+        "food quality",
+        "negative",
+        "too-authentic-for-me"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pork belly tacos",
+        "food style_options",
+        "positive",
+        "pork belly tacos"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Korean food",
+        "food quality",
+        "positive",
+        "classic"
+      ],
+      [
+        "fusion twists",
+        "food quality",
+        "positive",
+        "classic"
+      ],
+      [
+        "pork belly tacos",
+        "food quality",
+        "positive",
+        "classic"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food general",
+        "positive",
+        "was excellent"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "excellent"
+      ],
+      [
+        "margaritas",
+        "drinks quality",
+        "neutral",
+        "anything to write home about"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Casa la Femme",
+        "restaurant general",
+        "negative",
+        "experience"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Casa la Femme",
+        "restaurant general",
+        "negative",
+        "awful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "bibimbap",
+        "food quality",
+        "neutral",
+        "average"
+      ],
+      [
+        "stone bowl",
+        "food quality",
+        "negative",
+        "was n't even close to sizzling"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "menu",
+        "drinks prices",
+        "neutral",
+        "simple without much descriptions"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "menu",
+        "food style_options",
+        "neutral",
+        "simple"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "chicken",
+        "food quality",
+        "negative",
+        "was appalled"
+      ],
+      [
+        "chicken",
+        "food general",
+        "negative",
+        "was appalled"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "chicken",
+        "food style_options",
+        "negative",
+        "appalled"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "West Village",
+        "location general",
+        "positive",
+        "Great find"
+      ],
+      [
+        "West Village",
+        "location general",
+        "neutral",
+        "find"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sauce",
+        "food quality",
+        "negative",
+        "taste"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "sauce",
+        "food quality",
+        "negative",
+        "Chinese fast food"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "japanese food",
+        "food prices",
+        "negative",
+        "overpriced"
+      ],
+      [
+        "service",
+        "service general",
+        "neutral",
+        "mediocre"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "belly dancing show",
+        "restaurant general",
+        "positive",
+        "drawn"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "belly dancing show",
+        "ambience general",
+        "positive",
+        "captivated"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "river",
+        "location general",
+        "positive",
+        "view"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "view of river and NYC",
+        "location general",
+        "positive",
+        "Nice"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "design",
+        "location general",
+        "positive",
+        "The design"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "space",
+        "ambience general",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "just",
+        "restaurant general",
+        "negative",
+        "fun place"
+      ],
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "fun place"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaraunt",
+        "restaurant general",
+        "neutral",
+        "five star"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "fanatical"
+      ],
+      [
+        "place",
+        "restaurant prices",
+        "positive",
+        "fanatical"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Food",
+        "food quality",
+        "positive",
+        "prepare"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Food",
+        "food quality",
+        "positive",
+        "worth"
+      ],
+      [
+        "NULL",
+        "service general",
+        "neutral",
+        "took some time"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "was packed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "seat me quickly "
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "she",
+        "restaurant general",
+        "negative",
+        "turning away customers"
+      ],
+      [
+        "had a BBQ to go to",
+        "restaurant general",
+        "negative",
+        "had a BBQ to go to"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "WTF"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Go",
+        "restaurant general",
+        "positive",
+        "Go"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "positive",
+        "Go here"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative",
+        "inedible"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "food general",
+        "positive",
+        "awesome"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "awesome"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pay",
+        "restaurant prices",
+        "negative",
+        "hour"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative",
+        "no way represents value"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "torture"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pasta",
+        "food quality",
+        "negative",
+        "well cooked"
+      ],
+      [
+        "sauce",
+        "drinks prices",
+        "negative",
+        "enough sauce"
+      ],
+      [
+        "pasta",
+        "food general",
+        "negative",
+        "flavor"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "pasta",
+        "food quality",
+        "positive",
+        "well cooked"
+      ],
+      [
+        "pasta",
+        "food quality",
+        "negative",
+        "did n't have enough sauce"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "negative",
+        "service"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "negative",
+        "lack of"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive",
+        "beautiful"
+      ],
+      [
+        "restaurant",
+        "ambience general",
+        "positive",
+        "beautiful"
+      ],
+      [
+        "staff",
+        "service general",
+        "negative",
+        "pays more attention"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "place"
+      ],
+      [
+        "city",
+        "location general",
+        "positive",
+        "time"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "Love"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Sushi",
+        "food quality",
+        "positive",
+        "Fresh"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Sushi",
+        "food quality",
+        "positive",
+        "Reliable"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pizza",
+        "food quality",
+        "positive",
+        "good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "pizza",
+        "food quality",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "be",
+        "restaurant general",
+        "positive",
+        "back"
+      ],
+      [
+        "sure",
+        "restaurant general",
+        "positive",
+        "sure"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "be back"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "margaritas",
+        "drinks quality",
+        "negative",
+        "Do n't get me started"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "drinks",
+        "drinks quality",
+        "negative",
+        "were horrible !"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "drinks",
+        "drinks quality",
+        "negative",
+        "horrible"
+      ],
+      [
+        "drinks",
+        "drinks prices",
+        "negative",
+        "horrible"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "things",
+        "food general",
+        "positive",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "positives"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "front of house staff",
+        "restaurant general",
+        "negative",
+        "hideous"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "waiters",
+        "service general",
+        "positive",
+        "fantastic"
+      ],
+      [
+        "front of house staff",
+        "service general",
+        "negative",
+        "hideous"
+      ],
+      [
+        "fish dishes",
+        "food quality",
+        "positive",
+        "exceptional"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "we",
+        "restaurant general",
+        "negative",
+        "never"
+      ],
+      [
+        "were",
+        "restaurant general",
+        "negative",
+        "were"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "upset"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Pacifico",
+        "restaurant general",
+        "positive",
+        "loved"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Pacifico",
+        "restaurant general",
+        "positive",
+        "loved"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Food",
+        "food general",
+        "neutral",
+        "OK"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Food",
+        "food quality",
+        "neutral",
+        "OK"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant prices",
+        "negative",
+        "expensive"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "disrespectful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive",
+        "consistent"
+      ],
+      [
+        "NULL",
+        "food style_options",
+        "positive",
+        "Creative"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive",
+        "fresh"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "crus",
+        "food quality",
+        "positive",
+        "well"
+      ],
+      [
+        "pizza",
+        "drinks style_options",
+        "positive",
+        "fully loaded"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "crust",
+        "food quality",
+        "positive",
+        "cooked well"
+      ],
+      [
+        "pizza",
+        "food style_options",
+        "positive",
+        "fully loaded"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "mind-bogglingly uncomfortable"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Casa La Femme",
+        "restaurant general",
+        "negative",
+        "felt it necessary"
+      ],
+      [
+        "Casa La Femme",
+        "restaurant general",
+        "negative",
+        "to try and warn"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Casa La Femme",
+        "restaurant general",
+        "negative",
+        "offended"
+      ],
+      [
+        "Casa La Femme",
+        "restaurant prices",
+        "negative",
+        "offended"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "swaying",
+        "restaurant general",
+        "neutral",
+        "never"
+      ],
+      [
+        "meal",
+        "food general",
+        "positive",
+        "never a bad"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "never bad"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "never swaying"
+      ],
+      [
+        "meal",
+        "food quality",
+        "positive",
+        "never a bad"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "never bad"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "banana chocolate",
+        "food general",
+        "positive",
+        "delicious"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "banana chocolate dessert",
+        "food quality",
+        "positive",
+        "delicious"
+      ],
+      [
+        "green tea tempura",
+        "food quality",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "MOST",
+        "restaurant general",
+        "positive",
+        "wonderful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive",
+        "wonderful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "priced",
+        "food prices",
+        "negative",
+        "Overpriced"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food prices",
+        "negative",
+        "Overpriced"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative",
+        "not tasty"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bag",
+        "restaurant general",
+        "neutral",
+        "garbage"
+      ],
+      [
+        "bag",
+        "restaurant general",
+        "neutral",
+        "plastic"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "waiter",
+        "service general",
+        "negative",
+        "garbage"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "negative",
+        "rude"
+      ],
+      [
+        "service",
+        "service general",
+        "negative",
+        "not even apologizing"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "negative",
+        "horrible"
+      ],
+      [
+        "drinks",
+        "drinks prices",
+        "negative",
+        "over $ 500"
+      ],
+      [
+        "pita bread",
+        "food prices",
+        "negative",
+        "over $ 500"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "rude"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "drinks quality",
+        "positive",
+        "delicious"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive",
+        "delicious"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Stay",
+        "restaurant general",
+        "negative",
+        "Stay"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "Stay away"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Sushi",
+        "restaurant general",
+        "positive",
+        "Best"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Sushi",
+        "food quality",
+        "positive",
+        "Best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bartend",
+        "restaurant general",
+        "positive",
+        "rocks"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Raymond",
+        "service general",
+        "positive",
+        "rocks"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hostess",
+        "service general",
+        "negative",
+        "rude"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hostess",
+        "service general",
+        "negative",
+        "rude"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "distinct"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "sadly"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative",
+        "paid dearly for it"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "appetizers",
+        "food quality",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "fine"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "fine"
+      ],
+      [
+        "maitre-D",
+        "service general",
+        "negative",
+        "unwelcoming"
+      ],
+      [
+        "maitre-D",
+        "service general",
+        "negative",
+        "arrogant"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flavors",
+        "food quality",
+        "positive",
+        "flavors"
+      ],
+      [
+        "value",
+        "restaurant prices",
+        "positive",
+        "value"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive",
+        "amazing"
+      ],
+      [
+        "NULL",
+        "food prices",
+        "positive",
+        "phenomenal"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "potato",
+        "food quality",
+        "positive",
+        "buttery"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "potato balls",
+        "food quality",
+        "positive",
+        "not dry"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "toppings",
+        "food general",
+        "positive",
+        "great"
+      ],
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "check out"
+      ],
+      [
+        "late night",
+        "restaurant general",
+        "neutral",
+        "definitely"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "toppings",
+        "food quality",
+        "positive",
+        "great"
+      ],
+      [
+        "place",
+        "restaurant miscellaneous",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "very good"
+      ],
+      [
+        "food",
+        "food general",
+        "neutral",
+        "tasted"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "decent"
+      ],
+      [
+        "food",
+        "food prices",
+        "positive",
+        "good"
+      ],
+      [
+        "people",
+        "service general",
+        "positive",
+        "friendly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bill",
+        "restaurant prices",
+        "negative",
+        "try to drive up"
+      ],
+      [
+        "people",
+        "service general",
+        "negative",
+        "that try to drive up"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "drive up the bill"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative",
+        "huge turnoff"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "slice",
+        "food general",
+        "positive",
+        "slice of NYC"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "slice of NYC pizza",
+        "food quality",
+        "neutral",
+        "quintessential"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "food general",
+        "negative",
+        "we waited"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "waited over 1 /2 hour to 45 minutes"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Pizza",
+        "food quality",
+        "positive",
+        "Super YUMMY"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Pizza",
+        "food quality",
+        "positive",
+        "YUMMY"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NOT go",
+        "restaurant general",
+        "negative",
+        "would NOT go"
+      ],
+      [
+        "would",
+        "restaurant general",
+        "neutral",
+        "would"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "NOT go back"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "dish",
+        "food general",
+        "positive",
+        "excellent"
+      ],
+      [
+        "dish",
+        "food general",
+        "positive",
+        "reason to come"
+      ],
+      [
+        "gyro",
+        "food general",
+        "positive",
+        "reason to come"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Greek and Cypriot dishes",
+        "food quality",
+        "positive",
+        "excellent"
+      ],
+      [
+        "gyro",
+        "food quality",
+        "positive",
+        "the reason to come"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "ambience general",
+        "positive",
+        "intimate"
+      ],
+      [
+        "food",
+        "food quality",
+        "positive",
+        "superb"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "worth"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Bukhara",
+        "location general",
+        "positive",
+        "is on my top 5"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Bukhara",
+        "restaurant general",
+        "positive",
+        "top"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Service",
+        "service general",
+        "negative",
+        "friendliest"
+      ],
+      [
+        "large party",
+        "restaurant general",
+        "neutral",
+        "not"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Service",
+        "service general",
+        "negative",
+        "not the friendliest"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "PLACE",
+        "restaurant general",
+        "positive",
+        "LOVE"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Indian Chinese",
+        "drinks style_options",
+        "positive",
+        "Best"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Indian Chinese",
+        "food quality",
+        "positive",
+        "Best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "uninvited opinions",
+        "drinks prices",
+        "negative",
+        "out of context"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "girl",
+        "service general",
+        "negative",
+        "uninvited"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "quick"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "quick"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "way",
+        "restaurant general",
+        "negative",
+        "out"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "complaining"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "sake ’ s",
+        "drinks quality",
+        "positive",
+        "very well"
+      ],
+      [
+        "sake ’ s",
+        "drinks quality",
+        "positive",
+        "successfully"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flavors",
+        "drinks quality",
+        "positive",
+        "mind blow"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive",
+        "Fresh"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive",
+        "mind blowing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "Dumbfoundingly Poor"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food prices",
+        "negative",
+        "expensive side"
+      ],
+      [
+        "food",
+        "food general",
+        "positive",
+        "good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "fresh"
+      ],
+      [
+        "food",
+        "food quality",
+        "positive",
+        "good"
+      ],
+      [
+        "food",
+        "food prices",
+        "negative",
+        "expensive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "experience",
+        "drinks quality",
+        "positive",
+        "was unbelievable"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Sushi",
+        "food quality",
+        "positive",
+        "unbelievable"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Restaurant",
+        "restaurant general",
+        "negative",
+        "Worst"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Patsy",
+        "restaurant general",
+        "positive",
+        "true love"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Patsy 's Pizza",
+        "restaurant general",
+        "positive",
+        "true love"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "shine"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "shine"
+      ],
+      [
+        "gyro meat",
+        "food quality",
+        "positive",
+        "in-house"
+      ],
+      [
+        "sausages",
+        "food quality",
+        "positive",
+        "in-house"
+      ],
+      [
+        "ingredients",
+        "food quality",
+        "positive",
+        "higher quality"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Indian",
+        "food general",
+        "positive",
+        "Great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Indian Food",
+        "food quality",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "fried oysters",
+        "food quality",
+        "positive",
+        "delicious"
+      ],
+      [
+        "order",
+        "restaurant general",
+        "neutral",
+        "quick"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "fried oysters and clams",
+        "food quality",
+        "positive",
+        "delicious"
+      ],
+      [
+        "fried oysters and clams",
+        "food style_options",
+        "negative",
+        "tiny portion"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "served quickly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "concern"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Prices",
+        "food prices",
+        "positive",
+        "Prices are fair across the board"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food prices",
+        "positive",
+        "fair"
+      ],
+      [
+        "bev",
+        "drinks prices",
+        "positive",
+        "fair"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "dessert",
+        "food quality",
+        "positive",
+        "save room"
+      ],
+      [
+        "special roll",
+        "food style_options",
+        "positive",
+        "enough"
+      ],
+      [
+        "regular roll",
+        "food style_options",
+        "positive",
+        "enough"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "they",
+        "restaurant general",
+        "negative",
+        "they"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "waiting an extra hour"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Try",
+        "restaurant general",
+        "positive",
+        "Try"
+      ],
+      [
+        "it",
+        "restaurant general",
+        "positive",
+        "it"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "Try"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Sushi",
+        "restaurant general",
+        "positive",
+        "Favorite"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Sushi",
+        "food quality",
+        "positive",
+        "Favorite"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "wine list",
+        "drinks style_options",
+        "neutral",
+        "extensive"
+      ],
+      [
+        "staff",
+        "restaurant general",
+        "negative",
+        "did not seem knowledgeable"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "wine list",
+        "drinks style_options",
+        "positive",
+        "extensive"
+      ],
+      [
+        "staff",
+        "service general",
+        "negative",
+        "not seem knowledgeable"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Service",
+        "service general",
+        "negative",
+        "ok"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative",
+        "$ 500"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Four Seasons",
+        "restaurant general",
+        "positive",
+        "great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "The Four Seasons restaurant",
+        "restaurant general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sushi",
+        "drinks style_options",
+        "positive",
+        "good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "spot",
+        "ambience general",
+        "positive",
+        "unpretentious"
+      ],
+      [
+        "sushi",
+        "food quality",
+        "positive",
+        "good"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "pleasant"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "effective"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "unassuming"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "back garden",
+        "food general",
+        "positive",
+        "really nice"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "back garden area",
+        "ambience general",
+        "positive",
+        "nice"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food general",
+        "negative",
+        "not be"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "worth"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "Cypriot restaurant",
+        "restaurant general",
+        "positive",
+        "a lot going"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "negative",
+        "service"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "negative",
+        "HORRID"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food quality",
+        "food quality",
+        "positive",
+        "pretty good"
+      ],
+      [
+        "salmon",
+        "food quality",
+        "positive",
+        "much better"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "Great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "FAVORITE"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "this place",
+        "restaurant general",
+        "positive",
+        "like"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "like"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "survice",
+        "service general",
+        "positive",
+        "Great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "survice",
+        "service general",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "decor",
+        "ambience general",
+        "positive",
+        "impressed"
+      ],
+      [
+        "food",
+        "food quality",
+        "positive",
+        "impressed"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "hospitality"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "food style_options",
+        "negative",
+        "covered in a glaze of some kin"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "negative",
+        "Not impressive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "great"
+      ],
+      [
+        "wine list",
+        "drinks style_options",
+        "positive",
+        "great"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "great"
+      ],
+      [
+        "neighborhood",
+        "location general",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "meal",
+        "food quality",
+        "negative",
+        "disgusted"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "blacklisted"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "thread",
+        "restaurant general",
+        "negative",
+        "trying to start"
+      ],
+      [
+        "positive reviews",
+        "restaurant general",
+        "positive",
+        "stock"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative",
+        "start a new thread so they can stock it with positive reviews"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "BEST",
+        "service general",
+        "positive",
+        "One of the"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "BEST"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "This",
+        "restaurant general",
+        "positive",
+        "place"
+      ],
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "a must visit !"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "must visit"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "space",
+        "restaurant general",
+        "neutral",
+        "be prepared"
+      ],
+      [
+        "food",
+        "food general",
+        "positive",
+        "be richly rewarded"
+      ],
+      [
+        "food",
+        "food general",
+        "positive",
+        "savor the delicious"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "space",
+        "restaurant miscellaneous",
+        "negative",
+        "limited"
+      ],
+      [
+        "indo-chinese food",
+        "food quality",
+        "positive",
+        "delicious"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "brasserie",
+        "restaurant general",
+        "positive",
+        "good"
+      ],
+      [
+        "brasserie",
+        "restaurant prices",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "great"
+      ],
+      [
+        "food",
+        "food quality",
+        "positive",
+        "tasty"
+      ],
+      [
+        "sitting space",
+        "ambience general",
+        "negative",
+        "too small"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "best",
+        "restaurant general",
+        "positive",
+        "best"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "order",
+        "restaurant miscellaneous",
+        "negative",
+        "delivered"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "delivered us someone else 's order"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "omlette",
+        "food quality",
+        "positive",
+        "great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "omlette for brunch",
+        "food quality",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "waitress",
+        "service general",
+        "negative",
+        "was not attentive at all"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "waitress",
+        "service general",
+        "negative",
+        "not attentive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "no apology",
+        "service general",
+        "negative",
+        "no apology"
+      ],
+      [
+        "drink to make up for it",
+        "drinks prices",
+        "positive",
+        "drink to make up for it"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "no apology"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food general",
+        "positive",
+        "Excellent"
+      ],
+      [
+        "interior",
+        "location general",
+        "negative",
+        "could use some help"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "Excellent"
+      ],
+      [
+        "interior",
+        "ambience general",
+        "negative",
+        "help"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "no apology "
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "Fabulous"
+      ],
+      [
+        "front of house staff",
+        "service general",
+        "negative",
+        "put you off"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "order a drink",
+        "drinks prices",
+        "negative",
+        "try to"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "girl",
+        "service general",
+        "negative",
+        "frizzy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "DJ",
+        "restaurant general",
+        "positive",
+        "awesome"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "neutral",
+        "I have been there"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "DJ",
+        "ambience general",
+        "positive",
+        "awesome"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "keep going back"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "atmosphere",
+        "ambience general",
+        "positive",
+        "Cool"
+      ],
+      [
+        "fire place",
+        "ambience general",
+        "positive",
+        "really ads to it"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "abused",
+        "restaurant general",
+        "negative",
+        "abused"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "negative",
+        "abused"
+      ],
+      [
+        "restaurant",
+        "restaurant prices",
+        "negative",
+        "abused"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "Amazing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "decor",
+        "ambience general",
+        "positive",
+        "cool"
+      ],
+      [
+        "pita",
+        "food quality",
+        "positive",
+        "good"
+      ],
+      [
+        "hummus",
+        "food quality",
+        "positive",
+        "good"
+      ],
+      [
+        "grilled octopus",
+        "food quality",
+        "positive",
+        "tasty"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "eggplant",
+        "food style_options",
+        "positive",
+        "eggplant"
+      ],
+      [
+        "pastas",
+        "food style_options",
+        "positive",
+        "pastas"
+      ],
+      [
+        "eggplant pizza",
+        "food style_options",
+        "positive",
+        "their"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "eggplant pizza",
+        "food quality",
+        "positive",
+        "LOOOVE"
+      ],
+      [
+        "pastas",
+        "food quality",
+        "positive",
+        "LOOOVE"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Shabu Shabu",
+        "restaurant general",
+        "positive",
+        "Great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Shabu Shabu",
+        "food quality",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "BEST"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "over priced",
+        "restaurant prices",
+        "negative",
+        "over priced"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food prices",
+        "negative",
+        "over priced"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "negative",
+        "expect better"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "negative",
+        "expect better"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "romantic",
+        "restaurant general",
+        "positive",
+        "nice"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "nice romantic"
+      ],
+      [
+        "place",
+        "ambience general",
+        "positive",
+        "nice romantic"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food general",
+        "neutral",
+        "is all shared"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food style_options",
+        "positive",
+        "shared"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "ports",
+        "location general",
+        "negative",
+        "did not know"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "waitress",
+        "service general",
+        "negative",
+        "did not know"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "waitress",
+        "service general",
+        "negative",
+        "insane"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "decor",
+        "food style_options",
+        "negative",
+        "not very pleasant"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "decor",
+        "ambience general",
+        "negative",
+        "not very pleasant"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "scale",
+        "restaurant general",
+        "positive",
+        "world-beater"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "NULL"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "world-beater"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "extremely fast and attentive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "fast"
+      ],
+      [
+        "service",
+        "service general",
+        "positive",
+        "attentive"
+      ],
+      [
+        "service button",
+        "service general",
+        "positive",
+        "thanks to"
+      ],
+      [
+        "waiter",
+        "service general",
+        "negative",
+        "barely understood"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "hastily put the table together for us"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food prices",
+        "neutral",
+        "priced"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "flavorful"
+      ],
+      [
+        "food",
+        "food style_options",
+        "positive",
+        "plentiful"
+      ],
+      [
+        "food",
+        "food prices",
+        "positive",
+        "reasonably priced"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "dinner",
+        "food prices",
+        "negative",
+        "would not expect this"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "dinner",
+        "food quality",
+        "negative",
+        "would not expect"
+      ],
+      [
+        "dinner",
+        "food prices",
+        "negative",
+        "$ 55"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "server",
+        "service general",
+        "positive",
+        "enhanced the fun"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "server",
+        "service general",
+        "negative",
+        "enhanced"
+      ],
+      [
+        "appetizer",
+        "food quality",
+        "positive",
+        "delicious"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "place",
+        "location general",
+        "positive",
+        "place"
+      ],
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "classy and beautiful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "ambience general",
+        "positive",
+        "classy"
+      ],
+      [
+        "place",
+        "ambience general",
+        "positive",
+        "beautiful"
+      ],
+      [
+        "place",
+        "restaurant prices",
+        "negative",
+        "target the uber whealthy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "place",
+        "location general",
+        "positive",
+        "place"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "restaurant miscellaneous",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Indian Restaurant",
+        "restaurant general",
+        "positive",
+        "Best"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Indian Restaurant",
+        "restaurant general",
+        "positive",
+        "Best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lobster",
+        "food quality",
+        "positive",
+        "was good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lobster",
+        "food quality",
+        "neutral",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "veal",
+        "food quality",
+        "positive",
+        "incredible"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "veal",
+        "food quality",
+        "positive",
+        "incredible"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "Highly recommended"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Bison",
+        "restaurant general",
+        "positive",
+        "excellent"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Bison",
+        "food quality",
+        "positive",
+        "excellent"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "kimchee",
+        "food quality",
+        "negative",
+        "disgusting"
+      ],
+      [
+        "Korean fair",
+        "food quality",
+        "negative",
+        "mediocre"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "place",
+        "restaurant prices",
+        "negative",
+        "seems a bit pricey"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Bark",
+        "restaurant prices",
+        "negative",
+        "pricey"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "indian chinese",
+        "food style_options",
+        "positive",
+        "great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "indian chinese food",
+        "food quality",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "dishes",
+        "food quality",
+        "neutral",
+        "was n't too impressed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "place",
+        "location general",
+        "positive",
+        "beautiful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "ambience general",
+        "positive",
+        "beautiful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Impressed",
+        "restaurant general",
+        "positive",
+        "Impressed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "Impressed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "looks",
+        "ambience general",
+        "positive",
+        "exceeds"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Maitre-D-",
+        "restaurant general",
+        "negative",
+        "Eat and get out"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Maitre-D",
+        "service general",
+        "negative",
+        "get out"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bartender",
+        "restaurant general",
+        "negative",
+        "add"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "drinks quality",
+        "negative",
+        "forgotten"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "environment",
+        "ambience general",
+        "negative",
+        "upscale"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "environment",
+        "ambience general",
+        "neutral",
+        "upscale"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "this",
+        "location general",
+        "positive",
+        "recommend"
+      ],
+      [
+        "place",
+        "location general",
+        "positive",
+        "beautiful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "ambience general",
+        "positive",
+        "recommend"
+      ],
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "beautiful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "experience",
+        "restaurant general",
+        "negative",
+        "bad"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "bad"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative",
+        "so much money"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "cost",
+        "restaurant prices",
+        "negative",
+        "cost"
+      ],
+      [
+        "experience",
+        "restaurant general",
+        "negative",
+        "experience"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "unpleasant"
+      ],
+      [
+        "NULL",
+        "restaurant prices",
+        "negative",
+        "costly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "gross"
+      ],
+      [
+        "New York",
+        "location general",
+        "negative",
+        "NULL"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "gross"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "everyone",
+        "restaurant general",
+        "neutral",
+        "everyone"
+      ],
+      [
+        "cheerful",
+        "service general",
+        "positive",
+        "cheerful"
+      ],
+      [
+        "helpful",
+        "service general",
+        "positive",
+        "helpful"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "cheerfully cooperative"
+      ],
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "helpful"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "dish",
+        "food general",
+        "negative",
+        "mess"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "dish",
+        "food quality",
+        "negative",
+        "mess"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "place",
+        "restaurant general",
+        "negative",
+        "not inviting"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "ambience general",
+        "negative",
+        "not inviting"
+      ],
+      [
+        "food",
+        "food quality",
+        "negative",
+        "weird"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "seafood entree",
+        "food general",
+        "positive",
+        "very good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "family seafood entree",
+        "food quality",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "no",
+        "restaurant general",
+        "negative",
+        "no"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "no negatives"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Price",
+        "drinks prices",
+        "negative",
+        "Price is high"
+      ],
+      [
+        "food",
+        "food general",
+        "positive",
+        "the food is good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "good"
+      ],
+      [
+        "food",
+        "food prices",
+        "negative",
+        "high"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "come back"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "UNPLEASANT"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Williamsburg",
+        "location general",
+        "negative",
+        "Garbage"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "Garbage"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "drinks",
+        "drinks prices",
+        "negative",
+        "Eh"
+      ],
+      [
+        "drinks",
+        "drinks quality",
+        "negative",
+        "ok"
+      ],
+      [
+        "drinks",
+        "drinks style_options",
+        "neutral",
+        "to say the least"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "bar drinks",
+        "drinks quality",
+        "negative",
+        "ok"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "taste",
+        "food quality",
+        "positive",
+        "original"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive",
+        "Great"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive",
+        "original"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "neutral",
+        "Thank you"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "neutral",
+        "everyone"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Water 's Edge",
+        "restaurant general",
+        "positive",
+        "Thank you"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "flank steak",
+        "food quality",
+        "positive",
+        "good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "flank steak",
+        "food quality",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "negative",
+        "repulsive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "going",
+        "restaurant general",
+        "neutral",
+        "time"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "positive",
+        "have a hard time going anywhere else"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "time",
+        "restaurant general",
+        "positive",
+        "nice time"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "nice"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "horrible"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "speechless"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "negative",
+        "leaves much to be desired"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "negative",
+        "leaves much to be desired"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "service",
+        "service general",
+        "neutral",
+        "service"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "service",
+        "service general",
+        "positive",
+        "problem"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "drink menu",
+        "drinks prices",
+        "positive",
+        "their"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "drink menu",
+        "drinks style_options",
+        "positive",
+        "Love"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food general",
+        "neutral",
+        "was great"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "pizza",
+        "food quality",
+        "negative",
+        "so overrated"
+      ],
+      [
+        "pizza",
+        "food quality",
+        "negative",
+        "under cooked"
+      ],
+      [
+        "pizza",
+        "food general",
+        "neutral",
+        "I think"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "pizza",
+        "food quality",
+        "negative",
+        "overrated"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "margherita pizza",
+        "food general",
+        "positive",
+        "pizza"
+      ],
+      [
+        "they",
+        "food general",
+        "positive",
+        "they"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "margherita pizza",
+        "food quality",
+        "positive",
+        "like"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "waitress",
+        "service general",
+        "negative",
+        "speechless"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "booth",
+        "restaurant general",
+        "neutral",
+        "private booths"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "private booths",
+        "ambience general",
+        "positive",
+        "ushered"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        ".",
+        "food general",
+        "positive",
+        "Lamb special"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Lamb special",
+        "food quality",
+        "positive",
+        "perfect"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "Loved"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "Loved"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Bark",
+        "restaurant general",
+        "positive",
+        "happy"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Bark",
+        "restaurant general",
+        "positive",
+        "worth"
+      ],
+      [
+        "NULL",
+        "food quality",
+        "positive",
+        "happy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food general",
+        "positive",
+        "amazing"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Decor",
+        "ambience general",
+        "negative",
+        "upgraded"
+      ],
+      [
+        "food",
+        "food quality",
+        "positive",
+        "amazing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "eating",
+        "food general",
+        "positive",
+        "eating"
+      ],
+      [
+        "there",
+        "location general",
+        "neutral",
+        "there"
+      ],
+      [
+        "morning",
+        "location general",
+        "neutral",
+        "morning"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "had fun"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Delivery",
+        "restaurant general",
+        "negative",
+        "depending"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Delivery",
+        "service general",
+        "negative",
+        "lacking"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "beverage",
+        "drinks prices",
+        "negative",
+        "received"
+      ],
+      [
+        "hooka",
+        "restaurant miscellaneous",
+        "negative",
+        "received"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "still had not received"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "meal",
+        "food quality",
+        "positive",
+        "Best meal"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "meal",
+        "food quality",
+        "positive",
+        "Best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "this",
+        "restaurant general",
+        "positive",
+        "on"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "sold on"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "do not recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Pacifico",
+        "restaurant general",
+        "positive",
+        "a great place to casually hang out"
+      ],
+      [
+        "hang out",
+        "restaurant general",
+        "positive",
+        "casual"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Pacifico",
+        "restaurant miscellaneous",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Vanison",
+        "restaurant general",
+        "positive",
+        "was good"
+      ],
+      [
+        "Vanison",
+        "restaurant general",
+        "negative",
+        "not amazing"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Vanison",
+        "food quality",
+        "neutral",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "Would NEVER go back"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "NEVER go back"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Service",
+        "service general",
+        "neutral",
+        "ok"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Service",
+        "service general",
+        "negative",
+        "unfriendly"
+      ],
+      [
+        "bathroom",
+        "ambience general",
+        "negative",
+        "filthy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "refund",
+        "restaurant prices",
+        "negative",
+        "I wish"
+      ],
+      [
+        "refund",
+        "restaurant prices",
+        "negative",
+        "COULD"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "refunded"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "comeback"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "vegetables",
+        "food general",
+        "negative",
+        "steamed"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "vegetarian dish",
+        "food style_options",
+        "negative",
+        "minus sauce , seasoning , or any form or aesthetic presentation"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant prices",
+        "negative",
+        "too much money"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "treated terribly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "veal",
+        "food quality",
+        "positive",
+        "cooked perfectly"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "veal",
+        "food quality",
+        "positive",
+        "perfectly"
+      ],
+      [
+        "mushrooms",
+        "food quality",
+        "positive",
+        "perfectly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "table",
+        "restaurant general",
+        "negative",
+        "waiting"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "never received"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food general",
+        "positive",
+        "good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "sashimi",
+        "food quality",
+        "positive",
+        "Excellent"
+      ],
+      [
+        "millennium roll",
+        "food quality",
+        "positive",
+        "delicious"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "atmosphere",
+        "ambience general",
+        "positive",
+        "relaxed"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Restaurant",
+        "restaurant general",
+        "positive",
+        "with a view"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "view",
+        "location general",
+        "neutral",
+        "with a view"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "salmon",
+        "food general",
+        "negative",
+        "fishy"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "salmon",
+        "food quality",
+        "negative",
+        "fishy"
+      ],
+      [
+        "salmon",
+        "food quality",
+        "negative",
+        "dry"
+      ],
+      [
+        "salmon",
+        "food quality",
+        "negative",
+        "bland"
+      ],
+      [
+        "salmon",
+        "food prices",
+        "negative",
+        "$ 24"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "food"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "Maggot"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "we",
+        "restaurant general",
+        "neutral",
+        "were told"
+      ],
+      [
+        "we",
+        "restaurant general",
+        "negative",
+        "more like"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "45 minutes"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "was majorly disappointing"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "disappointing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "place"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "love"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Way",
+        "restaurant general",
+        "negative",
+        "below average"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "below average"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "Never"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "Never got an explanation"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "atmosphere",
+        "ambience general",
+        "positive",
+        "come back"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "restaurant general",
+        "negative",
+        "retrain"
+      ],
+      [
+        "staff",
+        "restaurant general",
+        "negative",
+        "retrain"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "negative",
+        "retrain"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "luke warm"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "negative",
+        "luke warm"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive",
+        "Best"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "rudeness"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "toilet",
+        "restaurant general",
+        "negative",
+        "over the toilet"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative",
+        "doubled over the toilet"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hassle",
+        "restaurant general",
+        "negative",
+        "What a hassle"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "negative",
+        "hassle"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "drinks",
+        "drinks style_options",
+        "positive",
+        "what we did enjoy"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "drinks",
+        "drinks quality",
+        "positive",
+        "enjoy"
+      ],
+      [
+        "appetizers",
+        "food quality",
+        "positive",
+        "enjoy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Chinese",
+        "food general",
+        "positive",
+        "style"
+      ],
+      [
+        "Indian",
+        "food general",
+        "positive",
+        "style"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "ambience general",
+        "neutral",
+        "fancy"
+      ],
+      [
+        "Chinese style Indian food",
+        "food quality",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "romantic"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "ambience general",
+        "positive",
+        "Gorgeous"
+      ],
+      [
+        "place",
+        "restaurant miscellaneous",
+        "positive",
+        "ideal"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bestt",
+        "food general",
+        "positive",
+        "bestt"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "bestt"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "wait staff",
+        "service general",
+        "positive",
+        "courteous"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "keep",
+        "restaurant general",
+        "positive",
+        "going back"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "going back"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "meal",
+        "food quality",
+        "positive",
+        "good"
+      ],
+      [
+        "meal",
+        "food prices",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sake",
+        "drinks quality",
+        "positive",
+        "sake"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "sake",
+        "drinks quality",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "sushi",
+        "food quality",
+        "negative",
+        "ruined"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "sushi",
+        "food quality",
+        "positive",
+        "ruined"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "got nothing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "spot",
+        "location general",
+        "positive",
+        "favorite"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "favorite"
+      ],
+      [
+        "NULL",
+        "ambience general",
+        "positive",
+        "relaxing"
+      ],
+      [
+        "food",
+        "food quality",
+        "positive",
+        "great"
+      ],
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "positive",
+        "well organized"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive",
+        "worth"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "dreamy",
+        "restaurant general",
+        "positive",
+        "designed"
+      ],
+      [
+        "sceney",
+        "restaurant general",
+        "negative",
+        "at night"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Egyptian restaurant",
+        "ambience general",
+        "positive",
+        "dreamy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "waiter",
+        "restaurant general",
+        "neutral",
+        "than"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "waiter",
+        "service general",
+        "negative",
+        "asked again"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food quality",
+        "neutral",
+        "food"
+      ],
+      [
+        "food",
+        "food general",
+        "negative",
+        "food"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "neutral",
+        "ok"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "dessert",
+        "food general",
+        "positive",
+        "good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "pear torte",
+        "food quality",
+        "positive",
+        "good"
+      ],
+      [
+        "staff",
+        "service general",
+        "negative",
+        "unable to provide"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "dishes",
+        "food quality",
+        "negative",
+        "oily"
+      ],
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "courses",
+        "drinks quality",
+        "positive",
+        "like"
+      ],
+      [
+        "courses",
+        "food general",
+        "positive",
+        "like"
+      ],
+      [
+        "servers",
+        "service general",
+        "positive",
+        "patient"
+      ],
+      [
+        "servers",
+        "service general",
+        "positive",
+        "never rush"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "servers",
+        "service general",
+        "positive",
+        "patient"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "they",
+        "restaurant general",
+        "neutral",
+        "do"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "neutral",
+        "come with cash"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "bartender",
+        "service general",
+        "negative",
+        "immature"
+      ],
+      [
+        "service",
+        "service general",
+        "negative",
+        "slowwwww"
+      ],
+      [
+        "food",
+        "food quality",
+        "negative",
+        "not fresh or warm"
+      ],
+      [
+        "waitresses",
+        "service general",
+        "negative",
+        "werent very attentive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "PLACE",
+        "restaurant general",
+        "negative",
+        "WORST"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "margherita",
+        "food quality",
+        "positive",
+        "pizza"
+      ],
+      [
+        "margherita",
+        "food style_options",
+        "positive",
+        "pizza"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "margherita pizza",
+        "food quality",
+        "positive",
+        "cirspy crust"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "good",
+        "restaurant general",
+        "negative",
+        "good"
+      ],
+      [
+        "all",
+        "restaurant general",
+        "negative",
+        "all"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative",
+        "not good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "place",
+        "restaurant general",
+        "negative",
+        "tiny"
+      ],
+      [
+        "place",
+        "restaurant general",
+        "negative",
+        "wait"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "restaurant miscellaneous",
+        "negative",
+        "tiny"
+      ],
+      [
+        "place",
+        "ambience general",
+        "negative",
+        "tiny"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "half/half",
+        "food general",
+        "positive",
+        "had"
+      ],
+      [
+        "buffalo",
+        "food general",
+        "positive",
+        "it"
+      ],
+      [
+        "huge",
+        "food general",
+        "positive",
+        "for"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "half/half pizza",
+        "food style_options",
+        "positive",
+        "huge"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "beverage",
+        "drinks style_options",
+        "negative",
+        "never received them"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "never received"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Hooka",
+        "drinks prices",
+        "negative",
+        "never returning"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "waiter",
+        "service general",
+        "negative",
+        "asked for Hooka six times"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "love",
+        "ambience general",
+        "positive",
+        "love"
+      ],
+      [
+        "love",
+        "ambience general",
+        "positive",
+        "love"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "love"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "service general",
+        "negative",
+        "bad"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "negative",
+        "bad"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "arguing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "spend",
+        "restaurant prices",
+        "positive",
+        "prepare"
+      ],
+      [
+        "complimentary",
+        "restaurant miscellaneous",
+        "positive",
+        "ask"
+      ],
+      [
+        "Indian food",
+        "food general",
+        "positive",
+        "go"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Indian food",
+        "food quality",
+        "positive",
+        "the place to go"
+      ],
+      [
+        "place",
+        "restaurant prices",
+        "positive",
+        "complimentary"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "side dishes",
+        "food quality",
+        "neutral",
+        "passable"
+      ],
+      [
+        "side dishes",
+        "food style_options",
+        "positive",
+        "refill"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "rolls",
+        "food quality",
+        "positive",
+        "great"
+      ],
+      [
+        "triple color and norwegetan rolls",
+        "food quality",
+        "positive",
+        "awesome"
+      ],
+      [
+        "triple color and norwegetan rolls",
+        "food style_options",
+        "positive",
+        "filling"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "chicken",
+        "food quality",
+        "negative",
+        "weakness"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "chicken in the salads",
+        "food quality",
+        "negative",
+        "weakness"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "always fresh"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "food",
+        "food quality",
+        "positive",
+        "fresh"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "food",
+        "food general",
+        "positive",
+        "great spot"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "spot",
+        "restaurant general",
+        "positive",
+        "great"
+      ],
+      [
+        "food",
+        "food quality",
+        "positive",
+        "great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive",
+        "nice and clean"
+      ],
+      [
+        "restaurant",
+        "restaurant general",
+        "positive",
+        "clean"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "restaurant",
+        "restaurant general",
+        "positive",
+        "nice"
+      ],
+      [
+        "restaurant",
+        "ambience general",
+        "positive",
+        "clean"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Seafood Dynamite",
+        "food general",
+        "positive",
+        "worldly"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Seafood Dynamite",
+        "food quality",
+        "positive",
+        "otherworldly"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "rude"
+      ],
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "rude"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "rude"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bar",
+        "restaurant general",
+        "positive",
+        "were ushered"
+      ],
+      [
+        "arrival",
+        "restaurant general",
+        "positive",
+        "excited"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "excited"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Most",
+        "restaurant general",
+        "positive",
+        "Most"
+      ],
+      [
+        "Romantic",
+        "restaurant general",
+        "positive",
+        "Romantic"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Restaurant",
+        "ambience general",
+        "positive",
+        "Romantic"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "bad",
+        "drinks quality",
+        "negative",
+        "was"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "restaurant general",
+        "negative",
+        "bad"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "atmosphere",
+        "food general",
+        "positive",
+        "pretty nice"
+      ],
+      [
+        "mirror",
+        "restaurant miscellaneous",
+        "neutral",
+        "a bit lacking"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "atmosphere",
+        "ambience general",
+        "negative",
+        "nice"
+      ],
+      [
+        "scheme of mirrors",
+        "ambience general",
+        "negative",
+        "crazy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "negative",
+        "not real"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Experience",
+        "restaurant general",
+        "positive",
+        "Good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "Good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "interior",
+        "ambience general",
+        "negative",
+        "Mazing"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Dancing",
+        "restaurant general",
+        "positive",
+        "musts"
+      ],
+      [
+        "rolls",
+        "drinks style_options",
+        "positive",
+        "musts"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Dancing , White River and Millenium rolls",
+        "food quality",
+        "positive",
+        "musts"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "hot dogs",
+        "food quality",
+        "positive",
+        "juicy and tender"
+      ],
+      [
+        "hot dogs",
+        "food quality",
+        "positive",
+        "crunch and snap"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "hot dogs",
+        "food quality",
+        "positive",
+        "juicy"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "meals",
+        "food general",
+        "positive",
+        "good"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant general",
+        "positive",
+        "good"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Al Di La",
+        "restaurant general",
+        "negative",
+        "grunt"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staff",
+        "service general",
+        "negative",
+        "grunt"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Hot",
+        "food general",
+        "positive",
+        "Hot"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Hot Dogs",
+        "food quality",
+        "positive",
+        "Great"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "SERVICE",
+        "service general",
+        "positive",
+        "AMAZING"
+      ],
+      [
+        "waiters",
+        "service general",
+        "positive",
+        "nice"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "place",
+        "restaurant general",
+        "neutral",
+        "recommend"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "place",
+        "restaurant general",
+        "positive",
+        "recommend"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "spot",
+        "location general",
+        "neutral",
+        "hidden"
+      ],
+      [
+        "unmarked wooden doors",
+        "ambience general",
+        "positive",
+        "feel like you ’ re no longer in the city"
+      ],
+      [
+        "décor",
+        "ambience general",
+        "positive",
+        "intimate"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "positive",
+        "welcome"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "chicken",
+        "food quality",
+        "negative",
+        "on it"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "service general",
+        "negative",
+        "TWENTY minutes later"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "food style_options",
+        "negative",
+        "served with skin"
+      ],
+      [
+        "spinach",
+        "food quality",
+        "negative",
+        "undercooked"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Delicious",
+        "food quality",
+        "positive",
+        "Delicious"
+      ],
+      [
+        "creative",
+        "restaurant general",
+        "positive",
+        "creative"
+      ],
+      [
+        "fun",
+        "restaurant general",
+        "positive",
+        "fun"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "food quality",
+        "positive",
+        "Delicious"
+      ],
+      [
+        "NULL",
+        "food style_options",
+        "positive",
+        "creative"
+      ],
+      [
+        "NULL",
+        "food style_options",
+        "positive",
+        "fun"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "only",
+        "restaurant miscellaneous",
+        "negative",
+        "down"
+      ],
+      [
+        "cash",
+        "drinks prices",
+        "negative",
+        "take"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "restaurant miscellaneous",
+        "negative",
+        "downside"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "selection of bottled beer",
+        "drinks style_options",
+        "negative",
+        "Not much"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "The Four Seasons",
+        "restaurant general",
+        "neutral",
+        "–"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "The Four Seasons",
+        "restaurant prices",
+        "negative",
+        "charge an arm and a leg"
+      ]
+    ]
+  }
+]

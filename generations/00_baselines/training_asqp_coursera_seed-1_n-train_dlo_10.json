@@ -1,0 +1,7029 @@
+{
+    "scores": {
+        "precision": 0.03740648379052369,
+        "recall": 0.029880478087649404,
+        "f1": 0.03322259136212624
+    },
+    "all_labels": [
+        [
+            [
+                "course value",
+                "NULL",
+                "bad",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Thank you"
+            ],
+            [
+                "faculty general",
+                "Professors Emily and Carlos",
+                "great",
+                "valuable gift of sharing knowledge for free"
+            ]
+        ],
+        [
+            [
+                "faculty response",
+                "staffs",
+                "great",
+                "reply on Discussion forum as well"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "content and the exercises",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "challenging because it is good"
+            ]
+        ],
+        [
+            [
+                "course workload",
+                "NULL",
+                "bad",
+                "absolutely crushed trying to learn and understand all this"
+            ]
+        ],
+        [
+            [
+                "presentation comprehensiveness",
+                "lectures",
+                "great",
+                "easy to follow and explain all points very clearly"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "so glad"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "would recommend"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Really liked"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "short lectures",
+                "bad",
+                "loved"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "all seems rushed and not rewarding"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Thanks"
+            ]
+        ],
+        [
+            [
+                "material quantity",
+                "amount of material",
+                "ok",
+                "NULL"
+            ],
+            [
+                "course general",
+                "course",
+                "great",
+                "highly recommended"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "material",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "courses",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "awesome"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "exceptionally well put together"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "final assignment",
+                "bad",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "Very poorly constructed"
+            ],
+            [
+                "assignments quality",
+                "final exam",
+                "bad",
+                "Very poorly constructed"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Just what I was looking for"
+            ]
+        ],
+        [
+            [
+                "assignments workload",
+                "project",
+                "great",
+                "plenty of time to finish"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "MOOC",
+                "great",
+                "best"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "assignment",
+                "bad",
+                "badly designed"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "so much fun"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "very interesting"
+            ],
+            [
+                "course general",
+                "course",
+                "great",
+                "highly recommend"
+            ]
+        ],
+        [
+            [
+                "material quantity",
+                "supplemental document",
+                "ok",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Great job"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "class",
+                "great",
+                "right amount of challenge and fun"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course into multiple separate",
+                "ok",
+                "recommend breaking"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "Would have preferred more flesh"
+            ]
+        ],
+        [
+            [
+                "faculty response",
+                "quiz questions",
+                "ok",
+                "only be answered if the assignment is completed correctly"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments comprehensiveness",
+                "Week 3 assignment",
+                "bad",
+                "hardest"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "good"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "very flexible"
+            ]
+        ],
+        [
+            [
+                "faculty comprehensiveness",
+                "Ng",
+                "great",
+                "speaks clearly"
+            ],
+            [
+                "faculty comprehensiveness",
+                "Ng",
+                "great",
+                "easy to follow"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Very good"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "very interesting"
+            ],
+            [
+                "course quality",
+                "course",
+                "great",
+                "plentiful"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "Top Quality"
+            ],
+            [
+                "faculty general",
+                "Professor",
+                "great",
+                "Top Quality"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Professor",
+                "great",
+                "really knows his job"
+            ],
+            [
+                "faculty general",
+                "Professor",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "content",
+                "great",
+                "well designed"
+            ]
+        ],
+        [
+            [
+                "course value",
+                "NULL",
+                "ok",
+                "would prefer for some quizzes not to be locked"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "quality"
+            ],
+            [
+                "course value",
+                "NULL",
+                "great",
+                "free"
+            ]
+        ],
+        [
+            [
+                "material comprehensiveness",
+                "NULL",
+                "bad",
+                "expect to read documentation if you get stuck"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "course",
+                "ok",
+                "could be arranged in a more logical and coherent way"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Loved it throughout"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "has two great projects"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "superb"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "bad",
+                "not just highly interesting"
+            ],
+            [
+                "course quality",
+                "course",
+                "great",
+                "extremely practical"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "super"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "little more than a commercial"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Dr. BArbara Oakley and Dr. Sejnowsky",
+                "great",
+                "NULL"
+            ],
+            [
+                "course comprehensiveness",
+                "course",
+                "great",
+                "NULL"
+            ],
+            [
+                "course general",
+                "course",
+                "great",
+                "better"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "enjoyed"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "NULL",
+                "great",
+                "wonderful and straight"
+            ]
+        ],
+        [
+            [
+                "presentation quantity",
+                "video",
+                "ok",
+                "should add"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Thanks very much"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Thank you"
+            ]
+        ],
+        [
+            [
+                "faculty response",
+                "instructors",
+                "bad",
+                "never showed up"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "very detailed"
+            ],
+            [
+                "course workload",
+                "NULL",
+                "bad",
+                "takes a bit more than 2 - 3 hours per week"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "very very interesting"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Learned something new almost everyday"
+            ]
+        ],
+        [
+            [
+                "material comprehensiveness",
+                "NULL",
+                "bad",
+                "did not make sense"
+            ]
+        ],
+        [
+            [
+                "faculty relatability",
+                "NULL",
+                "great",
+                "it's really useful"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "Courses",
+                "great",
+                "Best"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "professor",
+                "great",
+                "describe all courses with clam and very kindly"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "lessons",
+                "great",
+                "Incredible"
+            ],
+            [
+                "course comprehensiveness",
+                "lessons",
+                "great",
+                "easy to understand"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "very practical approach to the language"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "really great"
+            ]
+        ],
+        [
+            [
+                "faculty comprehensiveness",
+                "lecturer",
+                "great",
+                "appreciated"
+            ],
+            [
+                "presentation quality",
+                "videos",
+                "great",
+                "worthwhile"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "changes the way you study"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "material",
+                "bad",
+                "didn't find interesting"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "bad",
+                "very basic"
+            ],
+            [
+                "material quantity",
+                "material",
+                "bad",
+                "could have included more"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "George Siedel",
+                "great",
+                "best teacher"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "one of the best"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "class",
+                "great",
+                "so glad"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "bad",
+                "merely a starter"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "really enjoyed"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Very in - depth introductory learning"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "bad",
+                "could be much more valuable"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "video lectures",
+                "great",
+                "carefully created"
+            ]
+        ],
+        [
+            [
+                "assignments workload",
+                "assignments",
+                "bad",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course relatability",
+                "content",
+                "great",
+                "intuitive enough"
+            ],
+            [
+                "course relatability",
+                "content",
+                "great",
+                "apply them in various contexts"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "professor",
+                "great",
+                "excellent"
+            ],
+            [
+                "course quality",
+                "course material",
+                "great",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "teacher",
+                "great",
+                "absolute wonderful"
+            ],
+            [
+                "faculty comprehensiveness",
+                "teacher",
+                "great",
+                "easy"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "Videos",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Justin - Nicholas Toytama",
+                "bad",
+                "horrendous"
+            ],
+            [
+                "course general",
+                "COURSE",
+                "bad",
+                "DO NOT TAKE"
+            ]
+        ],
+        [
+            [
+                "course relatability",
+                "NULL",
+                "great",
+                "relatable"
+            ],
+            [
+                "presentation comprehensiveness",
+                "NULL",
+                "great",
+                "easy to follow"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "allows to understand the peculiarities"
+            ]
+        ],
+        [
+            [
+                "assignments comprehensiveness",
+                "assignment questions",
+                "bad",
+                "often nebulous"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Good"
+            ],
+            [
+                "course general",
+                "NULL",
+                "great",
+                "fast"
+            ]
+        ],
+        [
+            [
+                "faculty response",
+                "NULL",
+                "great",
+                "very sensitive"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "excellent"
+            ],
+            [
+                "presentation quality",
+                "video lectures",
+                "great",
+                "very good"
+            ],
+            [
+                "assignments quality",
+                "assignments",
+                "great",
+                "well designed"
+            ]
+        ],
+        [
+            [
+                "presentation relatability",
+                "videos",
+                "great",
+                "use of real - life examples"
+            ],
+            [
+                "assignments relatability",
+                "programming exercises",
+                "great",
+                "use of real - life examples"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "lectures",
+                "bad",
+                "need more clarity and better instruction quality"
+            ],
+            [
+                "presentation comprehensiveness",
+                "explanations",
+                "bad",
+                "need more clarity and better instruction quality"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "provides a suite of tools and techniques"
+            ]
+        ],
+        [
+            [
+                "assignments workload",
+                "assignments",
+                "bad",
+                "tedious filler"
+            ],
+            [
+                "assignments quality",
+                "assignments",
+                "bad",
+                "very poorly worded"
+            ]
+        ],
+        [
+            [
+                "assignments comprehensiveness",
+                "NULL",
+                "bad",
+                "confusing"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "lifesaver and career builder"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "thanks"
+            ]
+        ],
+        [
+            [
+                "faculty comprehensiveness",
+                "Dr. Terrence Sejnowski",
+                "bad",
+                "incredibly difficult"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "quite easy"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Thank you"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "bad",
+                "assume everyone knows"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "really interesting"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Thanks"
+            ]
+        ],
+        [
+            [
+                "presentation comprehensiveness",
+                "NULL",
+                "great",
+                "clear"
+            ]
+        ],
+        [
+            [
+                "faculty relatability",
+                "course professor",
+                "great",
+                "used real life cases"
+            ]
+        ],
+        [
+            [
+                "assignments workload",
+                "final exam",
+                "bad",
+                "immensely difficult"
+            ],
+            [
+                "material comprehensiveness",
+                "material",
+                "bad",
+                "did not cover"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "NULL",
+                "great",
+                "more in depth"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "Only shows a bit of javascript, css, and html snippets"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "benefit a lot"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "found myself becoming less and less interested"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "assignments",
+                "bad",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "Very informative"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "instructors",
+                "ok",
+                "can change course to better"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Very nice"
+            ],
+            [
+                "course quality",
+                "course",
+                "great",
+                "solid foundation"
+            ],
+            [
+                "course relatability",
+                "course",
+                "great",
+                "great examples"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "learned a lot"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Excellent"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "best"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "well - designed"
+            ],
+            [
+                "course comprehensiveness",
+                "course",
+                "great",
+                "allows me to understand"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "bad",
+                "really needs some improving"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "Course",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "staff",
+                "great",
+                "Thanks"
+            ],
+            [
+                "faculty general",
+                "lab assistants",
+                "great",
+                "Thanks"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "material",
+                "great",
+                "presented in a very accessible manner"
+            ],
+            [
+                "assignments comprehensiveness",
+                "quizzes",
+                "great",
+                "help you master the key elements"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Thank you"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "excellent introduction"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "would suggest"
+            ],
+            [
+                "course comprehensiveness",
+                "course",
+                "great",
+                "seem easy"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Yaakov",
+                "great",
+                "Thanks"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "just great"
+            ]
+        ],
+        [
+            [
+                "faculty comprehensiveness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "ok",
+                "could have made room for just a bit more explanation"
+            ],
+            [
+                "course relatability",
+                "NULL",
+                "ok",
+                "just a few more examples of the topics covered"
+            ]
+        ],
+        [
+            [
+                "grades general",
+                "assignment",
+                "bad",
+                "auto - grader"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "bad",
+                "lot of self - teaching"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Excellent"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "course",
+                "great",
+                "very easy yet enlightening"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "exercises",
+                "bad",
+                "too easy and boring"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "NULL",
+                "bad",
+                "teaches even worse then me"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "broad"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "Information is so packed and concentrated it is amazing"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "excited"
+            ]
+        ],
+        [
+            [
+                "material relatability",
+                "reading material sources",
+                "great",
+                "relevant"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "assignments",
+                "great",
+                "challenging but enjoyable and well paced"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "assignments",
+                "bad",
+                "not well described"
+            ],
+            [
+                "grades general",
+                "autograder",
+                "bad",
+                "very finicky"
+            ]
+        ],
+        [
+            [
+                "assignments comprehensiveness",
+                "NULL",
+                "bad",
+                "did not even cover some of the questions that needed to be answered"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "exactly looking for this"
+            ]
+        ],
+        [
+            [
+                "grades general",
+                "automated grader",
+                "great",
+                "very concise and sometimes helpful feedback"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "like it very much"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "ok",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "really clear and simple"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "would be gladly doing"
+            ]
+        ],
+        [
+            [
+                "assignments relatability",
+                "excersizes",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "Course",
+                "great",
+                "Wonderful"
+            ],
+            [
+                "faculty general",
+                "Professor",
+                "great",
+                "Wonderful"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "ok",
+                "bit too simple"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "power points",
+                "great",
+                "informative and to the point"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "awesome"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "highly recommend"
+            ]
+        ],
+        [
+            [
+                "presentation comprehensiveness",
+                "videos",
+                "bad",
+                "required me to do more reading"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "really good"
+            ]
+        ],
+        [
+            [
+                "faculty response",
+                "NULL",
+                "great",
+                "Interactive"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Excellent"
+            ]
+        ],
+        [
+            [
+                "assignments workload",
+                "quiz",
+                "great",
+                "could be repeated"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "really helped"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "NULL",
+                "great",
+                "Thank you"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Simple"
+            ],
+            [
+                "course relatability",
+                "NULL",
+                "great",
+                "practical guidelines"
+            ],
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "can be followed easily"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "not easy"
+            ],
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "not easy"
+            ]
+        ],
+        [
+            [
+                "faculty comprehensiveness",
+                "Professors Emily Fox and Carlos Guestrin",
+                "great",
+                "excellent job"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "rates just three stars"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "very useful"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "lectures",
+                "great",
+                "good length"
+            ],
+            [
+                "presentation quality",
+                "lectures",
+                "great",
+                "interesting"
+            ],
+            [
+                "presentation comprehensiveness",
+                "lectures",
+                "great",
+                "very easy to understand"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "Videos",
+                "great",
+                "Perfect"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "NULL",
+                "great",
+                "Excellent teaching methodology"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "basic"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "right concepts and knowledge for developing your projects"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "loved"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "professor",
+                "great",
+                "goes slow"
+            ],
+            [
+                "presentation quality",
+                "visual aides",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "assignments comprehensiveness",
+                "tests",
+                "bad",
+                "particular are tough"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "NULL",
+                "great",
+                "Fantastic"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "lecture",
+                "great",
+                "never have experienced that awsome"
+            ]
+        ],
+        [
+            [
+                "course relatability",
+                "NULL",
+                "great",
+                "nice"
+            ],
+            [
+                "presentation quality",
+                "NULL",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "lessons",
+                "great",
+                "Smart"
+            ],
+            [
+                "presentation quality",
+                "lessons",
+                "great",
+                "casual"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "NULL",
+                "bad",
+                "not hard"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Quentin and team",
+                "great",
+                "Kudos"
+            ],
+            [
+                "course quality",
+                "course",
+                "great",
+                "thoroughly enjoyed"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "very useful"
+            ],
+            [
+                "faculty general",
+                "teachers",
+                "great",
+                "very good"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "NULL"
+            ],
+            [
+                "presentation quality",
+                "animation",
+                "great",
+                "engaged"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "better"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "teachers",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Jonathan Biss",
+                "great",
+                "great musician"
+            ],
+            [
+                "faculty comprehensiveness",
+                "Jonathan Biss",
+                "great",
+                "great job of highlighting the key points"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "course",
+                "great",
+                "highlights how easy Python is"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "learned a lot"
+            ]
+        ],
+        [
+            [
+                "faculty response",
+                "He",
+                "great",
+                "upbeat"
+            ],
+            [
+                "faculty response",
+                "He",
+                "great",
+                "energetic"
+            ],
+            [
+                "assignments quality",
+                "assignments",
+                "great",
+                "fun"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "appreciate a lot the amount of effort behind"
+            ]
+        ],
+        [
+            [
+                "course relatability",
+                "NULL",
+                "great",
+                "Really Useful"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Excellent"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "material",
+                "great",
+                "Thank you so much"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "highly pedagogical"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "NULL",
+                "great",
+                "his little smile throughout the presentations added more enthusiasm"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "changed my life"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Thank you very much"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Dr. Chuck",
+                "great",
+                "Thank you"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "very well made"
+            ],
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "balance of theory"
+            ],
+            [
+                "assignments relatability",
+                "assignments",
+                "great",
+                "practical"
+            ]
+        ],
+        [
+            [
+                "assignments comprehensiveness",
+                "quiz",
+                "bad",
+                "NULL"
+            ],
+            [
+                "presentation quality",
+                "slides, transcription of the videos",
+                "bad",
+                "NULL"
+            ],
+            [
+                "assignments quality",
+                "quizzes",
+                "bad",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "class",
+                "great",
+                "enjoyed"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "bad",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Excellent introduction"
+            ]
+        ],
+        [
+            [
+                "presentation comprehensiveness",
+                "NULL",
+                "bad",
+                "weak"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "content",
+                "great",
+                "clearly presented"
+            ],
+            [
+                "presentation comprehensiveness",
+                "NULL",
+                "great",
+                "effort in teaching shows"
+            ]
+        ],
+        [
+            [
+                "faculty comprehensiveness",
+                "NULL",
+                "great",
+                "simplifies everything"
+            ],
+            [
+                "faculty comprehensiveness",
+                "NULL",
+                "great",
+                "clear"
+            ],
+            [
+                "faculty general",
+                "NULL",
+                "great",
+                "consistent"
+            ],
+            [
+                "faculty response",
+                "NULL",
+                "great",
+                "reviews what she's said"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "I would have been lost"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "lessons",
+                "great",
+                "very clear"
+            ],
+            [
+                "presentation comprehensiveness",
+                "lessons",
+                "great",
+                "easy to follow"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Loved most"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great experience"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "Content",
+                "great",
+                "good"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "mutually understood and accepted"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "sloppy \" impression!"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "give you a sort of try to understanding"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Great"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "material",
+                "bad",
+                "NULL"
+            ],
+            [
+                "material quantity",
+                "material",
+                "bad",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "really learned a lot"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "content",
+                "great",
+                "very insightful"
+            ],
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "Course",
+                "great",
+                "strong accordance"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Prof. Silverman",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Jeff Leek",
+                "great",
+                "great professor"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "glad I made the decision"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "fantastic"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Thank you"
+            ]
+        ],
+        [
+            [
+                "presentation comprehensiveness",
+                "NULL",
+                "great",
+                "Easy to understand"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Wonderful"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "Nice and elaborative"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "Assignments",
+                "ok",
+                "individual"
+            ],
+            [
+                "assignments comprehensiveness",
+                "Assignments",
+                "bad",
+                "very difficult"
+            ],
+            [
+                "assignments quality",
+                "Assignments",
+                "bad",
+                "quite boring"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "materials",
+                "great",
+                "more theoretical"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Don't miss"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "really thought through"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Andrew Ng",
+                "great",
+                "great"
+            ],
+            [
+                "faculty comprehensiveness",
+                "Andrew Ng",
+                "great",
+                "outstanding"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "class",
+                "great",
+                "pretty nice"
+            ],
+            [
+                "presentation comprehensiveness",
+                "videos",
+                "bad",
+                "not the most easily digested"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "highly recommend"
+            ]
+        ],
+        [
+            [
+                "course value",
+                "course",
+                "great",
+                "satisfied with having paid"
+            ]
+        ],
+        [
+            [
+                "grades general",
+                "Grading",
+                "great",
+                "done as peer reviews"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Awesome"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "taught exceptionally well"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Berklee",
+                "great",
+                "Thank you"
+            ]
+        ],
+        [
+            [
+                "course workload",
+                "NULL",
+                "great",
+                "possible to go through this course pretty quickly"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "very well organised"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Marvelous"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "lesson",
+                "great",
+                "so valuable"
+            ]
+        ],
+        [
+            [
+                "assignments comprehensiveness",
+                "questions",
+                "great",
+                "very helpful"
+            ],
+            [
+                "assignments comprehensiveness",
+                "assignments",
+                "great",
+                "very very helpful too"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "teaching",
+                "bad",
+                "sloppy"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "video",
+                "bad",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "exercise",
+                "bad",
+                "nitpicky"
+            ],
+            [
+                "assignments comprehensiveness",
+                "exercise",
+                "bad",
+                "confusing"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "lessons felt very unstructured"
+            ],
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "unplanned"
+            ],
+            [
+                "course general",
+                "NULL",
+                "bad",
+                "ad hoc"
+            ],
+            [
+                "faculty comprehensiveness",
+                "NULL",
+                "bad",
+                "presenting didn't know they were being recorded"
+            ],
+            [
+                "course relatability",
+                "examples",
+                "bad",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "recommend"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "ok",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "wonderful"
+            ]
+        ],
+        [
+            [
+                "course relatability",
+                "NULL",
+                "great",
+                "Super useful"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "highly recommend"
+            ]
+        ],
+        [
+            [
+                "course relatability",
+                "course",
+                "great",
+                "good foundation for learning"
+            ]
+        ],
+        [
+            [
+                "material comprehensiveness",
+                "NULL",
+                "bad",
+                "No step - by - step examples of developed cases are shown"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Brilliant"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "very accessible"
+            ],
+            [
+                "course relatability",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "faculty comprehensiveness",
+                "He",
+                "great",
+                "makes everything so simple and easy to understand"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Dr. Charles Severance",
+                "great",
+                "Thank you"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "very good for beginners"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Teacher",
+                "great",
+                "Great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "fine"
+            ]
+        ],
+        [
+            [
+                "grades general",
+                "grades",
+                "bad",
+                "fferent standard which causes a large variation"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "seriously interested"
+            ]
+        ],
+        [
+            [
+                "grades general",
+                "grading of the exams",
+                "bad",
+                "major detracting factor"
+            ],
+            [
+                "course value",
+                "NULL",
+                "bad",
+                "complete waste of time"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Really enjoying"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Andrew Ng",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course relatability",
+                "course",
+                "great",
+                "provided me with the tools and methodology"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Awesome"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "outline is very good"
+            ],
+            [
+                "presentation quality",
+                "presentation",
+                "bad",
+                "can be monotonous"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "perfect"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Lecturer",
+                "great",
+                "Exceptionally good"
+            ],
+            [
+                "course general",
+                "course",
+                "great",
+                "Exceptionally good"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "content",
+                "great",
+                "well structured"
+            ],
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "exceptionally well"
+            ]
+        ],
+        [
+            [
+                "course value",
+                "course",
+                "great",
+                "Totally worth the time"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "content",
+                "great",
+                "Great, actual and interesting"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "very informative"
+            ],
+            [
+                "course comprehensiveness",
+                "course",
+                "great",
+                "easy to follow"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "course",
+                "great",
+                "very thorough"
+            ],
+            [
+                "course general",
+                "course",
+                "great",
+                "interesting"
+            ]
+        ],
+        [
+            [
+                "assignments comprehensiveness",
+                "assignments",
+                "bad",
+                "still not sure of how to make"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "loved"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "videos",
+                "great",
+                "discuss concepts and interviews with successful writers"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "management",
+                "bad",
+                "many many boring moments"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "lectures",
+                "great",
+                "not very interesting or instructive"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "courses",
+                "great",
+                "Good overview"
+            ],
+            [
+                "course quality",
+                "courses",
+                "great",
+                "introduction to the more detail"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "NULL",
+                "great",
+                "fulfilled my curiosity"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "carefully planned and laid out"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "bad",
+                "last part was somewhat challenging"
+            ],
+            [
+                "course comprehensiveness",
+                "course",
+                "great",
+                "learned a lot"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Proff",
+                "great",
+                "Thank you"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "videos",
+                "great",
+                "Extremely well done"
+            ],
+            [
+                "faculty comprehensiveness",
+                "Professor Sachs",
+                "great",
+                "articulate"
+            ],
+            [
+                "faculty comprehensiveness",
+                "Professor Sachs",
+                "great",
+                "clear"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Absolutely a great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "ok",
+                "wished that there was a bit more depth"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Professor Hitoshi Murayama",
+                "great",
+                "presents the course in a very unassuming and welcoming manner"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Thanks for this amazing 4 weeks"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Very good"
+            ],
+            [
+                "course quality",
+                "course",
+                "great",
+                "structured"
+            ],
+            [
+                "course comprehensiveness",
+                "course",
+                "great",
+                "easy to follow"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "very good"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "changed my life"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "highly recommended"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "true learning experience"
+            ]
+        ],
+        [
+            [
+                "material quantity",
+                "material",
+                "bad",
+                "missing"
+            ]
+        ],
+        [
+            [
+                "assignments quantity",
+                "quizzes",
+                "ok",
+                "NULL"
+            ],
+            [
+                "presentation quality",
+                "lectures",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "course",
+                "great",
+                "learned a lot already"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "assingments",
+                "great",
+                "interesting idea"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "ok",
+                "Very challenging"
+            ]
+        ],
+        [
+            [
+                "material quantity",
+                "NULL",
+                "bad",
+                "more resources should have been shared"
+            ]
+        ],
+        [
+            [
+                "faculty response",
+                "mentor",
+                "bad",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Teacher's",
+                "great",
+                "great"
+            ],
+            [
+                "presentation quality",
+                "speech",
+                "bad",
+                "wish he'd loose a little the \" army style \""
+            ],
+            [
+                "grades general",
+                "grading system",
+                "bad",
+                "wish he'd loose a little the \" army style \""
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Dr. Chuck",
+                "great",
+                "amazing job"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "highly recommend"
+            ]
+        ],
+        [
+            [
+                "course relatability",
+                "case studies",
+                "great",
+                "relevant"
+            ],
+            [
+                "course quality",
+                "case studies",
+                "great",
+                "interesting"
+            ],
+            [
+                "faculty general",
+                "guest speakers",
+                "great",
+                "good as well"
+            ]
+        ],
+        [
+            [
+                "course relatability",
+                "NULL",
+                "bad",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "assignments relatability",
+                "peer assignments",
+                "bad",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "makes things easier"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "inspire me"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "rationale"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "handy"
+            ],
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Very interesting"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "bad",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "content",
+                "great",
+                "awesome"
+            ]
+        ],
+        [
+            [
+                "material comprehensiveness",
+                "materials",
+                "great",
+                "easy to be understood"
+            ],
+            [
+                "assignments comprehensiveness",
+                "assignment",
+                "great",
+                "easy to be understood"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "discussions in the videos",
+                "bad",
+                "lack substance"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "really helping"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "courses",
+                "great",
+                "one of the best"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Dr. Odersky",
+                "great",
+                "learning process to be a breeze"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "Very accessible"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "bad",
+                "enjoyed"
+            ],
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "content feels amateurish"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "bad",
+                "having a little trouble understanding"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Professor Andrew Ng",
+                "great",
+                "excellent"
+            ],
+            [
+                "material quality",
+                "exercises",
+                "great",
+                "very well explained"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Best"
+            ]
+        ],
+        [
+            [
+                "material quality",
+                "content",
+                "great",
+                "top - notch"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "NULL",
+                "great",
+                "excellent presentation skills"
+            ],
+            [
+                "faculty comprehensiveness",
+                "NULL",
+                "great",
+                "make his lectures enjoyable and easy to follow"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "best"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "Best intelectual time"
+            ]
+        ],
+        [
+            [
+                "material relatability",
+                "material",
+                "great",
+                "enjoyed"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "have a solid base of understanding"
+            ]
+        ],
+        [
+            [
+                "course workload",
+                "NULL",
+                "bad",
+                "not as nice"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Absolutely amazing"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "NULL",
+                "great",
+                "Very well presented and constructed"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "lot of useful information"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "very nice"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "this will ease you"
+            ],
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "enable you to follow"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "bad",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Iyengar",
+                "bad",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "enjoyed"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "well put together"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "content",
+                "great",
+                "enjoyed"
+            ],
+            [
+                "course general",
+                "course",
+                "great",
+                "enjoyed"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "ok",
+                "few technical hitches"
+            ]
+        ],
+        [
+            [
+                "course workload",
+                "NULL",
+                "great",
+                "flexibility to choose time and target dates"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "assignments",
+                "great",
+                "absolute delight"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "really great"
+            ]
+        ],
+        [
+            [
+                "course relatability",
+                "course",
+                "great",
+                "helped me explore my writing more"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "bad",
+                "not free"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "extremely useful to understand Buddhism"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "happy"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "bad",
+                "general information about relevant topics"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "NULL",
+                "great",
+                "really like the challenges"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "professor",
+                "great",
+                "Great"
+            ],
+            [
+                "faculty comprehensiveness",
+                "professor",
+                "great",
+                "clearly explains topics"
+            ],
+            [
+                "faculty comprehensiveness",
+                "professor",
+                "great",
+                "easy to follow lectures"
+            ],
+            [
+                "faculty relatability",
+                "professor",
+                "great",
+                "examples, and graphics"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "assignments comprehensiveness",
+                "homework",
+                "great",
+                "NULL"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "covers a broad range"
+            ]
+        ],
+        [
+            [
+                "presentation relatability",
+                "NULL",
+                "great",
+                "like"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "professor",
+                "great",
+                "Many thanks"
+            ]
+        ],
+        [
+            [
+                "course workload",
+                "NULL",
+                "ok",
+                "challenging but didn't take over my life"
+            ]
+        ],
+        [
+            [
+                "assignments quality",
+                "quizzes",
+                "bad",
+                "could not submit"
+            ],
+            [
+                "course value",
+                "NULL",
+                "bad",
+                "unless I paid"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "very good"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "did progress in gaming making as a fresh man"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "lectures",
+                "bad",
+                "problem about the course"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "like"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Insightful"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "bad",
+                "don't recommend"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ],
+            [
+                "grades general",
+                "peer assessments",
+                "bad",
+                "bit long to get a grade"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "courses",
+                "great",
+                "happily pay"
+            ]
+        ],
+        [
+            [
+                "presentation quality",
+                "record videos",
+                "bad",
+                "don't like"
+            ]
+        ],
+        [
+            [
+                "course comprehensiveness",
+                "NULL",
+                "great",
+                "can understand most of the concept"
+            ]
+        ],
+        [
+            [
+                "course relatability",
+                "NULL",
+                "great",
+                "find myself applying what I have learned to my everyday writing"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "learned a lot"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "loved"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "the best"
+            ]
+        ],
+        [
+            [
+                "faculty comprehensiveness",
+                "course",
+                "great",
+                "Optimism"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "ok",
+                "pretty basic"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "given me some valuable new insights"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Provides a great overview"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "gave me a lot of tips"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Recommend to everyone"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Dr Chuck",
+                "great",
+                "amazing"
+            ]
+        ]
+    ],
+    "all_preds": [
+        [
+            [
+                "course general",
+                "it [SP] bad",
+                "bad",
+                "In the future you have not got anything to show in your CV"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course as an introductory to Machine Learning",
+                "great",
+                "Great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Thank you Coursera for the opportunity"
+            ]
+        ],
+        [
+            [
+                "forum general",
+                "as well",
+                "great",
+                "staffs reply on Discussion forum"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "good",
+                "challenging because it is good"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "lectures",
+                "great",
+                "easy to follow"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "so glad to have found this course"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "would recommend"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Really liked"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "lectures",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "thanks to this course"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "good"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "would liven the material up a bit"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "would consider adding those"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "gives you a largely complete project and just asks you to make a few changes"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "bad",
+                "Very poorly constructed"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "was plenty of time to finish the project"
+            ]
+        ],
+        [
+            [
+                "course content [AT] it [SP] great",
+                "and those who have some knowledge",
+                "refreshes and updates them",
+                "enables those who take it without knowing anything about the subject, approach"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "I am almost at the end of this course and I think it is excellent"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "MOOCs ever commissioned by Coursera",
+                "great",
+                "one of the best"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "is a badly designed assignment that wastes students'time and creates a lot of frustration"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "was so much fun with learning"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "was very interesting course"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course [SP] great",
+                "great",
+                "might change"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "the student has truly achieved mastery",
+                "great",
+                "recommend breaking the course into multiple separate courses and including more depth"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Would have preferred more flesh ( both implementational and mathematical ) on the bones"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "No peer review"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Week 3 assignment was the hardest"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "good",
+                "was a good course"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "very interesting"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Professor really knows his job"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "worked it was rewarding"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "could be arranged in more logical and coherent way"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Loved"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "What a superb course"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "is not just highly interesting"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "the right time",
+                "great",
+                "super course"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "was little more than a commercial for various social analytics programs"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "applies many interesting ways of understanding in more natural way"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "enjoyed the course very much"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "wonderful"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "should add a video to explain more in detail some concept as variables"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "each point is explained in terms students of all backgrounds can understand and grasp"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "field",
+                "great",
+                "Thanks very much for introducing me to this exciting field"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "the first week",
+                "great",
+                "instructors never showed up to answer any single question in the forums"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "fun"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "literal"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "really useful in making your own games"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "professor",
+                "great",
+                "describe all courses with clam and very kindly"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "lessons",
+                "great",
+                "Incredible"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "is a very practical approach to the language"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "I also appreciated the passion is the delivery of the course by the lecturer"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "material",
+                "great",
+                "not for pros because in course you didn't find interesting"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "is a very basic course"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "so glad I took this class"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "really enjoyed"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "Python",
+                "great",
+                "Very in - depth introductory learning of"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "could be much more valuable by using"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "course's video lectures are carefully created"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "change is not due to the professor or the course material"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "horrible",
+                "DO NOT TAKE THIS COURSE - THE guy who reads ( not teaches ) the course"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "was both theoretically robust and practically inclined"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "allows to understand the peculiarities of the clinical picture of depression"
+            ]
+        ],
+        [
+            [
+                "assignment general",
+                "questions",
+                "bad",
+                "assignment questions were often nebulous"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Good coverage in a very fast intro to the subject"
+            ]
+        ],
+        [
+            [
+                "audience general",
+                "his",
+                "great",
+                "was also very sensitive to his audience"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course [SP] great",
+                "great",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "use of real - life examples",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great starting point",
+                "provides a suite of tools and techniques for data analysis"
+            ]
+        ],
+        [
+            [
+                "assignments general",
+                "assignments",
+                "bad",
+                "feels like tedious filler"
+            ]
+        ],
+        [
+            [
+                "data",
+                "knowing how to clean the data",
+                "confusing [SP] confusing when Q1 is apparently correct [AT] it s not [SP] confusing",
+                "good"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "was a lifesaver and career builder"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Dr. Terrence Sejnowski [SP] difficult [AC] faculty general",
+                "great",
+                "difficult to listen to"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "assume everyone knows how to code in html, javascript and css"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "course was really interesting"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general [SP] great",
+                "NULL",
+                "helps students to connect well with the concepts being used",
+                "course professor has used real life cases to link up with the course material"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course [SP] great",
+                "great",
+                "did not cover what we needed for the weekly quizzes"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "class to have gone more in depth in terms of actual science and research involved",
+                "great",
+                "would have liked"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "snippets",
+                "great",
+                "Only shows a bit of javascript, css"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "will benefit from taking",
+                "great",
+                "Anyone that is eager to delve into the world of modern microelectronic devices and systems"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "became less and less interested since I already know the basics of memory and psychology"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "some assignments were more oriented to solving marginal problems then using Spark and distributed and parallel computing"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Very nice"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "gave me the confidence in programming which I lacked before entering"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "material is presented in a very accessible manner"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "R",
+                "great",
+                "is an excellent introduction to"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course [SP] great",
+                "great",
+                "would suggest"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "it [SP] great",
+                "great",
+                "could have made room for just a bit more explanation"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "assignment auto - grader",
+                "great",
+                "falls down though it falls down though"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "A very easy yet enlightening"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "exercises",
+                "bad",
+                "easy and boring"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "takes a broad approach to the subject"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "Information is so packed and concentrated it is amazing"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "class",
+                "great",
+                "instead of dreading class I found myself excited about attending everyday"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "found the reading material sources particularly relevant"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "grader [SP] finicky [AT] assignments",
+                "assignments",
+                "bad",
+                "assignments are not well described"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "the ORFs",
+                "bad",
+                "did not even cover some of the questions that needed to be answered i. e. repeats or questions about particular reading frames when analyzing"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "grader",
+                "it [SP] great",
+                "helpful",
+                "gives very concise and sometimes helpful"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "I like it very much"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "It's really clear and simple"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Wonderful Course and Wonderful Professor"
+            ]
+        ],
+        [
+            [
+                "course general [SP] great",
+                "NULL",
+                "'s a bit too simple",
+                "for me who has programming experience for more than 10 years and just want to catch up with the mainstream of programming in Python"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "contributed to a good understanding of the subject"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "really helped me to think more like my husband"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Thank you for your warmhearted and incredible instructions"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "guidelines",
+                "simple and practical",
+                "Simple and practical guidelines which can be followed easily"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "not easy"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "might have gained more insight if I had bought the book that goes along with the course"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course that teaches techniques",
+                "great",
+                "very useful"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "lectures",
+                "great",
+                "good length"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "Videos",
+                "great",
+                "Perfect Videos"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "teaching methodology",
+                "great",
+                "Excellent"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "street market",
+                "great",
+                "basic for me such as the use of onion and garlic in meals"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "it [SP] great",
+                "great",
+                "goes slow"
+            ]
+        ],
+        [
+            [
+                "tests general",
+                "tests",
+                "tough",
+                "tough"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "teaching methodology",
+                "great",
+                "Fantastic"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "nice",
+                "would have been nice"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "casual and yet precise lessons will help you to go through the initial necessary steps in the language"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "they",
+                "good",
+                "they are not hard"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "congratulate everyone for putting effort and designing such a beautiful course"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "appreciate the care taken to script each lesson"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "this course highlights how easy Python is more than anything"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "work",
+                "great",
+                "is upbeat and energetic"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "appreciates the amount of effort behind"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Really Useful"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Thank you so much for creating and providing this material"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "highly pedagogical course offers all the necessary knowledge and tools to deal with"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Dr. Chuck [SP] great",
+                "great",
+                "Thank you"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "is very well made with a balance of theory in robotics motion control with practical assignments using the popular language Matlab"
+            ]
+        ],
+        [
+            [
+                "course quality [AT] it [SP] bad [AC] course quality",
+                "times",
+                "bad",
+                "would have liked to see the German in the slides"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "this class",
+                "great",
+                "enjoyed"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "An entire week spent on precision / recall seems a little bit too much"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "introduction for the basic understanding of the Machine Learning",
+                "great",
+                "Excellent"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "may face problem to follow",
+                "bad",
+                "weak in"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "content is clearly presented and the effort in teaching shows"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "simplifies everything"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "it would have been lost",
+                "lost",
+                "If I did not have working knowledge of academic French"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "is a certain style of teaching that you need to get used too in the beginning"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Loved"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "gives me a \" sloppy \" impression"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "topcis",
+                "great",
+                "should provide more and better organized ( theoretical ) information ( e. g. on topcis like database design"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "it provided me with some insights",
+                "great",
+                "provided me with some lenses ( as promised ) to analyse different organizational issues"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Course ended in strong accord"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "every word have become concrete when I progress in this course under Prof. Silverman"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Jeff Leek [SP] great",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "can only say that I am glad I made the decision to take the course"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Easy to understand"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "assignments general [SP] great",
+                "them",
+                "very boring",
+                "Assignments were individual and it was very difficult to use them at full power"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Don't miss"
+            ]
+        ],
+        [
+            [
+                "course structure",
+                "no point did I feel as though I had a gap in knowledge",
+                "great",
+                "course structure seems to have been really thought through"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "work",
+                "great",
+                "plan on applying what I learned from this course at work"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "pretty nice overview of metrics in general"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "highly recommend"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "nice as it allows you to see how your fellow peers approached the problem [SP] great",
+                "Grades are done as peer reviews"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "teaches you how to learn more efficient and get more concentration"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "found the course to be taught exceptionally well"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "very well organised"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "found this lesson so valuable"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "assignments",
+                "great",
+                "very helpful"
+            ]
+        ],
+        [
+            [
+                "course quality [SP] bad",
+                "JavaScript",
+                "bad",
+                "bad reputation"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "either because of the quality of the video or the very heavy accent of the speaker"
+            ]
+        ],
+        [
+            [
+                "course general [SP] bad",
+                "NULL",
+                "bad",
+                "was nitpicky and confusing"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "it [SP] bad",
+                "bad",
+                "felt very unstructured"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "recommends"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "my first MOOC in my freshly changed career tower sustainable development"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Super useful"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "highly recommend"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "feel like I have a good foundation for learning Python and code in general"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "was very accessible"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "very good"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "rather than everything is fine"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "must for anyone seriously interested in the subject of photography"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "quiz questions",
+                "great",
+                "a complete waste of time where there are multiple examples of contradictory slides to the quiz questions"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "excels in teaching"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course [SP] great",
+                "good",
+                "very good"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "perfect intro course for someone who knows nothing about HTML"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "Lecturer",
+                "great",
+                "Exceptionally good"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "content",
+                "great",
+                "well structured"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Totally worth the time you spent following"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "re - enactments",
+                "great",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "content general",
+                "actual and interesting",
+                "great",
+                "Great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "was very informative"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Very thorough and interesting"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "I'm on week 3 and I'm still not sure how to make my assignments in a proper way"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "them",
+                "great",
+                "includes videos that discuss concepts and interviews with successful writers"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "courses",
+                "great",
+                "Good overview and introduction to the more detail content of the following courses"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "evident that it [SP] was carefully planned and laid out [AC] course general",
+                "was carefully planned and laid out"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "it [SP] great",
+                "bad",
+                "challenging"
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Proff",
+                "great",
+                "Thank you"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "videos",
+                "great",
+                "Extremely well done"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Absolutely a great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Very good"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "changed my life"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "professionals",
+                "great",
+                "highly recommended not only to professionals"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "my previous knowledge of multiple regression has been enriched by my exposure to the cost function"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "Some content material is missing"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "'ve learned a lot already and I'm only halfway through"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Do something different"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Very challenging"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "Would have been a resounding five - star review"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Dr. Chuck [SP] great",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "people who are interested in honing their",
+                "great",
+                "highly recommend"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "case studies [SP] good",
+                "good",
+                "relevant and interesting"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "would appear that the real interaction is reserved for the later weeks of the course"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "bad",
+                "would be concerned if that were still the case"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "makes things easier"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "course inspire me a lot"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "was a timed release ( implying someone at the U of Copenhagen is involved with it week to week"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "content",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "Week 2 [SP] great",
+                "great",
+                "easy to be understood"
+            ]
+        ],
+        [
+            [
+                "artists general [SP] bad",
+                "artists",
+                "bad",
+                "respects the artistic choices and talents of all artists"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "course for those who want to apply the functional programming style in the design of larger applications using functional programming concepts",
+                "great",
+                "best"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "it [SP] great",
+                "great",
+                "enjoyed"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "fun and well taught"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "is excellent",
+                "great",
+                "Professor Andrew Ng"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Best leadership course that I have taken"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "content",
+                "great",
+                "top-notch"
+            ]
+        ],
+        [
+            [
+                "course quality [SP] great",
+                "NULL",
+                "great",
+                "has excellent presentation skills"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "time general",
+                "intellectual time",
+                "great",
+                "Best intelectual time"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "entered with no knowledge about the History of the Middle East"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Absolutely amazing"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Very well presented"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "will ease you into the language and enable you to follow"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "nobody would not say that the Week 2 content on confusion matrix is very consistently explained"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "it [SP] great",
+                "great",
+                "no textbooks are available for the field because it is \" new \""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "well put together"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course",
+                "great",
+                "Overall i have enjoyed the content and the course"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "there was a few technical hitches"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "bad",
+                "is not free"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course [SP] great",
+                "great",
+                "I'm happy with"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "Wikipedia",
+                "great",
+                "general information about relevant topics that as well read on"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "professor [SP] great",
+                "great",
+                "Great"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "this course",
+                "great",
+                "is also an asset for those advising policymakers or policy - makers themselves"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "audited the course but I did all the homework"
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "covers a broad range of software security"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "Many thanks to the professor for taking the time to make it"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "videos",
+                "bad",
+                "could not submit quizzes"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "as fresh man",
+                "great",
+                "made progress in gaming making"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "bad",
+                "One problem about the course is probably going to be the lectures"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "course very much",
+                "great",
+                "liked"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general [SP] bad",
+                "NULL",
+                "bad",
+                "don't recommend"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course general",
+                "background",
+                "great",
+                "can understand most of the concept without strong background in math like linear algebra and calculus"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "course quality",
+                "NULL",
+                "great",
+                "had read Martin Seligman's Learned Optimism"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "good",
+                "For experienced folks - - probably a good number since this is an Executive Data Science course - - it was pretty basic"
+            ]
+        ],
+        [
+            [
+                "course general",
+                "NULL",
+                "great",
+                "really feels this course has given me some valuable new insights with which to see the world around me and myself"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "faculty general",
+                "Dr Chuck [SP] great",
+                "great",
+                "amazing"
+            ]
+        ]
+    ]
+}

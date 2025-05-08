@@ -1,0 +1,7438 @@
+[
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "grades general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course value",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ],
+      [
+        "Machine Learning",
+        "course relatability",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Coursera",
+        "course value",
+        "positive"
+      ],
+      [
+        "Professors Emily and Carlos",
+        "faculty value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Professors Emily and Carlos",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staffs",
+        "faculty response",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "staffs",
+        "faculty response",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "content",
+        "material quality",
+        "positive"
+      ],
+      [
+        "exercises",
+        "assignments quantity",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "content and the exercises",
+        "presentation quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course workload",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course workload",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lectures",
+        "presentation comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lectures",
+        "presentation comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lectures",
+        "presentation quality",
+        "positive"
+      ],
+      [
+        "tips and tricks",
+        "material quality",
+        "positive"
+      ],
+      [
+        "information",
+        "material comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "short lectures",
+        "presentation quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course workload",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "material",
+        "material quantity",
+        "negative"
+      ],
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ],
+      [
+        "amount of material",
+        "material quantity",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "material",
+        "material quantity",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "material",
+        "material quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "courses",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "final assignment",
+        "assignments comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "final assignment",
+        "assignments quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "exam",
+        "assignments workload",
+        "negative"
+      ],
+      [
+        "links",
+        "material quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "final exam",
+        "assignments quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "course quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "project",
+        "assignments workload",
+        "positive"
+      ],
+      [
+        "NULL",
+        "assignments quantity",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "project",
+        "assignments workload",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "it",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "MOOC",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assignment",
+        "assignments quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignment",
+        "assignments quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "IHTS course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "professor",
+        "faculty general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "supplemental document",
+        "material quantity",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "class",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "class",
+        "presentation quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "course into multiple separate",
+        "course quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "material comprehensiveness",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "peer review",
+        "assignments quantity",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "quiz questions",
+        "faculty response",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "visiting scholars",
+        "faculty value",
+        "positive"
+      ],
+      [
+        "NULL",
+        "course relatability",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Week 3 assignment",
+        "assignments quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Week 3 assignment",
+        "assignments comprehensiveness",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "difficulty",
+        "course workload",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Ng",
+        "faculty comprehensiveness",
+        "positive"
+      ],
+      [
+        "class",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Ng",
+        "faculty comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ],
+      [
+        "lessons",
+        "material quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ],
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ],
+      [
+        "Professor",
+        "faculty general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Professor",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Professor",
+        "faculty general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Professor",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course content",
+        "material quality",
+        "positive"
+      ],
+      [
+        "course content",
+        "material quantity",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "content",
+        "material quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "quizzes",
+        "grades general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course value",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Coursera",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "Leiden University",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "people",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ],
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "stuff",
+        "assignments quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "material comprehensiveness",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "material comprehensiveness",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "course",
+        "course comprehensiveness",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ],
+      [
+        "course",
+        "course general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "week 4",
+        "assignments quantity",
+        "negative"
+      ],
+      [
+        "NULL",
+        "course value",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Dr . BArbara Oakley",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "Dr . Sejnowsky",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive"
+      ],
+      [
+        "Dr . BArbara Oakley and Dr . Sejnowsky",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Narration",
+        "presentation quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "presentation quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course comprehensiveness",
+        "negative"
+      ],
+      [
+        "NULL",
+        "material quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "video",
+        "presentation quantity",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Each point",
+        "material comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "instructors",
+        "faculty response",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "instructors",
+        "faculty response",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course workload",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course workload",
+        "negative"
+      ],
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "material comprehensiveness",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "information",
+        "faculty value",
+        "positive"
+      ],
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "faculty relatability",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Courses",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Courses",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "professor",
+        "faculty general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "professor",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lessons",
+        "material quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lessons",
+        "course comprehensiveness",
+        "positive"
+      ],
+      [
+        "lessons",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lecturer",
+        "faculty relatability",
+        "positive"
+      ],
+      [
+        "videos",
+        "presentation quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "videos",
+        "presentation quality",
+        "positive"
+      ],
+      [
+        "lecturer",
+        "faculty comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course comprehensiveness",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "material",
+        "material quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course comprehensiveness",
+        "negative"
+      ],
+      [
+        "material",
+        "material quantity",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "material",
+        "material quantity",
+        "negative"
+      ],
+      [
+        "course",
+        "course quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "George Siedel",
+        "faculty general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "George Siedel",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "class",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "class",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "python",
+        "material comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "program",
+        "course value",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "video lectures",
+        "presentation quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "video lectures",
+        "presentation quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assignments",
+        "assignments quantity",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignments",
+        "assignments workload",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "content",
+        "material comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "content",
+        "course relatability",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "professor",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "course material",
+        "material quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course material",
+        "course quality",
+        "positive"
+      ],
+      [
+        "professor",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "teacher",
+        "faculty comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "teacher",
+        "faculty comprehensiveness",
+        "positive"
+      ],
+      [
+        "teacher",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Videos",
+        "presentation quality",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Videos",
+        "presentation quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Justin - Nicholas Toytama",
+        "faculty general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Justin - Nicholas Toytama",
+        "faculty general",
+        "negative"
+      ],
+      [
+        "COURSE",
+        "course general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course relatability",
+        "positive"
+      ],
+      [
+        "examples",
+        "material relatability",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "presentation comprehensiveness",
+        "positive"
+      ],
+      [
+        "NULL",
+        "course relatability",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "It",
+        "material comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assignment questions",
+        "assignments comprehensiveness",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignment questions",
+        "assignments comprehensiveness",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "coverage",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "He",
+        "faculty relatability",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "faculty response",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "video lectures",
+        "presentation quality",
+        "positive"
+      ],
+      [
+        "automated submission system",
+        "assignments workload",
+        "positive"
+      ],
+      [
+        "assignments",
+        "assignments quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ],
+      [
+        "assignments",
+        "assignments quality",
+        "positive"
+      ],
+      [
+        "video lectures",
+        "presentation quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "examples",
+        "material quality",
+        "positive"
+      ],
+      [
+        "videos",
+        "presentation quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "videos",
+        "presentation relatability",
+        "positive"
+      ],
+      [
+        "programming exercises",
+        "assignments relatability",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lectures",
+        "presentation quality",
+        "negative"
+      ],
+      [
+        "explanations",
+        "material quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lectures",
+        "presentation quality",
+        "negative"
+      ],
+      [
+        "explanations",
+        "presentation comprehensiveness",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assignments",
+        "assignments quantity",
+        "negative"
+      ],
+      [
+        "assignments",
+        "assignments quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignments",
+        "assignments quality",
+        "negative"
+      ],
+      [
+        "assignments",
+        "assignments workload",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "data",
+        "material quality",
+        "negative"
+      ],
+      [
+        "Q1",
+        "assignments quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "assignments comprehensiveness",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Dr . Terrence Sejnowski",
+        "faculty general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Dr . Terrence Sejnowski",
+        "faculty comprehensiveness",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Coursework",
+        "assignments workload",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "html",
+        "material quality",
+        "negative"
+      ],
+      [
+        "javascript",
+        "material quality",
+        "negative"
+      ],
+      [
+        "css",
+        "material quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "presentation comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "professor",
+        "faculty relatability",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course professor",
+        "faculty relatability",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course material",
+        "material comprehensiveness",
+        "negative"
+      ],
+      [
+        "quizzes",
+        "assignments quantity",
+        "negative"
+      ],
+      [
+        "final exam",
+        "assignments quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "material",
+        "material comprehensiveness",
+        "negative"
+      ],
+      [
+        "final exam",
+        "assignments workload",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "class",
+        "course quality",
+        "negative"
+      ],
+      [
+        "studies Dr . Fredrickson refers to",
+        "material comprehensiveness",
+        "negative"
+      ],
+      [
+        "on - site students discussing their personal opinions",
+        "presentation quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "presentation quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "javascript",
+        "material quantity",
+        "negative"
+      ],
+      [
+        "css",
+        "material quantity",
+        "negative"
+      ],
+      [
+        "html snippets",
+        "material quantity",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course relatability",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assignments",
+        "assignments relatability",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignments",
+        "assignments quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "instructors",
+        "faculty general",
+        "negative"
+      ],
+      [
+        "course",
+        "course quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "instructors",
+        "faculty general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ],
+      [
+        "examples",
+        "material quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ],
+      [
+        "course",
+        "course general",
+        "positive"
+      ],
+      [
+        "course",
+        "course relatability",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive"
+      ],
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "elements",
+        "material quantity",
+        "neutral"
+      ],
+      [
+        "interfaces",
+        "material comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "staff",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "lab assistants",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "program",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lab assistants",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "staff",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "material",
+        "material comprehensiveness",
+        "positive"
+      ],
+      [
+        "quizzes",
+        "assignments quantity",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "quizzes",
+        "assignments comprehensiveness",
+        "positive"
+      ],
+      [
+        "material",
+        "material quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "R",
+        "material quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive"
+      ],
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Yaakov",
+        "faculty general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Yaakov",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "method",
+        "faculty response",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "faculty comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "topics",
+        "assignments comprehensiveness",
+        "negative"
+      ],
+      [
+        "examples",
+        "material quantity",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "neutral"
+      ],
+      [
+        "NULL",
+        "course relatability",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assignment auto - grader",
+        "grades general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignment",
+        "grades general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "courses",
+        "faculty relatability",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ],
+      [
+        "course",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "exercises",
+        "assignments quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "exercises",
+        "assignments quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "He",
+        "faculty general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "faculty general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Information",
+        "material comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "class",
+        "course general",
+        "positive"
+      ],
+      [
+        "teaching method",
+        "faculty comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "reading material",
+        "material quality",
+        "positive"
+      ],
+      [
+        "reading material",
+        "material quantity",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "reading material sources",
+        "material relatability",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assignments",
+        "assignments workload",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignments",
+        "assignments quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assignments",
+        "assignments comprehensiveness",
+        "negative"
+      ],
+      [
+        "autograder",
+        "course general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignments",
+        "assignments quality",
+        "negative"
+      ],
+      [
+        "autograder",
+        "grades general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "instructions",
+        "material comprehensiveness",
+        "negative"
+      ],
+      [
+        "questions",
+        "assignments quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "assignments comprehensiveness",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "automated grader",
+        "grades general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "automated grader",
+        "grades general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "classifiers",
+        "material comprehensiveness",
+        "negative"
+      ],
+      [
+        "Naive Bayes",
+        "material comprehensiveness",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "class",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "excersizes",
+        "assignments quantity",
+        "positive"
+      ],
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "excersizes",
+        "assignments relatability",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Course",
+        "course general",
+        "positive"
+      ],
+      [
+        "Professor",
+        "faculty general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Course",
+        "course general",
+        "positive"
+      ],
+      [
+        "Professor",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course workload",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "power points",
+        "presentation comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "power points",
+        "presentation quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "material workload",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "videos",
+        "presentation comprehensiveness",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "faculty response",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "quiz",
+        "material quantity",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "quiz",
+        "assignments workload",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "instructions",
+        "presentation comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "guidelines",
+        "material comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "course relatability",
+        "positive"
+      ],
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course workload",
+        "negative"
+      ],
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Emily Fox",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "Carlos Guestrin",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Professors Emily Fox and Carlos Guestrin",
+        "faculty comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lectures",
+        "presentation quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lectures",
+        "presentation comprehensiveness",
+        "positive"
+      ],
+      [
+        "lectures",
+        "presentation quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Videos",
+        "presentation quality",
+        "positive"
+      ],
+      [
+        "sessions",
+        "presentation quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Videos",
+        "presentation quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "teaching methodology",
+        "faculty comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "presentation quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "professor",
+        "faculty comprehensiveness",
+        "positive"
+      ],
+      [
+        "visual aides",
+        "presentation quality",
+        "positive"
+      ],
+      [
+        "videos",
+        "material quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "visual aides",
+        "presentation quality",
+        "positive"
+      ],
+      [
+        "professor",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "tests",
+        "assignments quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "tests",
+        "assignments comprehensiveness",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "teaching methodology",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "presentation quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lecture",
+        "presentation quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lecture",
+        "presentation quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "algorithms",
+        "material comprehensiveness",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course relatability",
+        "positive"
+      ],
+      [
+        "NULL",
+        "presentation quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lessons",
+        "presentation comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lessons",
+        "presentation quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "they",
+        "assignments quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "assignments quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Quentin",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "team",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Quentin and team",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ],
+      [
+        "teachers",
+        "faculty general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ],
+      [
+        "teachers",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lesson",
+        "presentation comprehensiveness",
+        "positive"
+      ],
+      [
+        "animation",
+        "presentation quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "animation",
+        "presentation quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Week 4",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "teachers",
+        "faculty response",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "teachers",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Jonathan Biss",
+        "faculty general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Jonathan Biss",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "Jonathan Biss",
+        "faculty comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Python",
+        "material comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "He",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "assignments",
+        "assignments quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignments",
+        "assignments quality",
+        "positive"
+      ],
+      [
+        "He",
+        "faculty response",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course relatability",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "material",
+        "material quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "material",
+        "material quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "smile",
+        "faculty general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Dr . Chuck",
+        "faculty general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Dr . Chuck",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ],
+      [
+        "assignments",
+        "assignments relatability",
+        "positive"
+      ],
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "English",
+        "material quality",
+        "negative"
+      ],
+      [
+        "slides",
+        "material comprehensiveness",
+        "negative"
+      ],
+      [
+        "transcription of the videos",
+        "material quantity",
+        "negative"
+      ],
+      [
+        "quizzes",
+        "assignments quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "slides , transcription of the videos",
+        "presentation quality",
+        "negative"
+      ],
+      [
+        "quiz",
+        "assignments comprehensiveness",
+        "negative"
+      ],
+      [
+        "quizzes",
+        "assignments quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "class",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "class",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "week",
+        "assignments workload",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "material comprehensiveness",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "presentation comprehensiveness",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "content",
+        "material quality",
+        "positive"
+      ],
+      [
+        "effort in teaching",
+        "faculty value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "presentation comprehensiveness",
+        "positive"
+      ],
+      [
+        "content",
+        "presentation quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "She",
+        "faculty comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "faculty comprehensiveness",
+        "positive"
+      ],
+      [
+        "NULL",
+        "faculty response",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "French",
+        "material comprehensiveness",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "style of teaching",
+        "faculty general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lessons",
+        "presentation quality",
+        "positive"
+      ],
+      [
+        "lessons",
+        "presentation comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Content",
+        "material quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Content",
+        "material quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Formats",
+        "presentation comprehensiveness",
+        "positive"
+      ],
+      [
+        "personal adaptations",
+        "assignments relatability",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "material quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Servance",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "material",
+        "material comprehensiveness",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "material",
+        "material quality",
+        "negative"
+      ],
+      [
+        "material",
+        "material quantity",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "content",
+        "material comprehensiveness",
+        "positive"
+      ],
+      [
+        "lenses",
+        "material quantity",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "content",
+        "material quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ],
+      [
+        "Prof . Silverman",
+        "faculty value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Prof . Silverman",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Jeff Leek",
+        "faculty general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Jeff Leek",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "presentation comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "material comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Assignments",
+        "assignments quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "assignments relatability",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Assignments",
+        "assignments quality",
+        "neutral"
+      ],
+      [
+        "Assignments",
+        "assignments comprehensiveness",
+        "negative"
+      ],
+      [
+        "Assignments",
+        "assignments quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "materials",
+        "material comprehensiveness",
+        "negative"
+      ],
+      [
+        "graphs",
+        "presentation quantity",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "materials",
+        "material quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course structure",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Andrew Ng",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "teaching skills",
+        "faculty comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Andrew Ng",
+        "faculty comprehensiveness",
+        "positive"
+      ],
+      [
+        "Andrew Ng",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "class",
+        "course general",
+        "positive"
+      ],
+      [
+        "videos",
+        "presentation quality",
+        "negative"
+      ],
+      [
+        "explanations",
+        "presentation comprehensiveness",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "class",
+        "course general",
+        "positive"
+      ],
+      [
+        "videos",
+        "presentation comprehensiveness",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ],
+      [
+        "feedback",
+        "grades general",
+        "positive"
+      ],
+      [
+        "certificate",
+        "grades general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Grading",
+        "grades general",
+        "neutral"
+      ],
+      [
+        "peer reviews",
+        "assignments quantity",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Grading",
+        "grades general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ],
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "class",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Berklee",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course workload",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course workload",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ],
+      [
+        "work",
+        "assignments workload",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lesson",
+        "material comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lesson",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "questions",
+        "material quantity",
+        "positive"
+      ],
+      [
+        "assignments",
+        "assignments quantity",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignments",
+        "assignments comprehensiveness",
+        "positive"
+      ],
+      [
+        "questions",
+        "assignments comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "JavaScript",
+        "material quality",
+        "negative"
+      ],
+      [
+        "teaching",
+        "faculty response",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "teaching",
+        "course general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "video",
+        "presentation quality",
+        "negative"
+      ],
+      [
+        "speaker",
+        "faculty general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "video",
+        "presentation quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "exercise",
+        "assignments quality",
+        "negative"
+      ],
+      [
+        "exercise",
+        "assignments workload",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "exercise",
+        "assignments quality",
+        "negative"
+      ],
+      [
+        "exercise",
+        "assignments comprehensiveness",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lessons",
+        "presentation quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "faculty comprehensiveness",
+        "negative"
+      ],
+      [
+        "NULL",
+        "course general",
+        "negative"
+      ],
+      [
+        "examples",
+        "course relatability",
+        "negative"
+      ],
+      [
+        "NULL",
+        "course quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "MOOC",
+        "course general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course relatability",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course relatability",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "examples",
+        "material quantity",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "material comprehensiveness",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ],
+      [
+        "examples",
+        "material quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "course relatability",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "He",
+        "faculty comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "He",
+        "faculty comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Dr . Charles Severance",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Dr . Charles Severance",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "forum",
+        "material quantity",
+        "negative"
+      ],
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Teacher",
+        "faculty general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Teacher",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "grades",
+        "grades general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "grades",
+        "grades general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "grading of the exams",
+        "grades general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "grading of the exams",
+        "grades general",
+        "negative"
+      ],
+      [
+        "NULL",
+        "course value",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Andrew Ng",
+        "faculty general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Andrew Ng",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course relatability",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course outline",
+        "course quality",
+        "positive"
+      ],
+      [
+        "presentation",
+        "presentation quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "presentation",
+        "presentation quality",
+        "negative"
+      ],
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Lecturer",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ],
+      [
+        "Lecturer",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "content",
+        "material comprehensiveness",
+        "positive"
+      ],
+      [
+        "NULL",
+        "presentation quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "content",
+        "material quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "re - enactments",
+        "presentation quality",
+        "positive"
+      ],
+      [
+        "vignettes",
+        "presentation quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "content",
+        "material quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "content",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive"
+      ],
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive"
+      ],
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ],
+      [
+        "course",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive"
+      ],
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assignments",
+        "assignments quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignments",
+        "assignments comprehensiveness",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "videos",
+        "presentation quality",
+        "positive"
+      ],
+      [
+        "interviews",
+        "presentation quantity",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "videos",
+        "presentation quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "moments",
+        "material quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "management",
+        "presentation quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lectures",
+        "presentation quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lectures",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "overview",
+        "course comprehensiveness",
+        "positive"
+      ],
+      [
+        "introduction",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "courses",
+        "course quality",
+        "positive"
+      ],
+      [
+        "courses",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ],
+      [
+        "techniques",
+        "material comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "material quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "last part",
+        "assignments workload",
+        "negative"
+      ],
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive"
+      ],
+      [
+        "course",
+        "course quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Proff",
+        "faculty general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Proff",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "videos",
+        "presentation quality",
+        "positive"
+      ],
+      [
+        "Professor Sachs",
+        "faculty comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "videos",
+        "presentation quality",
+        "positive"
+      ],
+      [
+        "Professor Sachs",
+        "faculty comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Professor Hitoshi Murayama",
+        "faculty general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Professor Hitoshi Murayama",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ],
+      [
+        "course",
+        "course general",
+        "positive"
+      ],
+      [
+        "course",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "knowledge",
+        "course quality",
+        "positive"
+      ],
+      [
+        "cost function",
+        "material comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "content material",
+        "material comprehensiveness",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "material",
+        "material quantity",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "negative"
+      ],
+      [
+        "quizzes",
+        "assignments quantity",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "quizzes",
+        "assignments quantity",
+        "neutral"
+      ],
+      [
+        "lectures",
+        "presentation quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assingments",
+        "assignments quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assingments",
+        "assignments quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course workload",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "material quantity",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "mentor",
+        "faculty response",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "mentor",
+        "faculty response",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Teacher",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "speech",
+        "presentation quality",
+        "negative"
+      ],
+      [
+        "grading system",
+        "grades general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "grading system",
+        "grades general",
+        "negative"
+      ],
+      [
+        "speech",
+        "presentation quality",
+        "negative"
+      ],
+      [
+        "Teacher ' s",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Dr . Chuck",
+        "faculty general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Dr . Chuck",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "case studies",
+        "material relatability",
+        "positive"
+      ],
+      [
+        "guest speakers",
+        "faculty value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "case studies",
+        "course quality",
+        "positive"
+      ],
+      [
+        "case studies",
+        "course relatability",
+        "positive"
+      ],
+      [
+        "guest speakers",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "interaction",
+        "course general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course relatability",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "peer assignments",
+        "assignments quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "peer assignments",
+        "assignments relatability",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "platform",
+        "presentation comprehensiveness",
+        "positive"
+      ],
+      [
+        "NULL",
+        "course value",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "neutral"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ],
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "content",
+        "material comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "content",
+        "material quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "materials",
+        "material comprehensiveness",
+        "positive"
+      ],
+      [
+        "assignment",
+        "assignments quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "materials",
+        "material comprehensiveness",
+        "positive"
+      ],
+      [
+        "assignment",
+        "assignments comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "discussions",
+        "presentation comprehensiveness",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "discussions in the videos",
+        "presentation quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course relatability",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Functional Program Design in Scala",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "courses",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Dr . Odersky",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "colleagues",
+        "faculty general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Dr . Odersky",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "class",
+        "course general",
+        "positive"
+      ],
+      [
+        "content",
+        "material quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "negative"
+      ],
+      [
+        "NULL",
+        "course general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ],
+      [
+        "topics",
+        "material comprehensiveness",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Professor Andrew Ng",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "exercises",
+        "assignments quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Professor Andrew Ng",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "exercises",
+        "material quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "content",
+        "material quality",
+        "positive"
+      ],
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "content",
+        "material quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "he",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "presentation skills",
+        "presentation quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "NULL",
+        "faculty comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "material",
+        "material comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "material",
+        "material relatability",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "History of the Middle East",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Haskell",
+        "material quality",
+        "negative"
+      ],
+      [
+        "arrays or sequences",
+        "material quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course workload",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "presentation quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Week 2 content",
+        "material comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "textbooks",
+        "material quantity",
+        "negative"
+      ],
+      [
+        "studies",
+        "material quantity",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Iyengar",
+        "faculty general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "content",
+        "material comprehensiveness",
+        "positive"
+      ],
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "content",
+        "course general",
+        "positive"
+      ],
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Modules",
+        "course workload",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course workload",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "assignments",
+        "assignments quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "assignments",
+        "assignments quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course relatability",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ],
+      [
+        "selflessness",
+        "material comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "information",
+        "material comprehensiveness",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "challenges",
+        "assignments quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "assignments quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "professor",
+        "faculty general",
+        "positive"
+      ],
+      [
+        "lectures",
+        "presentation quality",
+        "positive"
+      ],
+      [
+        "examples",
+        "presentation comprehensiveness",
+        "positive"
+      ],
+      [
+        "graphics",
+        "presentation quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "professor",
+        "faculty relatability",
+        "positive"
+      ],
+      [
+        "professor",
+        "faculty comprehensiveness",
+        "positive"
+      ],
+      [
+        "professor",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "homework",
+        "assignments workload",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "homework",
+        "assignments comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course quality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "examples",
+        "material quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "presentation relatability",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "professor",
+        "faculty general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "professor",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course workload",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course workload",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "videos",
+        "material quality",
+        "negative"
+      ],
+      [
+        "quizzes",
+        "assignments quantity",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course value",
+        "negative"
+      ],
+      [
+        "quizzes",
+        "assignments quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course quality",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "lectures",
+        "presentation quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "lectures",
+        "presentation quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ],
+      [
+        "peer assessments",
+        "grades general",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ],
+      [
+        "peer assessments",
+        "grades general",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "courses",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "record videos",
+        "presentation quality",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "record videos",
+        "presentation quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "concept",
+        "material comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course relatability",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course relatability",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "class",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course relatability",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "faculty comprehensiveness",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course comprehensiveness",
+        "negative"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course quality",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "course",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "course",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course comprehensiveness",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "tips",
+        "faculty response",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "NULL",
+        "course value",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "NULL",
+        "course general",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "pred_label": [
+      [
+        "Dr Chuck",
+        "faculty general",
+        "positive"
+      ]
+    ],
+    "tuple_list": [
+      [
+        "Dr Chuck",
+        "faculty general",
+        "positive"
+      ]
+    ]
+  }
+]

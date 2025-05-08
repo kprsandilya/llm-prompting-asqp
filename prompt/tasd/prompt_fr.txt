@@ -1,0 +1,9 @@
+Selon la définition suivante des éléments de sentiment:  
+
+- Le 'terme d'aspect' est le mot ou l'expression exacte dans le texte qui représente une caractéristique, un attribut ou un aspect spécifique d'un produit ou d'un service sur lequel un utilisateur peut exprimer une opinion. Le terme d'aspect peut être 'NULL' pour un aspect implicite.  
+- La 'catégorie d'aspect' fait référence à la catégorie à laquelle appartient l'aspect, et les catégories disponibles incluent : [[aspect_category]].  
+- La 'polarité du sentiment' désigne le degré de positivité, de négativité ou de neutralité exprimé dans l'opinion à l'égard d'un aspect ou d'une caractéristique particulière d'un produit ou d'un service. Les polarités disponibles sont : 'positive', 'negative' et 'neutral'.  
+
+Identifiez tous les éléments de sentiment avec leurs termes d'aspect correspondants, leurs catégories d'aspect et leur polarité de sentiment dans le texte suivant, en utilisant le format [('terme d'aspect', 'catégorie d'aspect', 'polarité du sentiment'), ...].
+
+[[examples]]

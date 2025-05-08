@@ -1,0 +1,9103 @@
+{
+    "precision": 0.6876006441223832,
+    "recall": 0.6799363057324841,
+    "f1": 0.6837469975980784,
+    "all_labels": [
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "room_amenities design_features",
+                "lines",
+                "great",
+                "great"
+            ],
+            [
+                "room_amenities cleanliness",
+                "lines",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "Lodge",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "Location",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms general",
+                "Rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms prices",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "Bar",
+                "great",
+                "great"
+            ],
+            [
+                "hotel design_features",
+                "Bar",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms quality",
+                "bathroom",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel design_features",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "lounge",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel quality",
+                "hotel",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "people",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "concierge",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "reception staff",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "Room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "hospitality",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "price",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks prices",
+                "winetasting",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "Location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "bathrooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "OMNI",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms cleanliness",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "room_amenities general",
+                "toiletries",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "bathrooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "hotel cleanliness",
+                "Moore Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel comfort",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "room_amenities quality",
+                "bathrobes",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "reception",
+                "great",
+                "great"
+            ],
+            [
+                "room_amenities general",
+                "Toiletries",
+                "great",
+                "great"
+            ],
+            [
+                "rooms quality",
+                "linensThe",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Watertown Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms prices",
+                "Price for room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "The Triton",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms cleanliness",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel design_features",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel design_features",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hilton Times Square",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Berchielli",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "facilities general",
+                "facilities",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "Langham Place",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "information desk",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "room_amenities general",
+                "amenities",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "room_amenities general",
+                "kitchen",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "bedroom",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "suite",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "Location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms miscellaneous",
+                "room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "Grand Hyatt",
+                "great",
+                "great"
+            ],
+            [
+                "hotel design_features",
+                "Grand Hyatt",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "beds",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "bedrooms",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hotel Casci",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "the Westin",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "room_amenities cleanliness",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms prices",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks prices",
+                "drinks in the bar",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "facilities general",
+                "elevator",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "Bathroom",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms design_features",
+                "Bathroom",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "IC",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "Breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "bathroom",
+                "bad",
+                "bad"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms cleanliness",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "The Coral Princess",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "room_amenities quality",
+                "towels",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "facilities general",
+                "pool",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "bar",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "Breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks style_options",
+                "Breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "room_amenities comfort",
+                "bed",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Chealsea Lodge",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "room_amenities general",
+                "AC",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel miscellaneous",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "concierge",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "place",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "facilities general",
+                "rooftop pool",
+                "ok",
+                "ok"
+            ],
+            [
+                "food_drinks prices",
+                "breakfast",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "facilities comfort",
+                "lounge",
+                "great",
+                "great"
+            ],
+            [
+                "facilities general",
+                "washers and dryers",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "facilities general",
+                "shuttle",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks prices",
+                "Breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "Breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "rooms",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms cleanliness",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "Staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "triple room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms cleanliness",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "Every single employee",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Aalders Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "stay",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Breezes",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "Service",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Alicia",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "South Pacific Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "room_amenities general",
+                "room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "facilities design_features",
+                "rooftop bar",
+                "great",
+                "great"
+            ],
+            [
+                "facilities design_features",
+                "restaurant",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "food",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "Jean",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "Joyce",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "rooms",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "employees",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "rooms",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "hotel comfort",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "rooms",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "facilities prices",
+                "computer",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Sheraton",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotels",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "Location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "facilities prices",
+                "free",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Benjamin",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel cleanliness",
+                "Castle Inn",
+                "great",
+                "great"
+            ],
+            [
+                "hotel comfort",
+                "Castle Inn",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "Castle Inn",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "Castle Inn",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel design_features",
+                "Hotel",
+                "great",
+                "great"
+            ],
+            [
+                "facilities general",
+                "Bar",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "Hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ],
+            [
+                "facilities design_features",
+                "restaurant",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "Location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms cleanliness",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel miscellaneous",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel quality",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel cleanliness",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "bad",
+                "bad"
+            ],
+            [
+                "hotel general",
+                "lobby",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel miscellaneous",
+                "Hotel",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "suite",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "room_amenities quality",
+                "lights/blinds",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms miscellaneous",
+                "bathroom",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "Location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Villa Capri",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "mojitos",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "dinner cruises",
+                "bad",
+                "bad"
+            ],
+            [
+                "food_drinks prices",
+                "dinner cruises",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms cleanliness",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "Everyone",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "room",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms cleanliness",
+                "room",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms design_features",
+                "room",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms general",
+                "room",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms prices",
+                "room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "Staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "people",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel design_features",
+                "Rydges World Square Hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "Rydges World Square Hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel comfort",
+                "Rydges World Square Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Four Season Mexico City",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "Hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "Hospitality",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "room_amenities general",
+                "white linens",
+                "great",
+                "great"
+            ],
+            [
+                "room_amenities cleanliness",
+                "white linens",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "bed",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ],
+            [
+                "facilities prices",
+                "parking",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel cleanliness",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Palomar",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "concierge",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "afternoon drinks",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks prices",
+                "breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks prices",
+                "afternoon drinks",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "Hotel Accademia",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms cleanliness",
+                "room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks style_options",
+                "breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "decor",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms prices",
+                "room",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms design_features",
+                "room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "price",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "food",
+                "great",
+                "great"
+            ],
+            [
+                "hotel design_features",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "facilities general",
+                "facilities",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "bar",
+                "great",
+                "great"
+            ],
+            [
+                "hotel cleanliness",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "hotel comfort",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "facilities general",
+                "beach",
+                "great",
+                "great"
+            ],
+            [
+                "facilities general",
+                "pool",
+                "great",
+                "great"
+            ],
+            [
+                "facilities general",
+                "swim up bar",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Bernini Palace",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "breakfast",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel miscellaneous",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "housekeeping",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms comfort",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "room_amenities general",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "accomodations",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "personnel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel design_features",
+                "Lobby",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "Breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "Location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "attendant",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "bedrooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "bathrooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "hotel design_features",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel quality",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "concierge",
+                "great",
+                "great"
+            ],
+            [
+                "room_amenities general",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "bar",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "wine",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Victoria 4",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "facilities prices",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "way in which the hotel handled this",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "buffet breakfast",
+                "ok",
+                "ok"
+            ],
+            [
+                "food_drinks quality",
+                "buffet breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "rooms cleanliness",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "room_amenities general",
+                "appointments",
+                "ok",
+                "ok"
+            ],
+            [
+                "rooms design_features",
+                "room",
+                "bad",
+                "bad"
+            ],
+            [
+                "room_amenities general",
+                "appointments",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "hotel quality",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "hotel prices",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms cleanliness",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "bathroom/dressing room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "Location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel miscellaneous",
+                "hotel",
+                "bad",
+                "bad"
+            ],
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "resort",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "service - staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "shower",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms prices",
+                "room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "Staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel prices",
+                "hotel",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel miscellaneous",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "facilities general",
+                "airport shuttle bus",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Starwood",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "NULL",
+                "bad",
+                "bad"
+            ],
+            [
+                "hotel prices",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "facilities general",
+                "lifts",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "beds",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "rooms cleanliness",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "bathroom",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "bathroom",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "Room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel quality",
+                "Aparthotel Silver",
+                "great",
+                "great"
+            ],
+            [
+                "hotel cleanliness",
+                "Aparthotel Silver",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "Aparthotel Silver",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "Aparthotel Silver",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "breakfasts",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks style_options",
+                "breakfasts",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks miscellaneous",
+                "afternoon tea",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks prices",
+                "breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks style_options",
+                "breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotels",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "facilities prices",
+                "huge umbrellas",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "room_amenities general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "room_amenities general",
+                "jacuzzi bathtubs",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "room_amenities quality",
+                "mattress",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "Security",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms quality",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms prices",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "rooms",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "Location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel design_features",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "breakfas",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel miscellaneous",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "Breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks prices",
+                "Breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "rooms prices",
+                "room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms cleanliness",
+                "Room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "Room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "room_amenities general",
+                "refrigerator",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel quality",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel comfort",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "Customer Service",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Marriott in San Juan",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "Hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "bathroom",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel design_features",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "rooms cleanliness",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hotel Saint Marie",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Sunroute Plaza",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "room_amenities quality",
+                "amenities",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel miscellaneous",
+                "security",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "hotel comfort",
+                "lobby",
+                "great",
+                "great"
+            ],
+            [
+                "hotel comfort",
+                "sitting area",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms cleanliness",
+                "Rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms cleanliness",
+                "bathroom",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "bathroom",
+                "bad",
+                "bad"
+            ],
+            [
+                "room_amenities general",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "bathroom",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "furniture",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "facilities general",
+                "elevator",
+                "bad",
+                "bad"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "facilities quality",
+                "free wifi",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms cleanliness",
+                "rooms",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms design_features",
+                "rooms",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "Value",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "management team",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "front desk",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "customer service",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "rooms",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Kapok",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "The Borgmann Villa",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks prices",
+                "breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "room service meals",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "Staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "buffet",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "food",
+                "great",
+                "great"
+            ],
+            [
+                "facilities general",
+                "pool",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms cleanliness",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel design_features",
+                "hotel",
+                "bad",
+                "bad"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "room_amenities general",
+                "room",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "Personell",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "reception staff",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "Room",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms cleanliness",
+                "Room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms cleanliness",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "pillows",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "bed",
+                "great",
+                "great"
+            ]
+        ]
+    ],
+    "all_preds": [
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "rooms",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms cleanliness",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "Rooms",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "Location",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms prices",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "cocktails",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "bathroom",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "hotel design_features",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel quality",
+                "hotel",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "people at the hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel miscellaneous",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location of this hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "night",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "concierge",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks prices",
+                "breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "reception staff",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "hospitality",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks prices",
+                "breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks prices",
+                "winetasting",
+                "great",
+                "great"
+            ],
+            [
+                "facilities prices",
+                "parking",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "Location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "bathrooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "OMNI",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms cleanliness",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "room_amenities general",
+                "toiletries",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "bathrooms",
+                "great",
+                "great"
+            ],
+            [
+                "room_amenities general",
+                "LCD tv's",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "hotel cleanliness",
+                "Moore Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel comfort",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "Room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "linens",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "Room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Watertown Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms prices",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "Triton",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms cleanliness",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel design_features",
+                "NULL",
+                "bad",
+                "bad"
+            ],
+            [
+                "facilities general",
+                "restrooms",
+                "bad",
+                "bad"
+            ],
+            [
+                "facilities general",
+                "gym",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel design_features",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hilton Times Square",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Berchielli",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "facilities general",
+                "facilities",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "information desk",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "room_amenities general",
+                "Room",
+                "great",
+                "great"
+            ],
+            [
+                "room_amenities general",
+                "Business Address",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "bedroom",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "suite",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "room_amenities general",
+                "cell phone reception",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Grand Hyatt",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "beds",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "bedrooms",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hotel Casci",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Westin",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel cleanliness",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms prices",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks prices",
+                "drinks in the bar",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "Bathroom",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms design_features",
+                "Bathroom",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "IC",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "Breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "breakfast",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms design_features",
+                "bathroom",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms cleanliness",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Coral Princess",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "facilities prices",
+                "hotel",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms comfort",
+                "towels",
+                "bad",
+                "bad"
+            ],
+            [
+                "facilities general",
+                "ice skating rink",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "Breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "bed",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "night's sleep",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Chealsea Lodge",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel miscellaneous",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks prices",
+                "breakfast",
+                "bad",
+                "bad"
+            ],
+            [
+                "facilities design_features",
+                "rooftop pool",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "lounge",
+                "great",
+                "great"
+            ],
+            [
+                "room_amenities general",
+                "dryer",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "washers",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "hotel shuttle",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks prices",
+                "Breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "Breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "rooms",
+                "bad",
+                "bad"
+            ],
+            [
+                "food_drinks prices",
+                "Porn channel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "Staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms cleanliness",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "triple room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "employee",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms availability",
+                "room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Aalders Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "bathroom",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Breezes",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "Service",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Alicia",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "South Pacific Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "food",
+                "great",
+                "great"
+            ],
+            [
+                "facilities general",
+                "rooftop bar",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "food",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "bad",
+                "bad"
+            ],
+            [
+                "service general",
+                "concierge",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms security",
+                "rooms",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "rooms",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "rooms",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "accomodating staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms general",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "facilities prices",
+                "computer",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Sheraton",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "Airport shuttle",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotels",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "Location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks prices",
+                "mini bar",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks prices",
+                "beer",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "coke",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Benjamin",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel cleanliness",
+                "Castle Inn",
+                "great",
+                "great"
+            ],
+            [
+                "hotel comfort",
+                "Castle Inn",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel design_features",
+                "Hotel",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "restaurant",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "Location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms cleanliness",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel quality",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel cleanliness",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "property",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "hotel design_features",
+                "building",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "bad",
+                "bad"
+            ],
+            [
+                "hotel lobby design_features",
+                "hotel lobby",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hotel",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "suite",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "bathroom",
+                "bad",
+                "bad"
+            ],
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "Location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "room_amenities general",
+                "black out blinds",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Villa Capri",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "mojitos",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks prices",
+                "dinner cruises",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms cleanliness",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "room",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms design_features",
+                "room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "Everyone",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "room",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms design_features",
+                "room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "Staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "QT Bartender",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "sunrise package",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel comfort",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "Rydges World Square Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Four Season Mexico City",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "Hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel prices",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms cleanliness",
+                "linens",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "white linens",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "bed",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "towels",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "bed",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "neighboorhood",
+                "great",
+                "great"
+            ],
+            [
+                "hotel prices",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel cleanliness",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Palomar",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks prices",
+                "breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "concierge",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks prices",
+                "afternoon drinks",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hotel Accademia",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "room_amenities cleanliness",
+                "glasses and cups",
+                "bad",
+                "bad"
+            ],
+            [
+                "room_amenities general",
+                "glasses",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel design_features",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel prices",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel prices",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel prices",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ],
+            [
+                "facilities general",
+                "facilities",
+                "great",
+                "great"
+            ],
+            [
+                "rooms cleanliness",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "food",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "facilities general",
+                "swim up bar",
+                "great",
+                "great"
+            ],
+            [
+                "facilities general",
+                "pool",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "beach",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Bernini Palace",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "breakfast",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotels",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "housekeeping",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Lobby",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "personnel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel comfort",
+                "accomodations",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "Breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms quality",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "Location",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "facilities general",
+                "swimming pool/ gym",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "attendant",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms quality",
+                "rooms",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "bathrooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "bedrooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "concierge",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "apt 2A",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "The Benjamin",
+                "great",
+                "great"
+            ],
+            [
+                "hotel comfort",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "wine",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Victoria 4",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "HOWARD JOHNSON",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "hotel",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "room",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "facilities prices",
+                "wireless internet",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "buffet breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel face-lift",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks prices",
+                "drinks",
+                "great",
+                "great"
+            ],
+            [
+                "hotel prices",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms cleanliness",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "bathroom/ dressing room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "Location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "resort",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "shower",
+                "great",
+                "great"
+            ],
+            [
+                "rooms quality",
+                "water",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms prices",
+                "room",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "valet service",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "Staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel prices",
+                "hotel",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Starwood",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "facilities general",
+                "lifts",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "beds",
+                "great",
+                "great"
+            ],
+            [
+                "rooms cleanliness",
+                "beds",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "bathroom",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "Room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel quality",
+                "Aparthotel Silver",
+                "great",
+                "great"
+            ],
+            [
+                "hotel cleanliness",
+                "Aparthotel Silver",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "Aparthotel Silver",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "breakfasts",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks style_options",
+                "breakfasts",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "afternoon tea",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotels",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "facilities prices",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ],
+            [
+                "hotel prices",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "baths",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "mattress",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel security",
+                "Security",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "bad",
+                "bad"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "Location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel design_features",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel design_features",
+                "lobby",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "front desk area",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "Hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks prices",
+                "Breakfast",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "Breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms cleanliness",
+                "Room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "Room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "room_amenities general",
+                "refrigerator",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel comfort",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Ramada",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Marriott",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "Hotel Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "bathroom",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel design_features",
+                "NULL",
+                "bad",
+                "bad"
+            ],
+            [
+                "hotel design_features",
+                "NULL",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "rooms cleanliness",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hotel Saint Marie",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Sunroute Plaza",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ],
+            [
+                "room_amenities general",
+                "modern amenities",
+                "great",
+                "great"
+            ],
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "everyone",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "sitting area",
+                "great",
+                "great"
+            ],
+            [
+                "hotel design_features",
+                "lobby",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms cleanliness",
+                "Rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "bathroom",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms cleanliness",
+                "bathroom",
+                "great",
+                "great"
+            ],
+            [
+                "room_amenities general",
+                "TV",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "bathroom",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "hotel miscellaneous",
+                "hotel",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "Location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "facilities prices",
+                "wifi",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms cleanliness",
+                "rooms",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "hotel prices",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "front desk/management team",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "management",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "customer service",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "bad",
+                "bad"
+            ],
+            [
+                "rooms general",
+                "rooms",
+                "ok",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "Kapok",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "location general",
+                "Borgmann Villa",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks prices",
+                "breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks prices",
+                "breakfast",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "room 3905",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "steaks",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "room service meals",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel prices",
+                "hotel",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "Staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food_drinks quality",
+                "24hr buffet",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "rooms",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "facilities general",
+                "pool area",
+                "great",
+                "great"
+            ],
+            [
+                "food_drinks quality",
+                "food",
+                "great",
+                "great"
+            ],
+            [
+                "rooms cleanliness",
+                "rooms",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel design_features",
+                "hotel",
+                "bad",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "rooms general",
+                "rooms",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "staff",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms comfort",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location general",
+                "location",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "service general",
+                "service",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "Personell",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "hotel",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms cleanliness",
+                "Room",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "reception staff",
+                "great",
+                "great"
+            ],
+            [
+                "rooms design_features",
+                "Room",
+                "bad",
+                "bad"
+            ],
+            [
+                "facilities prices",
+                "secure underground parking",
+                "great",
+                "great"
+            ],
+            [
+                "rooms general",
+                "Room",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ],
+            [
+                "service general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel general",
+                "NULL",
+                "great",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms design_features",
+                "room",
+                "great",
+                "great"
+            ],
+            [
+                "rooms comfort",
+                "bed",
+                "great",
+                "great"
+            ],
+            [
+                "rooms cleanliness",
+                "room",
+                "great",
+                "great"
+            ]
+        ]
+    ]
+}

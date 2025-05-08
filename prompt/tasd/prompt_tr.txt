@@ -1,0 +1,9 @@
+Aşağıdaki duygu öğeleri tanımına göre:  
+
+- 'Özne terimi', bir kullanıcının bir ürün veya hizmetin belirli bir özelliği, niteliği veya yönü hakkında görüş bildirdiği metindeki tam kelime veya ifadedir. Özne terimi, örtük bir özne için 'NULL' olabilir.  
+- 'Özne kategorisi', öznenin ait olduğu kategoriyi ifade eder ve mevcut kategoriler şunlardır: [[aspect_category]].  
+- 'Duygu kutuplaşması', bir ürün veya hizmetin belirli bir yönü veya özelliği hakkındaki görüşte ifade edilen olumlu, olumsuz veya tarafsız olma derecesini belirtir. Mevcut duygu kutuplaşmaları şunlardır: 'positive', 'negative' ve 'neutral'.  
+
+Aşağıdaki metinde, ilgili özne terimleri, özne kategorileri ve duygu kutuplaşmaları ile birlikte tüm duygu öğelerini şu formatta tanıyın: [('Özne terimi', 'Özne kategorisi', 'Duygu kutuplaşması'), ...].
+
+[[examples]]
