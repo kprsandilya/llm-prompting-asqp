@@ -109,6 +109,9 @@ def zero_shot(TASK, DATASET_NAME, DATASET_TYPE, LLM_BASE_MODEL, SEED, MODE, N_FE
     ## Load Eval Dataset
 
     dataset_test = dataloader.load_data(name=DATASET_NAME, data_type=DATASET_TYPE, target=TASK)
+
+    #Truncating the dataset_test for running purposes
+    dataset_test = dataset_test[:100]
     
     ## Unique Aspect Categories
 
@@ -183,7 +186,7 @@ def zero_shot(TASK, DATASET_NAME, DATASET_TYPE, LLM_BASE_MODEL, SEED, MODE, N_FE
                                       examples=few_shot_split_0,
                                       seed_examples=seed,
                                       input_example=example, shuffle_examples=SORT_EXAMPLES==False) # use False if specific order
-    
+
         correct_output = False   
         while correct_output == False:
             while True:
@@ -219,12 +222,12 @@ def zero_shot(TASK, DATASET_NAME, DATASET_TYPE, LLM_BASE_MODEL, SEED, MODE, N_FE
         print("########## ", idx, "\nText:", example["text"], "\nLabel:",prediction["pred_label"], "\nRegenerations:", prediction["invalid_precitions_label"])
         predictions.append(dict(prediction, **example))
 
-    dir_path = f"generations/zeroshot"
+    dir_path = f"generations/llm_test"
 
     # Create the directories if they don't exist
     os.makedirs(dir_path, exist_ok=True)
-
-    with open(f"{dir_path}/{TASK}_{DATASET_NAME}_{DATASET_TYPE}_{LLM_BASE_MODEL}_{SEED}_{MODE}_{N_FEW_SHOT}.json", 'w', encoding='utf-8') as json_file:
+    print("Number of predictions to write:", len(predictions))
+    with open(f"{dir_path}/{TASK}_{DATASET_NAME}_{DATASET_TYPE}_{LLM_BASE_MODEL.split(':')[0]}_{SEED}_{MODE}_{N_FEW_SHOT}.json", 'w', encoding='utf-8') as json_file:
         json.dump(predictions, json_file, ensure_ascii=False, indent=4)
         
         
@@ -238,12 +241,14 @@ def zero_shot(TASK, DATASET_NAME, DATASET_TYPE, LLM_BASE_MODEL, SEED, MODE, N_FE
 # seeds = [0, 1, 2, 3, 4]
 # modes = ["chain-of-thought", "plan-and-solve", "label"] # "label"
 
-seeds = [0, 1, 2, 3, 4]
-n_few_shot = [50, 10, 20, 30, 40, 0] # 0 fehlt noch
-datasets = ["rest16", "rest15", "hotels", "flightabsa", "coursera"]
-tasks = ["tasd", "asqp"]
+seeds = [0]
+n_few_shot = [50] # 0 fehlt noch
+datasets = ["rest16"]
+tasks = ["asqp"]
 dataset_types = ["test"]
-models = ["gemma3:4b", "gemma3:27b"]
+#Tried "deepseek-r1:latest" but it couldn't fit properly on my GPU
+#qwen3:4b does not output the aspectss as expected
+models = ["gemma3:4b", "cogito:3b", "gemma3n:e4b"]
 modes = ["label"] # "label"
 sort_examples = [False]
 
@@ -255,7 +260,7 @@ import subprocess
 
 for combination in combinations:
     fs,  dataset_name, task, dataset_type, model, mode, s_ex, seed = combination
-    file_path = f"generations/zeroshot/{task}_{dataset_name}_{dataset_type}_{model}_{seed}_{mode}_{fs}.json"
+    file_path = f"generations/llm_test/{task}_{dataset_name}_{dataset_type}_{model.split(':')[0]}_{seed}_{mode}_{fs}.json"
     # Prüfen, ob die Datei bereits existiert
     if not os.path.exists(file_path):
         time.sleep(2)
