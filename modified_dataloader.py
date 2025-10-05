@@ -146,7 +146,7 @@ class ModifiedDataLoader:
                             "id": f"{idx}_{name}_{d_path}",
                             "text": line.strip(),
                             "aspects": aspect_list,
-                            "tuple_list": [tuple(aspect) for aspect in aspects]
+                            "tuple_list": ["Placeholder", "Placeholder", "Placeholder", "Placeholder"]
                         })
                     print(f"No Aspects or Sentiments on Line")
                     continue
