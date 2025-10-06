@@ -104,7 +104,7 @@ def run_predictions(model_name):
                 "raw_text": line,
                 "pred_label": {},
                 "recommendation": "Failure",
-                "error": e
+                "error": str(e)
             }
             output_jsons.append(dict(prediction))
 
