@@ -150,6 +150,7 @@ class ModifiedDataLoader:
                         })
                     print(f"No Aspects or Sentiments on Line")
                     continue
+                    
         
         if cv:
             return self.random_cross_validation_split(data, seed)
