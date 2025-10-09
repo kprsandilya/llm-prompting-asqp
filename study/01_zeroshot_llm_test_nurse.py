@@ -119,6 +119,8 @@ def zero_shot(TASK, DATASET_NAME, DATASET_TYPE, LLM_BASE_MODEL, SEED, MODE, N_FE
     if DATASET_NAME == "gerest" and not("food general" in unique_aspect_categories):
         unique_aspect_categories += ["food general"]
 
+    print(unique_aspect_categories)
+
     ##########################
     #FORGO ALL CATEGORIES AND USE THESE TEMPORARILY
     unique_aspect_categories = ["Team Dynamics", "Workload & Staffing", "Equipment & Processes", "Leadership & Management"]
