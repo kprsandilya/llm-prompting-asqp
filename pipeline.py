@@ -169,10 +169,14 @@ class OllamaLLM(BaseChatModel):
         """
         return self
 
-# ---- Load data ----
+# Load Data excluding the assignments
 file_path = "datasets/asqp/nurse/test.txt"
-with open(file_path, "r", encoding='utf-8') as f:
-    lines_array = f.readlines()
+with open(file_path, "r", encoding="utf-8") as f:
+    lines_array = [
+        line.split("#", 1)[0].strip()   # take only text before '#'
+        for line in f.readlines()
+        if line.split("#", 1)[0].strip()  # keep only non-empty pre-# parts
+    ]
 
 def run_predictions(model_name):
     # Define Components for First Chain
