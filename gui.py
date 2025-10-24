@@ -205,9 +205,6 @@ def run_predictions(model_name):
         input_variables=["raw_input", "predicted_sentiments"],
     )
 
-    llm2 = OllamaLLM(model=model_name)
-    agent2_chain = prompt2 | llm2
-
     # Create a list to hold all prediction dicts
     records = []
 
@@ -400,7 +397,7 @@ clear_btn.grid(row=3, column=2, padx=10, pady=5)
 pending_tool_decision = None
 
 def query_manager_chat(user_input):
-    llm3 = OllamaLLM(model=model_type)  # reuse your existing Ollama model
+    llm3 = OllamaLLM(model=model_type)
     prompt = f"{chat_context}\nManager: {user_input}\nAssistant:"
     response = llm3._generate([{"role": "user", "content": prompt}])
     return unwrap_output(response)
